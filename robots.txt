@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maisvendidosdomes.com.br/sitemap.xml
