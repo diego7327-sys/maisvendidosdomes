@@ -1,0 +1,517 @@
+carro-baterias|1|486.39|281xYqX|963050-MLB118221154480_102026|Baterias|Bateria Automotiva Zetta 60ah 12v Original Moura 18 Meses Direito
+carro-baterias|2|410.72|2d2Vfyz|725306-MLB117846714764_102026|Baterias|Bateria Gt Power 60ah 12v 430 Cca 12 Meses Garantia Original Direito
+carro-baterias|3|599.99|1U79WKY|839217-MLB116209816622_092026|Baterias|Bateria Moura M60gd Gol Fox Onix Argo Palio Ka Cruze Spin C3 Direito
+carro-baterias|4|490|2bMMRmL|640789-MLB119427774618_112026|Baterias|Bateria Zetta 12v 60 Amperes Z60d - 18 Meses De Garantia Direito
+carro-baterias|5|468.54|1uGz4Gw|831239-MLB117502350316_102026|Baterias|Bateria Pioneiro 60ah 12v 430 Cca 12 Meses Garantia Original Direito
+carro-baterias|6|625.9|1W8PFYQ|781809-MLB117916754115_092026|Baterias|Bateria Heliar He60dd 60ah Original De Montadora Direito
+carro-baterias|7|675.85|2XTaXYB|853812-MLB116755945482_092026|Baterias|Bateria Moura M60gd 60ah 12v 460 Cca 24 Meses Original Direito
+carro-baterias|8|615|1HyiWga|733288-MLB121221751019_112026|Baterias|Bateria Moura 60 Amperes - Sem Devolução Da Sucata Direito
+carro-baterias|9|560.61|2MH71T5|629984-MLB116312203678_092026|Baterias|Bateria Moura M60ad Creta Fox Argo Golf C4 Clio Direito Hb20 Direito
+carro-baterias|10|457.51|14CNBCb|862193-MLB118788245695_102026|Baterias|Bateria Pioneiro 60ah 12v 430 Cca 12 Meses Garantia Original Direito
+carro-baterias|11|408|15N2fys|799347-MLB116853845250_092026|Baterias|Bateria Carro 60 Amperes Vw Gm Fiat Polo Direito 1 Ano Cral Direito
+carro-baterias|12|669.8|1gTpzRs|980435-MLB117873206653_092026|Baterias|Bateria Moura M60gd 60ah 12v Automotiva Original Direito
+carro-baterias|13|615|2WUEUhF|769112-MLB119436055828_112026|Baterias|Bateria Moura 12v 60 Amperes S/troca Do Casco Direito
+carro-baterias|14|589|1ANKKDZ|641964-MLB116173267932_092026|Baterias|Bateria Moura 50ah M50ed Gol Onix Hb20 Uno Palio Siena Spin Direito
+carro-baterias|15|540|1uU8VER|784839-MLB117111886236_102026|Baterias|Bateria Zetta 60ah Amperes Z60d S/troca Do Casco Direito
+carro-baterias|16|639|2EqnTnN|641823-MLB120443776668_112026|Baterias|Bateria Moura 60ah Fox Gol Onix Argo Palio Ka Cruze Spin C3 Direito
+carro-baterias|17|421.11|1H66jsM|880096-MLB120870538763_112026|Baterias|Bateria Onbat 60ah 12v 430 Cca 12 Meses Garantia Original Direito
+carro-baterias|18|660|2ctM2o4|783595-MLB115854786406_092026|Baterias|Bateria Moura M60gd Direito
+carro-carroceria|1|24.7|1WwsU5T|926677-MLB106351673141_022026|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+carro-carroceria|2|20.59|2mpqAXA|676509-MLB121816710039_112026|Carroceria|Clipe Fixação Carro 100pcs Painel Pára-lamas Rebite Plástico
+carro-carroceria|3|58.9|1gHBP57|770884-MLB115341299655_072026|Carroceria|Clipe Fixação Carro 800pcs Painel Pára-lamas Rebite Plástico
+carro-carroceria|4|19|2xsAbzV|939388-MLB113029207392_072026|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+carro-carroceria|5|20.94|1WYbm8h|949088-MLB98653111613_112025|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+carro-carroceria|6|35|11QFstf|641446-MLB109854026266_042026|Carroceria|Soleira De Porta Fibra De Carbono Protetora Preto Premium Corolla
+carro-carroceria|7|78.9|1xgNGRM|966656-MLB104683571477_012026|Carroceria|Retrovisor Saveiro Gol G3 G4 99 Ate 2012 C Controle 4 Portas
+carro-carroceria|8|98.91|2zgbMLZ|936934-MLB88355120086_072025|Carroceria|Par Retrovisor Corsa 1994 1995 96 97 98 99 00 01 02 Até 2016
+carro-carroceria|9|36.9|1j2VdPK|882498-MLB88651015258_072025|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+carro-carroceria|10|55.9|2YK95Ek|727043-MLB111648359443_052026|Carroceria|Retrovisor Corsa Classic Wind 94 95 96 97 98 99 2000 A 2014 Direito
+carro-carroceria|11|25.99|1WqUjf4|859166-MLB116665587723_082026|Carroceria|Kit 100 Presilhas Grampo Automotivos Para-choque Universal
+carro-carroceria|12|28.08|2qBtbK2|817546-MLB115453755222_082026|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Com Removedor
+carro-carroceria|13|20.69|2ZQnBfR|676677-MLB84683736436_052025|Carroceria|20 Grampo Presilha Forro Porta Gol Parati Saveiro 3098672991
+carro-carroceria|14|19.99|1x23NhA|821707-MLB110278523413_042026|Carroceria|Par Espelho Auxiliar Convexo Olho Boi Ponto Cego Universal
+carro-carroceria|15|35.51|1FpURsE|923149-MLB113911929105_062026|Carroceria|Soleira De Porta Fibra De Carbono Protetora Preto Premium Civic
+carro-carroceria|16|68.9|1jWL1Dx|690877-MLB116470246718_092026|Carroceria|Retrovisor Gol G2 Bola 96 97 98 99 00 Sem Controle 2 Portas
+carro-carroceria|17|19.19|1gf6yrS|709634-MLB108539233885_032026|Carroceria|Kit 2 Espelhos Convexos 360° Para Retrovisor Auxiliar
+carro-carroceria|18|37.99|2YTv89w|753867-MLB118810614327_102026|Carroceria|Lente Retrovisor Gol Voyage G6 Fox 2013 A 2017 Com Base
+carro-carroceria|19|24.9|18g1iLJ|717074-MLB117086225377_092026|Carroceria|Soleira Protetor Porta Fibra De Carbono Compatível Universal Fiat
+carro-climatizacao|1|19.91|15JUMEM|889331-MLB93490060177_092025|Climatização|Limpa Ar Condicionado Higienização Carro Novo Spray
+carro-climatizacao|2|52.24|2G5gt8o|852248-MLB117254015726_102026|Climatização|Ventilador Automotivo Duplo Com Ajuste Para Carro Caminhão 12v
+carro-climatizacao|3|749|1dxe5MV|668661-MLB95569780571_102025|Climatização|Compressor Scroll Cobalt Onix Prisma Spin Sonic 2013 A 2022
+carro-climatizacao|4|199|2Zxov1T|728792-MLB111458638483_052026|Climatização|Kit Recarga R134a 750g Ar Condicionado Automotivo Completo
+carro-climatizacao|5|668.48|1a2gXkZ|798819-MLB109838173798_042026|Climatização|Compressor Para Onix Cobalt Prisma Spin 2013 14 15 16 A 2022
+carro-climatizacao|6|164|1oCGMqX|620605-MLB92290880280_092025|Climatização|Garrafa Injetora Limpeza Sistema 141 Para De Ar Condicionado Amarelo
+carro-climatizacao|7|545.23|111AGUv|632382-MLB113650018190_072026|Climatização|Compressor Ar Calsonic Fiat Palio Uno Siena Strada Fire 5pk
+carro-climatizacao|8|260.13|1qZf5ck|878443-MLB106411915003_022026|Climatização|Condensador Do Ar Vw Polo, Fox, Gol G5 / G6 , Voyage G5 /g6
+carro-climatizacao|9|255.13|32fWPvz|779469-MLB113980450330_072026|Climatização|Condensador Ar Cond Onix Prisma Spin Cobalt 2013 Até 2016
+carro-climatizacao|10|3782|2M2L117|801182-MLB120368718247_102026|Climatização|Ar Condicionado Elétrico De Teto Caminhão 24v (inverter)
+carro-eletroventiladores|1|36.9|12f7iXP|967274-MLB110694313230_052026|Eletroventiladores|Ventilador Portátil Automotivo Carro Caminhão 12v 12v
+carro-eletroventiladores|2|96.26|25j6oLj|698336-MLB97547127305_112025|Eletroventiladores|Ventilador Automotivo Carro Van Caminhão Giratório Potente 12v
+carro-eletroventiladores|3|89|1hwfhAv|799585-MLB117472819601_092026|Eletroventiladores|Eletroventilador Universal 10 Polegadas 12v Soprante
+carro-eletroventiladores|4|37.79|1wdDqZ6|619746-MLB116306351691_082026|Eletroventiladores|Ventilador Automotivo Turbo Duplo P/carro Caminhao 12v
+carro-eletroventiladores|5|42.9|2LJ6i8r|723365-MLB110374406325_042026|Eletroventiladores|Ventilador Automotivo Duplo C Ajuste Carro Moto Caminhao 12v 12v Dc
+carro-eletroventiladores|6|39.6|1CvyVGp|760228-MLB110422353255_042026|Eletroventiladores|Defletor Acabamento Radiador Ap Gol Quadrado Voyage Saveiro
+carro-eletroventiladores|7|39.9|1bgFnRG|995552-MLB118790486643_102026|Eletroventiladores|Ventilador Automotivo Duplo Carro Caminhão 12v Ajustável 12v
+carro-eletroventiladores|8|30.82|1GgRrrP|652327-MLB78031924275_072024|Eletroventiladores|Resistência Eletroventil Radiador Fiat Palio Fire
+carro-eletroventiladores|9|85|1dwrw4D|799585-MLB117472819601_092026|Eletroventiladores|Eletroventilador Universal 10 Polegadas 12 Volts (soprante)
+carro-eletroventiladores|10|69.99|1WrRWge|979219-MLB86136360543_062025|Eletroventiladores|Resistencia Radiador Ventoinha Logan Sandero Duster 2014/...
+carro-eletroventiladores|11|73.39|2kF91Za|654328-MLB119655859283_102026|Eletroventiladores|Ventilador Automotivo 24v 8 Pol 20w Caminhão Carro Trailer 24
+carro-eletroventiladores|12|150.62|2XND7Ev|625894-MLB121699191991_112026|Eletroventiladores|Eletroventilador Universal 10 Polegadas Pás Reta 12v
+carro-eletroventiladores|13|154.42|2dEDSSQ|972428-MLB114821551836_082026|Eletroventiladores|Ventoinha Eletro Ventilador Gol/saveiro/voyage G5/g6/g7 C/ar
+carro-eletroventiladores|14|96.22|24dUH8m|929333-MLB84623045161_052025|Eletroventiladores|Motor Eletroventilador Ventoinha Universal 10 Polegadas 12v 12v
+carro-eletroventiladores|15|122.9|2uuzeB1|821270-MLB95937307559_102025|Eletroventiladores|Ventilador Carro Caminhão Van Ônibus Metal 8 Polegadas 12v
+carro-eletroventiladores|16|29.98|2sq7C9m|998743-MLB78304231140_082024|Eletroventiladores|Cebolão Interruptor De Ventoinha Do Radiador 75 / 70
+carro-eletroventiladores|17|223.9|2qkf3Su|877790-MLB78622153267_082024|Eletroventiladores|Ventoinha Eletro Ventilador Gol/saveiro/voyage G5/g6/g7 C/ar
+carro-eletroventiladores|18|94|2H18Yk5|667129-MLB121277890903_112026|Eletroventiladores|Eletro Ventilador Ventoinha Universal 10 Polegadas 12v Volts 10 Polegadas 12v
+carro-eletroventiladores|19|247.9|1kx64kc|653174-MLB109060608292_032026|Eletroventiladores|Eletroventilador Ventoinha Gol G2 G3 Parati Saveiro Sem Ar
+carro-escapamentos|1|52.99|2hjdHja|768183-MLB113553023465_062026|Escapamentos|Flexível Universal Escapamentos Malha Dupla 1.3/4 Polegadas
+carro-escapamentos|2|83.13|2Ur4x7d|947104-MLB91117469123_082025|Escapamentos|Escapamento Silencioso Traseiro Palio 1.0 1.3 1.4 8v 96/2014
+carro-escapamentos|3|92|2EoWgD9|938512-MLB118785893487_102026|Escapamentos|Escapamento Silencioso Traseiro Palio 1.0 1.3 1.4 8v 96/2014
+carro-escapamentos|4|438|18GgcQx|865547-MLB114541776512_082026|Escapamentos|Catalisador Chevrolet Spin 1.8 2012 A 2025 C/ Junta
+carro-escapamentos|5|81.72|13QyYxp|999086-MLB110081636717_042026|Escapamentos|Escapamento Silencioso Traseiro Celta 1.0 1.4 01 A 07 Orig
+carro-escapamentos|6|256|13PnCwV|817614-MLB94978269967_102025|Escapamentos|Escapamento Silencioso Gol G4 1.0 8v 2002 03 04 05 06 072008
+carro-escapamentos|7|57.62|2FT9UxD|618452-MLB116462780920_092026|Escapamentos|Cano Flexível Malha Dupla Punto Stilo Doblo - Universal
+carro-escapamentos|8|99.07|2WAzWF6|689330-MLB97234770757_112025|Escapamentos|Escapamento Silencioso Traseiro Celta 1.0 1.4 01 A 07 Orig
+carro-escapamentos|9|410.69|2nQiKWX|687386-MLB111041442911_042026|Escapamentos|Catalisador Hb20 1.0 2012 2013 2014 2015 2016 2017 2018 2019
+carro-escapamentos|10|408.58|17L8CjE|870019-MLB113104628673_062026|Escapamentos|Catalisador Vw Gol Voyage Saveiro Fox G5 G6 1.0 1.6
+carro-escapamentos|11|62.22|1otp4ef|696213-MLB107414844337_022026|Escapamentos|Abafador Intermediário Jk Universal 2 Som Esportivo Grave
+carro-escapamentos|12|136.18|29pma7K|649714-MLB114031138266_072026|Escapamentos|Silencioso Escapamento Traseiro Peugeot 206 E 207
+carro-escapamentos|13|509.99|24gcNoj|604281-MLB118316311918_102026|Escapamentos|Catalisador Fiat Siena 1.0 1.4 2010 A 2015 Inmetro C/ Junta
+carro-escapamentos|14|94|2ArayQo|917914-MLB75400381573_032024|Escapamentos|Silencioso Traseiro Corsa Hatch 94 À 2002 - Escapamento
+carro-escapamentos|15|370|2xqeq9y|619200-MLA112858842896_072026|Escapamentos|Catalisador Celta 1.0 8v 2005 Até 2014 Inmetro C/ Junta
+carro-escapamentos|16|226.59|1xZgqgu|945638-MLB113940956736_072026|Escapamentos|Kit Escapamento Silencioso Palio 1.0 1.4 1996 Á 2014
+carro-escapamentos|17|39.88|1SGqwZi|695684-MLB94343638549_102025|Escapamentos|Ponteira Escapamento Gol Parati Saveiro G2 G3 G4 G5 G6 Turbo
+carro-escapamentos|18|136|29e7Jti|681492-MLB73658968700_012024|Escapamentos|Silencioso Traseiro Fiesta 1.0 1.6 Ecosport 1.6 Saída Reta
+carro-escapamentos|19|407.99|18fycZM|780158-MLB119804890131_102026|Escapamentos|Catalisador Vw Gol 1.0 1.6 2009 A 2017 Inmetro C/ Junta
+carro-escapamentos|20|399.4|2oCTE36|764383-MLB94216217038_102025|Escapamentos|Catalisador Gol Voyage Saveiro Fox G5 G6 1.0 1.6
+carro-fechaduras-e-chaves|1|26.7|258WZPf|634686-MLB83440760137_032025|Fechaduras e Chaves|Chave C/ Bateria Onix Prisma Cobalt Cruze Spin 2012 A 2020
+carro-fechaduras-e-chaves|2|27.98|1jwzres|789739-MLB82788581099_022025|Fechaduras e Chaves|Chave Vw Canivete 3 Botões G6 Gol Golf Voyage Jetta Up Fox
+carro-fechaduras-e-chaves|3|27.98|2c1ZBce|686473-MLB85750146091_062025|Fechaduras e Chaves|Chave Canivete Vw Gol Fox Polo Jetta Bora Linha G5 Original
+carro-fechaduras-e-chaves|4|19.9|2SFuAwf|920585-MLB96794937418_112025|Fechaduras e Chaves|Kit 2 Bateria Cr2032 Panasonic Controle E Chave Canivete
+carro-fechaduras-e-chaves|5|70|2WmrBCu|944108-MLB48362208960_112021|Fechaduras e Chaves|Maçaneta Tampa Traseira S10 Com Moldura 1995 A 2011
+carro-fechaduras-e-chaves|6|25.99|2Utacz8|927689-MLB113759065265_062026|Fechaduras e Chaves|Chave Reposição Onix Prisma Cruze Cobalt Spin 2013 Até 2018
+carro-fechaduras-e-chaves|7|34.99|2G6VbW8|747983-MLB104758495251_012026|Fechaduras e Chaves|Kit4 Protetor Borracha De Fechadura Porta Carro Anti Impacto Preto
+carro-fechaduras-e-chaves|8|40.42|1FndyKb|925443-MLB87957899357_072025|Fechaduras e Chaves|Chave Canivete Onix Cruze Cobalt S10 Spin Sonic Prisma + Bat Modelo Novo 3 Botões
+carro-fechaduras-e-chaves|9|28.97|2zRiv88|623344-MLB96641161361_102025|Fechaduras e Chaves|Chave Canivete Ford Focus/ecosport 3 Botões 2013/2015
+carro-fechaduras-e-chaves|10|29.67|1kMJBJf|992463-MLB119001055009_102026|Fechaduras e Chaves|Chave Palio Grand Siena Uno Strada Punto Bravo 500 +bateria
+carro-fechaduras-e-chaves|11|23.98|11uoh6q|832609-MLB107800334153_022026|Fechaduras e Chaves|Chave Canivete Fiat Palio Uno Strada Siena 3 Botões
+carro-fechaduras-e-chaves|12|22.1|1skQvZJ|763928-MLB119045280536_112026|Fechaduras e Chaves|Chave Montana S10 Trailblazer Spin 2013 2014 2015 2016 2017
+carro-fechaduras-e-chaves|13|112.99|2MfDjPH|631243-MLB119211508151_102026|Fechaduras e Chaves|Fechadura Porta Dianteira Esquerda Gol Ou Saveiro G2 G3 G4
+carro-fechaduras-e-chaves|14|42.08|1fnjFQf|801742-MLB96967563226_112025|Fechaduras e Chaves|Chave Canivete Gm 3 Botões Onix Prisma Spin Cruze
+carro-fechaduras-e-chaves|15|37.24|1e6m7VX|871205-MLB95373853510_102025|Fechaduras e Chaves|Capa Ford Ka Oca 2014 2015 2016 2017 2018 2019 2020 2021 4b
+carro-fechaduras-e-chaves|16|29.9|1eHM1UB|893834-MLB115908053958_092026|Fechaduras e Chaves|Chave Canivete Onix Prisma Cobalt Cruze 2013a16 Phillips 3b
+carro-fechaduras-e-chaves|17|57.99|1bbw6eb|638810-MLB40894227088_022020|Fechaduras e Chaves|Kit Fechadura Batente Porta Malas Fiat Uno Mille 2004 A 2014
+carro-filtros|1|33.99|1os3ex7|727826-MLB100168414953_122025|Filtros|Filtro Cabine Ar Condicionado Original Bosch Hb20 2012-2024
+carro-filtros|2|59.9|1JB8PTQ|773053-MLA104341009324_012026|Filtros|Filtro Cabine Ar Condicionado Bosch + Spray Higienizador Onix 2019 A 2026
+carro-filtros|3|42.62|1aiVcxi|825407-MLB112068439289_052026|Filtros|Filtro Ar Condicionado Cabine De Carro + Spray Higienizador Gm Corsa 2002 A 2012
+carro-filtros|4|23.69|2njcdCt|907148-MLB118588122113_102026|Filtros|Filtro Cabine Ar Condicionado Bosch Original Hb20 2011 A 2027
+carro-filtros|5|37.09|2AjcC9r|990052-MLB103629498178_012026|Filtros|Filtro De Ar Condicionado Cabine Original Bosch Polo 2002 A 2026
+carro-filtros|6|287|28oeDPa|726694-MLA122326007353_112026|Filtros|Kit Troca De Oleo E Filtros Ford Ka New Fiesta Ecosport
+carro-filtros|7|24.99|2WmRZcY|675345-MLB80761658972_112024|Filtros|Filtro De Combustível Gol Virtus C3 208 Hb20 March Clio Mann
+carro-filtros|8|19.99|1b1vp87|665350-MLA110432599711_042026|Filtros|Filtro Combustivel Flex Universal Fiat Gm Honda Toyota
+carro-filtros|9|23.99|2nGcUhM|861224-MLB83625278401_042025|Filtros|Filtro Combustível Corsa Celta Onix Etios Toro Fit Uno Mann
+carro-filtros|10|178.94|1REeWYY|999375-MLB93467511613_092025|Filtros|Kit Troca Óleo + Filtros Palio Siena Strada 1.0 1.3 1.4 Fire
+carro-filtros|11|25.99|1Qu8gxS|615822-MLB118708706736_102026|Filtros|Filtro De Óleo Prisma Celta Montana Onix Astra Meriva Vectra
+carro-filtros|12|289.46|2krizXG|619461-MLB119487887170_112026|Filtros|Kit Óleo Filtro Ford Ka 2018/.. 1.0 E 1.5 - 4 Litros 5w20
+carro-filtros|13|284.99|16TZNem|994095-MLB117432990182_102026|Filtros|Kit Troca Óleo 5w30 Sintético Gm Onix Spin Cobalt Prisma 13/
+carro-filtros|14|276.44|1AR1885|743517-MLB115724449339_082026|Filtros|Kit Troca De Oleo 5w40 Gol Voyage Polo Fox Saveiro G5 G6 G7
+carro-filtros|15|46.95|1eHRf94|975322-MLB95369114849_102025|Filtros|Filtro Cabine Ar Condicionado Bosch + Spray Higienizador Argo Mobi Cronos
+carro-filtros|16|21.49|2yr4jMB|761498-MLB119500237539_102026|Filtros|Filtro Óleo Mahle Mitsubishi Lancer Outlander Pajero Tr4 Asx
+carro-filtros|17|26.99|2LEhNQR|886635-MLB93920040898_102025|Filtros|Filtro Óleo Motor Gol Fox Voyage Polo Kombi Golf Original Vw
+carro-filtros|18|24|2qHfB8A|658238-MLB105000516440_012026|Filtros|Filtro Combustível Gol G2 G3 Fox Kombi Parati Santana
+carro-filtros|19|25|2EhpYeV|744675-MLB85110447406_052025|Filtros|Filtro Combustível Corsa Celta Onix Etios Toro Fit Acdelco
+carro-filtros|20|233.99|2UqqRvh|934557-MLB108488280177_032026|Filtros|Kit Oleo 5w30 Motorcraft Filtro Fiesta Ka Focus Ecosport
+carro-freios|1|78.92|2Gyxobs|655175-MLB110548389557_042026|Freios|Pastilha De Freio Disco Semimetálicas Jogo Original Bosch Hb20 1.6 Dianteiro 2012 À 2022
+carro-freios|2|119.99|2a8g7x8|667710-MLB98274266604_112025|Freios|Pastilhas De Freio Bosch Semimetálicas Originais Carros Onix 1.0 Dianteira 2019-2025
+carro-freios|3|76|1azYEan|655708-MLB104378151695_012026|Freios|Jogo Pastilhas Freio Dianteiro Original Onix Prisma Cobalt
+carro-freios|4|33.82|1pvmBMm|790716-MLB108653056767_032026|Freios|Pastilha De Freio Dianteiro Syl Para Fiat Palio E Fiat Siena
+carro-freios|5|102.99|1QNRB6o|652675-MLB117201374777_092026|Freios|Pastilhas De Freio Bosch Semimetálicas Originais Carros Fiesta 1.0 1.3 Dianteira 1996-2014
+carro-freios|6|127.05|2ReaCdf|989165-MLB114893421182_082026|Freios|Jogo 4 Sensor Freio Abs Vw Polo 2017 2018 2019 2020 Original
+carro-freios|7|138.76|1wuKRu1|701861-MLB93180689237_092025|Freios|Pastilha Freio Dianteiro Bosch Fiat Toro Compass Renagade
+carro-freios|8|245|1HLroRL|965532-MLB84720109064_052025|Freios|Kit Pastilha Freio Dianteira Traseira Polo Vírtus Tsi Bosch
+carro-freios|9|22.9|2CwiFLs|951602-MLB117804617399_092026|Freios|Bucha Batente Sensor Pedal Freio Creta Ix35 Hb20 Tucson
+carro-freios|10|101.98|1CQQzxi|999957-MLB81349926416_122024|Freios|Kit Pastilha Freio Dianteiro Bosch Novo Polo Msi 1.6 2019
+carro-freios|11|56.3|2fgdU2T|813225-MLB82912623807_032025|Freios|Jogo Pastilha Original Corsa Classic Celta Prisma Tigra
+carro-freios|12|140.62|18SKECn|970563-MLB79342846650_092024|Freios|Cilindro Mestre Freio Gol G1 G2 G3 G4 Parati Saveiro C2000
+carro-freios|13|74.95|2xd8gBo|792715-MLB112398448823_052026|Freios|4 Sapata Lona Freio Corsa 97 98 99 00 01 02 03 04 05 06 07
+carro-freios|14|119.2|2ZsPENB|781502-MLB116980168991_082026|Freios|Kit 4 Sensor Freio Abs Volksvagem Vw Gol Voyage Original
+carro-freios|15|274|25GemMA|673919-MLB108117961415_032026|Freios|Pastilha Freio Dianteira Traseira Renegade Compass Commander
+carro-freios|16|116|2DqGNPG|940598-MLB113306897609_062026|Freios|Cilindro Mestre Freio Gol Parati Saveiro Voyage G1 G2 G3 G4
+carro-freios|17|89.9|2gHuizn|948141-MLB100162414849_122025|Freios|Pastilha Freio Novo Onix Turbo 2020 2021 2022
+carro-freios|18|166.36|1pJZavq|834545-MLB113034837486_072026|Freios|Cilindro Mestre Freio Fiat Palio Weekend Siena Strada Palio 1998 Até 2012 Palio Weekend 1998 Até 2012 Siena 1998 Até 2012 Strada 1999 Até 2012 Fiorino 1994 Até 2012
+carro-freios|19|116|1TmPjMx|711637-MLB97762020106_112025|Freios|Pastilha Dianteira Bosch Honda City Fit Wr-v Original
+carro-ignicao|1|106.99|1xLCAPV|668232-MLB122211679529_112026|Ignição|Kit Cabos E Velas Palio Idea Doblo Fiorino Punto Uno Fire Preto
+carro-ignicao|2|303|1DU52mG|811464-MLB118899303207_102026|Ignição|Motor Partida 11 Dentes Vw Gol Saveiro G5 G6 Fox Golf Voyage
+carro-ignicao|3|78.79|34i3ywp|681362-MLB84553402220_052025|Ignição|Jogo Velas Fox Gol Saveiro G4 G5 G6 G7 1.0 1.6 8v Flex Bosch
+carro-ignicao|4|295.8|1Y2wPP3|960602-MLB114747790508_082026|Ignição|Motor Partida Arranque 11 Dentes Gol Voyage G5 G6 Euro
+carro-ignicao|5|491.96|22NfEXU|882691-MLB115253934689_072026|Ignição|Motor De Partida Gol Fox Saveiro Atualizado 11 Dentes
+carro-ignicao|6|79.66|29CC6yH|678285-MLB92318308835_092025|Ignição|Cabos Para Velas Gol G4 E G5 1.0 Flex 8v 2005 A 2013 Ea11 Preto
+carro-ignicao|7|92.57|1nxnbkj|728791-MLB52994780339_122022|Ignição|Kit Cabos E Velas Palio Siena Uno Punto 1.0 1.4 8v Fire Flex Preto
+carro-ignicao|8|71.99|2xPhb8C|661546-MLB114856018351_072026|Ignição|Jogo Vela De Ignição Automotiva Motor Original Bosch Corolla 1.8 16v 2002 À 2008
+carro-ignicao|9|70.62|2sA1XLk|644491-MLB82117933010_022025|Ignição|Jogo Vela Ignição Fox Gol Golf Kombi 1.0 1.6 8v Ea111 Flex
+carro-ignicao|10|308.73|2ENd4bK|779199-MLB109499816827_032026|Ignição|Motor Partida Gol Saveiro G5 G6 Fox Golf Voyage 11 Dentes
+carro-ignicao|11|259.9|1xhNKrF|681212-MLB80822532381_112024|Ignição|Motor Partida Arranque Santana Gol Ap 1.6 1.8 2.0 20513 Novo
+carro-ignicao|12|67.59|1iVQxxh|896594-MLB96083639412_102025|Ignição|Jogo Vela Bosch Vectra 2.0 2.2 8v 98 99 2000 2001 2002 2003
+carro-ignicao|13|290.41|24vXsfP|926423-MLB118634465556_102026|Ignição|Motor Partida Gol/ Saveiro G5/g6 / Fox/ Golf/ Polo 11 Dentes
+carro-ignicao|14|295.64|2USgEWf|872279-MLB115053766471_072026|Ignição|Motor Partida Celta Corsa Montana Meriva Prisma 9dentes Novo
+carro-ignicao|15|103|1wV1pxx|812549-MLB111400068371_052026|Ignição|Jogo Kit Velas Ignição Ngk Vw Polo Fox Gol G4 G5 G6 1.0 1.6
+carro-ignicao|16|240|2MmE7VP|806034-MLA117690308036_102026|Ignição|Bobina Ignição Bosch Polo 2007 2008 2009 2010 2011
+carro-ignicao|17|39.5|219kdgs|650521-MLB89107342411_082025|Ignição|Resistor Pré Resistência Bobina Ignição Vw Gm Ford 1,5 Ohms Fusca Kombi Brasilía Corcel Opala Chevette Rural
+carro-ignicao|18|47.73|2fXsTvS|700388-MLB84000312605_042025|Ignição|Jogo 4 Velas Mm Palio Siena Weekend 1.0 1.3 1.4 8v 1996-2016
+carro-ignicao|19|121.99|2tLrAvn|855036-MLB98891646341_112025|Ignição|Kit Jogo Vela + Cabo Gol Voyage Saveiro G5 G6 1.0 1.6 Ea111
+carro-iluminacao|1|38.86|1G8WpR6|942056-MLB115303162708_082026|Iluminação|Par Lâmpadas H4 Farol Baixo E Alto Bosch Halogena 12v 60/55w
+carro-iluminacao|2|38.78|2YVGtUN|835691-MLB121505089579_112026|Iluminação|Kit Lampada Farol Alto E Baixo Na Mesma Lampada H4 T10
+carro-iluminacao|3|29.99|2kZgxuJ|956549-MLB120132940639_102026|Iluminação|Kit Lâmpadas Lanterna Traseira Seta Freio Ré Universal
+carro-iluminacao|4|39.99|2iHn9wa|938352-MLB95222271709_102025|Iluminação|Kit 6 Lâmpadas Super Branca 8500k Farol Baixo H7 Alto H1 T10
+carro-iluminacao|5|34.95|19EXrt3|887151-MLB93432627944_092025|Iluminação|Par Lâmpada Kit Super Branca H4 55w 8500k Farol Efeito Xenom
+carro-iluminacao|6|39.01|29vwJL2|886206-MLB107947317011_032026|Iluminação|Par Lâmpada H7 Bosch Pure Light 12v 55w Farol Original
+carro-iluminacao|7|26.94|2kZuoph|830772-MLB93335790986_092025|Iluminação|Par Lâmpada H7 Super Branca Luz Efeito Xenon Kit Farol Baixo
+carro-iluminacao|8|47.09|1izSY1y|630663-MLB115952734404_092026|Iluminação|Kit 4 Farol Milha 14 Leds 42w 12v/24v Redondo Off-road 6000k
+carro-iluminacao|9|38.9|1iZvpTY|992567-MLB118521596461_092026|Iluminação|Par Lâmpadas H4 Farol Baixo E Alto Bosch Halogena 12v 60/55w
+carro-iluminacao|10|37.99|27tHAFp|654263-MLB104143255259_012026|Iluminação|Par Lanterna Pisca Palio Siena Weekend Strada 96 97 98 99 00
+carro-iluminacao|11|47.73|1Sfj4iP|831519-MLB119174565268_112026|Iluminação|Kit Lampada Farol Alto Baixo E Lanterna Foco Duplo H1 H7 T10
+carro-iluminacao|12|33.94|1Xcj1T9|905641-MLB117715901415_092026|Iluminação|Kit 6 Lampada Super Branca 8500k Farol Baixo Alto H7 H1 T10
+carro-iluminacao|13|20.49|2XZVtJk|812751-MLB107038273138_022026|Iluminação|Par Kit 2 Lâmpadas Super Branca H3 Farol Milha Neblina 8500k
+carro-iluminacao|14|353.58|2KhUCrZ|824215-MLB92237388991_092025|Iluminação|Par Farol Celta 2007 A 2015 Prisma 2006 A 2012 Mascara Negra
+carro-iluminacao|15|36|2HNKrNx|797497-MLB117136468412_102026|Iluminação|2 Lâmpadas Farol Baixo E Alto H4 Bosch Halogena 12v
+carro-iluminacao|16|39.6|1p69XkJ|818978-MLB92205616267_092025|Iluminação|Kit Lâmpadas Super Branca H7 H1 T10 8500k Farol Foco Duplo
+carro-iluminacao|17|119.99|2D7jvTK|902218-MLB77377310055_072024|Iluminação|Par Lanterna Gol G4 2006 07 08 09 10 11 12 13 14 Fume Power
+carro-iluminacao|18|28.5|1ZedUsn|834554-MLB109599000078_042026|Iluminação|Par Lâmpada Super Branca 2x Farol Alto Baixo Milha Selecione H7
+carro-iluminacao|19|44.55|1XdRnNS|632512-MLB119015140585_102026|Iluminação|Kit Lampada Farol Alto E Baixo Na Mesma Lampada H4 T10
+carro-iluminacao|20|22.6|25jhThu|742345-MLA107882607068_032026|Iluminação|Par Lâmpadas 2 Polos 12v P21/5w 7528/1034 Osram Original
+carro-injecao|1|48.9|1SBRnVx|968123-MLB105823525051_012026|Injeção|Espaçador Sonda Lambda Prolongador Catalisador Apaga Luz
+carro-injecao|2|47.98|1Hjn7yi|691405-MLB96324109153_102025|Injeção|Espaçador Prolongador Sonda Lambda Catalisador Apaga Luz
+carro-injecao|3|44.9|2Ap5uhs|649648-MLB118205472129_092026|Injeção|Espaçador Sonda Lambda Mini Catalisador Luz Injeção Adptador
+carro-injecao|4|46.29|2ine2fX|773733-MLB114386613069_072026|Injeção|Espaçador Prolongador Sonda Lambda + Catalisador Apaga Luz
+carro-injecao|5|196.9|1xU9Rpw|948338-MLB116875028893_082026|Injeção|Kit 4 Bicos Injetores Fox Gol G4 G5 Voyage Iwp176
+carro-injecao|6|86.29|1VHA1gL|856616-MLB118176350705_092026|Injeção|Sensor Map Cg 160 Fan 2016 A 2025 Keihin Hibrido
+carro-injecao|7|197.9|2Ygmj8T|909948-MLB75529287238_042024|Injeção|Kit 4 Bico Injetor Fiat Meca Iwp065 Uno/palio/fiorino/siena
+carro-injecao|8|19.15|1YBmN3h|896284-MLB95487239799_102025|Injeção|Extensor Prolongador Adaptador Universal Sonda Lambda Longo
+carro-injecao|9|49.47|2mnVay9|706539-MLA110038023369_042026|Injeção|Espaçador Prolongador Sonda Lambda Com Catalisador Apaga Luz
+carro-injecao|10|39|1gfJH7H|601704-MLB116554680706_092026|Injeção|Espaçador Sonda Lambda Prolongador Catalisador Apaga Luz
+carro-injecao|11|20.36|2nQHAKd|622307-MLB78270922521_082024|Injeção|Engrenagem Do Tbi Do Ford Ká 3 Cilindros Original 2013 A 21
+carro-injecao|12|131.45|2m7WaJk|922045-MLB117746057558_102026|Injeção|Valvula Solenoide Canister Gm Original Onix Prisma Cobalt
+carro-injecao|13|185.95|2gyt3mo|793645-MLB120448228213_102026|Injeção|4 Bico Injetor Fiat Palio Siena Uno 1.0 1.3 1.5 Iwp065
+carro-injecao|14|104.09|1mqMZX1|723399-MLB84284968763_052025|Injeção|Sonda Lambda Otg 030906262r Gol G5 Fox 1.0 1.6 Flex
+carro-injecao|15|16.78|2nMUd9f|692253-MLB95473189549_102025|Injeção|Bypass Prolongador Da Sonda Lambda Universal Extensor Top
+carro-injecao|16|430.09|27i8VCc|782044-MLB119746177508_112026|Injeção|Corpo Borboleta Tbi Ford Ka 1.0 3cc 2014 A 2020
+carro-injecao|17|69.53|1ERMfab|818924-MLB105746222437_012026|Injeção|Atuador Marcha Lenta Mte-thomson Para Celta Corsa Classic
+carro-injecao|18|55.9|2S9HMVp|696955-MLB111700312537_052026|Injeção|Sensor Velocidade Astra Celta Classic Corsa Montana Vectra
+carro-injecao|19|41.2|1RnmdW4|955803-MLB121154142047_112026|Injeção|Sensor Map Tps Moto Cg Start 160 Fan 2016 A 2021
+carro-injecao|20|159.58|2HjWhZS|971694-MLB115446837684_082026|Injeção|Kit 4 Bico Injetor Fox 1.6 8v Flex 2010 2011 2012 2013 2014
+carro-janelas-e-vedacoes|1|118.01|1G95d7M|759910-MLB111196676855_052026|Janelas e Vedações|Máquina Vidro Manual Esquerda Dianteiro Gol 4 Portas G3 G4
+carro-janelas-e-vedacoes|2|68.9|2sthZxz|891393-MLB110167240159_042026|Janelas e Vedações|Centralina Modulo De Vidro Eletrico 2p Universal Com Rabicho
+carro-janelas-e-vedacoes|3|92.61|2jz84Hd|730316-MLB116132748647_082026|Janelas e Vedações|Módulo Vidro Elétrico Subida E Descida Tht Tsm2d
+carro-janelas-e-vedacoes|4|29.09|1oHAG99|787443-MLB83702642134_042025|Janelas e Vedações|Kit Reparo Maquina Vidro Eletrico Traseira Astra Serve Na Máquina De Vidro Traseira Esquerda Ou Direita 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 E 2011
+carro-janelas-e-vedacoes|5|132.09|2cNfZBy|655891-MLB92230611900_092025|Janelas e Vedações|Modulo Subida Vidro Eletrico Quantum Qa 108 (lv108) 4 Portas
+carro-janelas-e-vedacoes|6|46.57|2EpbijD|919447-MLB115691273048_092026|Janelas e Vedações|Motor Elétrico Mabuchi 8 Dentes Cinza Preto
+carro-janelas-e-vedacoes|7|64.9|2D3vBJx|759552-MLB92894768026_092025|Janelas e Vedações|Motor Vd El. Mabuchi 12v 8d Esquerdo Fio Preto
+carro-janelas-e-vedacoes|8|113.74|1oVpo6E|953488-MLB116463033318_092026|Janelas e Vedações|Maquina De Vidro Elétrico Gol Voyage G5 G6 G7 4p Original
+carro-janelas-e-vedacoes|9|76.86|1AHZMxg|611066-MLB115954596618_092026|Janelas e Vedações|Módulo Central Vidro Elétrico Universal Aw52 Soft 2 Vidros
+carro-janelas-e-vedacoes|10|64.9|2tv8KMq|752089-MLB92700837094_092025|Janelas e Vedações|Motor Tipo Mabuchi 12v 8dentes Lado Direito Com Garantia
+carro-janelas-e-vedacoes|11|33.93|2KjoGQC|666489-MLB82534246036_032025|Janelas e Vedações|Kit Reparo Máquina Elétrico I30 C/arraste Dianteiro Esquerdo Hyundai I30 Ano: 2009, 2010, 2011, 2012 Lado Esquerdo
+carro-janelas-e-vedacoes|12|125|2NcPGJc|602277-MLB111197888863_052026|Janelas e Vedações|Máquina Vidro Manual Direita Dianteira Gol 4 Portas G3 G4
+carro-janelas-e-vedacoes|13|68.9|2TTd18p|693253-MLB44078634430_112020|Janelas e Vedações|Modulo Universal Para Vidro Eletrico 2 Ou 4 Portas Dianteira
+carro-janelas-e-vedacoes|14|30.22|1aHhQZB|941280-MLB109452787647_032026|Janelas e Vedações|Kit Cabo Aço Maquina Vidro Eletrico Gol Voyage G5 G6 Diantei
+carro-janelas-e-vedacoes|15|74.9|1GGVYBK|796922-MLB45198963626_032021|Janelas e Vedações|Maquina Vidro Eletrico Fiorino Uno 4 Portas Diant Esquerda
+carro-janelas-e-vedacoes|16|72.9|13nCBfm|630218-MLB73521499305_122023|Janelas e Vedações|Módulo De Vidro Resistível Sensorizado Tsm2dbe Tht 16 Vias
+carro-janelas-e-vedacoes|17|98.9|2sUjXJ3|619192-MLB116183668673_082026|Janelas e Vedações|Módulo Vidro Elétrico Dianteiro Subida E Descida Tht Tsm2dbe
+carro-janelas-e-vedacoes|18|45|1LMew5t|606088-MLB83525581628_042025|Janelas e Vedações|Kit Cabo Da Maquina De Vidro Do Golf Elétrico Dianteiro
+carro-janelas-e-vedacoes|19|109.9|1gGd49u|720222-MLB31051247219_062019|Janelas e Vedações|Maquina Vidro Eletrico Gol Special 4 Pts Dianteira Esquerda
+carro-motor|1|83.18|2KhNEKg|950889-MLB112805077845_062026|Motor|Refil De Bomba De Combustível Flex Euro Para Sistema Bosch
+carro-motor|2|55|1S5Mhtf|992523-MLB111722912788_062026|Motor|Kit Bomba Combustível Universal Gasolina Para Sistema Bosch
+carro-motor|3|109.9|2L6X5uF|743471-MLB122307907371_112026|Motor|Kit Correia Dentada + Tensor Original Vw Gol G3 G4 G5 G6 1.0
+carro-motor|4|71.97|2g2ewG4|887034-MLB103225684174_012026|Motor|Reservatório Agua Vw Gol Voyage G5 G6 G7 Saveiro Com Tampa
+carro-motor|5|92.05|2Bn368J|890656-MLB119102177594_112026|Motor|Kit Correia Dentada + Tensor Para Corsa Celta Agile Meriva
+carro-motor|6|33.19|1i21R4z|676919-MLB76032367391_042024|Motor|Tampa Reservatório De Água Original Agile Celta Corsa Vectra
+carro-motor|7|150.97|1SZDNRZ|794268-MLB116272546364_092026|Motor|Radiador Fiat Idea Palio Siena Strada Fire 2002-2016 Fire
+carro-motor|8|23.9|21dmMop|868055-MLB99040528264_112025|Motor|Junta Tampa Válvula Original Gm Corsa Celta Prisma 90409594
+carro-motor|9|177|1T9b1qc|606554-MLB118913477361_102026|Motor|Cavalete Válvula Termostática Completa Aluminio Gol G5 Flex
+carro-motor|10|146.3|1LY2DZj|720057-MLB114499622421_072026|Motor|Cavalete Válvula Termostática Completa Aluminio Gol G5g6 Fox
+carro-motor|11|123.12|2gPc2GH|783459-MLB109865692346_042026|Motor|Kit Correia Dentada Original Gol Fox Polo Saveiro 1.0 1.6 8v
+carro-motor|12|41.9|2pFUDTV|715165-MLB111195946515_052026|Motor|Cebolinha Interruptor De Óleo Original Vw G5 G6 Fox Gol Up!
+carro-motor|13|119.9|1bZEYb2|943378-MLB120743070473_112026|Motor|Kit Correia Dentada Onix Prisma 1.0 1.4 Spin 1.8 8v Gm Mt 8v
+carro-motor|14|39.69|1bsagv3|901306-MLB111365220600_052026|Motor|Cola Silicone Preta Motor Alta Temperatura Elring Driko
+carro-motor|15|24.99|1XquRrx|858037-MLB104363580613_012026|Motor|Tampa Reservatório Palio Strada Fire Original Fiat 1.4 Bar
+carro-motor|16|36.19|27TRzrQ|609642-MLB114246421290_082026|Motor|Tampa Radiador New Civic City Fit Pressão De 1.1 Bar
+carro-motor|17|33.15|1d88nit|829632-MLB120098071096_112026|Motor|Tampa Reservatório Arrefecimento Para Peugeot E Citroen
+carro-motor|18|89.97|1WXHqvQ|861135-MLB121477660623_112026|Motor|Kit Refil Bomba De Combustível Flex Sistema Bosch Completo
+carro-motor|19|78.9|2Ki9fPj|747184-MLB118056468963_092026|Motor|Reservatório De Água Radiador Gm Onix Spin Cobalt Prisma
+carro-motor|20|28.4|26L9fSH|853290-MLB114610983641_072026|Motor|Tampa Reservatorio Onix Spin Cobalt Cruze Tracker S10 Prisma
+carro-pecas-de-exterior|1|22.9|1hr14bm|982212-MLB116514165860_092026|Peças de Exterior|Par Palheta Limpador Para-brisa Silicone Escolha Seu Tamanho Selecione O Tamanho A Cima 22/18 Polegadas
+carro-pecas-de-exterior|2|26.32|2BK1hP3|900654-MLB93648509989_092025|Peças de Exterior|Kit Limpador 2 Palheta Para-brisa Original Silicone Gancho Fiat Palio Fire 1996 Á 2017
+carro-pecas-de-exterior|3|78.99|1K9myGN|873694-MLB114011864921_072026|Peças de Exterior|Limpador De Para Brisa Dianteiro Palheta Original Bosch Par
+carro-pecas-de-exterior|4|78.99|1aCH5Lm|854027-MLB103729253921_012026|Peças de Exterior|Par Limpador Parabrisa Palheta Paleta Dianteiro Bosch Chevrole. Onix / Prisma 2013 À 2018
+carro-pecas-de-exterior|5|99.9|2fFigdR|965838-MLB110040864578_042026|Peças de Exterior|Limpador Para-brisa Paleta Original Bosch Aerofit Preto Ka 2014 A 2021
+carro-pecas-de-exterior|6|112.23|1pP51xj|976773-MLB120236643589_102026|Peças de Exterior|Palhetas Limpador Parabrisa Bosch Aerofit + Traseira Import Kit Diant Bosch E Tras Vto Onix 2013 A 2018
+carro-pecas-de-exterior|7|28.9|1iUoXaV|922314-MLB117709167887_092026|Peças de Exterior|Borracha Fita De Vedação 10m Anti Ruido, Sugeiras, Agua
+carro-pecas-de-exterior|8|33.5|2LQuH7q|746746-MLB113523995445_062026|Peças de Exterior|Palheta Limpador Para-brisa Silicone Carro Encaixe Gancho Preto Gol G3 G4 1999 A 2012
+carro-pecas-de-exterior|9|24.9|1muzU79|888846-MLB108720090382_032026|Peças de Exterior|Jogo Palhetas Limpador Parabrisa Original Gancho Universal Gm Celta 2000 Até 2016
+carro-pecas-de-exterior|10|94.05|2KLgKyV|872869-MLB119546171032_112026|Peças de Exterior|Par Borracha Pingadeira + Friso De Teto Gol G3 G4 4 Portas
+carro-pecas-de-exterior|11|51.03|17yLWdh|794001-MLB117666579644_102026|Peças de Exterior|20m Borracha Fita De Vedação Anti Ruido, Sugeiras, Agua
+carro-pecas-de-exterior|12|46.12|24wpi7d|749777-MLB82246646552_022025|Peças de Exterior|Par Amortecedor Porta Mala Traseiro Palio 96 97 98 99 A 16
+carro-pecas-de-exterior|13|139.9|29rRTtc|806597-MLB110514741591_042026|Peças de Exterior|Limpador Para-brisa Palheta Original Bosch Loja Oficial Preto Hb20 2020 A 2026
+carro-pecas-de-exterior|14|78.99|2GUGFmr|634348-MLB116378589392_092026|Peças de Exterior|Palheta Limpador Parabrisa Original Bosch Aerofit Gancho Palheta Bosch Hyundai Creta - Ano 2021 A 2024
+carro-pecas-de-exterior|15|25.72|15aGU2E|700710-MLB118021478348_102026|Peças de Exterior|Borracha Vedação Porta Carro 10m Fita Adesiva Anti Ruído
+carro-pecas-de-exterior|16|136.88|2Sjywh7|763270-MLB85614102902_062025|Peças de Exterior|Motor Limpador Parabrisa Uno Fiorino Elba Premio 1990 A 2012
+carro-pecas-de-interior|1|32.04|2pniL4C|859048-MLB81826826654_012025|Peças de Interior|Manopla Bola Cambio Marcha Onix 2017 2018 2019 2020 Preta
+carro-pecas-de-interior|2|24.09|2SoefVh|850873-MLB78354135316_082024|Peças de Interior|Botão Duplo Vidro Elétrico Gol G5 G6 G7 Fox Voyage Saveiro
+carro-pecas-de-interior|3|19.99|2AATpsG|845803-MLB89829160789_082025|Peças de Interior|2 Suporte Quebra Sol Corsa Celta Corsa Classic Prisma 94/16
+carro-pecas-de-interior|4|44.76|2qAbmft|820233-MLB88880989702_082025|Peças de Interior|Manopla Bola Cambio Para Ford Ka Hatch Sedan 2013 2014 2018
+carro-pecas-de-interior|5|17.99|2kUcZ2G|678436-MLB108744448528_032026|Peças de Interior|Par Suporte Quebra Sol Palio Economy Siena Strada Original
+carro-pecas-de-interior|6|35.99|1b1JUzc|673535-MLB114819771452_082026|Peças de Interior|Coifa E Bola Cambio Corsa Wind 93 94 95 96 97 98 99 00 01 02
+carro-pecas-de-interior|7|36.44|1eBnVY3|703804-MLB84363216208_052025|Peças de Interior|Kit Manopla Bola Cambio Coifa Celta 2001 2002 2003 Até 2016
+carro-pecas-de-interior|8|30.54|2zaBSqB|900095-MLB82172800136_022025|Peças de Interior|Manopla Bola De Cambio Marcha Preta Onix 2013 2014 2015 2016
+carro-pecas-de-interior|9|72.55|28jYcC3|948416-MLB118596908061_102026|Peças de Interior|Kit 4 Difusor Saida Ar Gol Voyage G4 G5 G6 Botão E Aro Prata
+carro-pecas-de-interior|10|48.9|2NMtAFR|674913-MLB91543139212_092025|Peças de Interior|Botao E Moldura Puxador Vidro Gol G5 G6 G7 Modelo Original
+carro-pecas-de-interior|11|26.99|1yVbYUw|601631-MLB94051917684_102025|Peças de Interior|Bola Manopla De Cambio Renault Logan Sandero 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 Stepway Megane
+carro-pecas-de-interior|12|43.98|14dEdD8|929416-MLB119014121151_102026|Peças de Interior|Coifa Cambio Hb20 Hb20s 2012 2013 14 2015 2016 17 2018 2019 1.0
+carro-pecas-de-interior|13|39.18|1Qw4GT3|908256-MLB97583715763_112025|Peças de Interior|Kit Com 4 Difusor Ar Painel Celta Prisma 2007 A 2016 - Preto
+carro-pecas-de-interior|14|19|1FNYKfG|878403-MLB116272423732_092026|Peças de Interior|Par De Manopla Reguladora Do Banco Celta Prisma 2001 A 2016
+carro-pecas-de-interior|15|74.9|27nUYMz|702546-MLB89087093473_072025|Peças de Interior|Quebra Sol Onix 2012 Á 2025 Lado Esquerdo Com Espelho
+carro-pecas-de-interior|16|161.67|1mhRS6j|818688-MLB88794656836_082025|Peças de Interior|Chave Seta Ecosport Fiesta Ka 2003 2004 2005 2006 2007 2008
+carro-pecas-de-interior|17|63.9|1EfK5KN|943955-MLB120061648480_112026|Peças de Interior|Kit 4 Difusor Saida Ar Fiat Novo Uno Vivace Way Attractive
+carro-pecas-de-interior|18|26.09|22GCCi6|939700-MLB116990166378_102026|Peças de Interior|Manopla Bola Cambio 6 Marcha Onix Prisma Cobalt 2015 A 2020 Preto
+carro-seguranca|1|45.99|1cMGNGA|840343-MLB98410340248_112025|Segurança|2 Fecho Fêmea Cinto De Segurança Haste Rígida Curvada 15cm
+carro-seguranca|2|47.21|2puJpGi|718580-MLB121826829105_112026|Segurança|Cinta Airbag Buzina Toyota Corolla Hilux Hilux Sw4 Etios Preto
+carro-seguranca|3|55.09|23us5rU|939572-MLB92888151315_092025|Segurança|Kit Cinto De Seg Retrátil 3 Pontas Santana Parati Siena
+carro-seguranca|4|32.9|1iiFRdx|651923-MLB115578071371_082026|Segurança|Anula Alarme Aviso Cinto Segurança Carro Beep Sonoro Bip 1un Preto
+carro-seguranca|5|37.7|2vEg5cP|964165-MLB96069664198_102025|Segurança|Extensor Curto Cinto Segurança Par 2un Fivela Trava Anti Som
+carro-seguranca|6|86.38|15H1ZCx|773389-MLB89114669222_082025|Segurança|Cinto De Segurança Retrátil 3 Pontas Modelo Universal Dialp
+carro-seguranca|7|20.9|2ShFU2V|788761-MLB72668167008_112023|Segurança|Cinto De Segurança 2 Pontos Transversal Veicular Universal
+carro-seguranca|8|75.19|1YZNXAj|645597-MLB116058896820_092026|Segurança|Cinto De Segurança Três Pontos Retrátil Universal
+carro-seguranca|9|30|1RTJ8h7|792683-MLB51885485737_102022|Segurança|Cinto De Segurança Cinza Adbominal Transversal Universal V
+carro-seguranca|10|30.99|2pjK3gq|860101-MLB87870480473_072025|Segurança|Par Fivela Lingueta De Cinto Trava Anti Bip Som Gm Chevrolet
+carro-seguranca|11|176.19|2kY1oSP|646999-MLB110164866822_042026|Segurança|Cinto Segurança Retrátil 3 Pontas Par Dianteiro Universal
+carro-seguranca|12|17|2og9DFN|630133-MLB104146592228_012026|Segurança|Par De Fivelas Cinto De Segurança Anti Beep Som Gm
+carro-seguranca|13|133.91|1WLkYSE|779044-MLB91752231828_092025|Segurança|Kit Cinto De Segurança P/ Fusca - Marrom - 5 Peças
+carro-seguranca|14|28.7|1AQuZ2x|700486-MLB73471406528_122023|Segurança|Par Fivela Cinto Segurança Anti Som Trava Alarme Universal
+carro-seguranca|15|32.9|28YzXPU|860476-MLB115580777249_082026|Segurança|Extensor E Anulador Sensor Sonoro De Cinto Segurança Curto 1un Preto
+carro-seguranca|16|43|1HM5igo|703069-MLB118073108151_092026|Segurança|Kit 2 Trava De Cinto Segurança 22mm Corsa Fecho Haste Rígida
+carro-seguranca|17|164.29|2RvTAKx|902030-MLB113350739258_072026|Segurança|Par Cinto Segurança Retrátil 3 Pontos E Fêmea Fita Universal
+carro-seguranca|18|69.09|1tc3LdZ|653365-MLB119850738165_102026|Segurança|Par Fecho Haste Cinto Segurança Corsa Celta Lingueta 25mm
+carro-seguranca|19|108.29|18wMgrp|964763-MLB91994034534_092025|Segurança|Par Cinto De Segu Retrátil 3 Pontas + Hast Ônibus Golf Fiat
+carro-seguranca|20|56.05|2j13Lpj|810115-MLB111037527807_042026|Segurança|Cinto De Segurança Bebê Conforto Universal Homologado Dialp Preto
+carro-sistema-eletrico|1|29.99|1u9Jwic|914638-MLB86109438797_062025|Sistema Elétrico|Kit 2pçs Conector Terminal Engate Rápido Trava Bateria Auto
+carro-sistema-eletrico|2|37.99|1hcNB67|817624-MLB96173184249_102025|Sistema Elétrico|Relé Duplo De Faróis 500w 12v Universal Super Reforçado
+carro-sistema-eletrico|3|26|116tfkt|813021-MLB115726225020_092026|Sistema Elétrico|Conector Terminal De Bateria Com Engate Rápido Polo Trava
+carro-sistema-eletrico|4|23.69|2LVFpMD|649552-MLB114593641083_072026|Sistema Elétrico|Relê Auxiliar 4 Pinos 12v Com Chicote E Porta Fusível Lamina
+carro-sistema-eletrico|5|27.93|2WR9B7K|602150-MLB120413631881_102026|Sistema Elétrico|Conector Terminal De Bateria Engate Rápido Trava Automotiva
+carro-sistema-eletrico|6|27.99|2SenoEy|937804-MLB117851135385_092026|Sistema Elétrico|2 Conector De Terminal Bateria Com Engate Rápido Polo Trava
+carro-sistema-eletrico|7|26.8|1XimMSo|994062-MLB120705188293_112026|Sistema Elétrico|Kit 2 Conectores Bateria Engate Rápido 12v 24v Positivo
+carro-sistema-eletrico|8|30.3|2KkCmW4|864085-MLB116499908079_082026|Sistema Elétrico|Conector Terminal Engate Rápido Trava Bateria Automotiva Par
+carro-sistema-eletrico|9|19|1WwMpet|901734-MLB88903434172_082025|Sistema Elétrico|Relê Auxiliar 4 Pinos 12v Com Chicote E Porta Fusível Lamina
+carro-sistema-eletrico|10|19.69|23rQuPr|702075-MLB119922772639_102026|Sistema Elétrico|Kit 2 Terminal Bateria Universal Sapão Reforçado Universal
+carro-sistema-eletrico|11|21.24|1XXu4SX|826097-MLB87123772532_072025|Sistema Elétrico|Par Do Conector Chicote Farol De Milha Lampadas H11 H27 H8
+carro-sistema-eletrico|12|21.99|2Q8QTeV|711453-MLB108165055644_032026|Sistema Elétrico|Par Do Conector Chicote Farol De Milha Lampadas H11 H27 H8
+carro-sistema-eletrico|13|23.34|1Ki5XcF|804685-MLB71213644092_082023|Sistema Elétrico|Conector Reforçado 4 Vias Fio 4,00mm Chicote Plug Caixa Som
+carro-sistema-eletrico|14|22.49|2ZKzjFq|682301-MLB112493584322_062026|Sistema Elétrico|Relê Auxiliar Automotivo 4 Pinos Universal 12v 40a + Chicote
+carro-sistema-eletrico|15|87.63|1sDq6HP|623910-MLB113817047121_062026|Sistema Elétrico|Par Circuito Soquete Lanterna Traseira Uno 84/04 C/ Chicote
+carro-sistema-eletrico|16|21.9|2odgM1H|923558-MLB98387142983_112025|Sistema Elétrico|Relê Auxiliar 4 Pinos 12v Com Chicote E Porta Fusível Lamina
+carro-sistema-eletrico|17|21.32|2CiqneM|696617-MLB100274014334_122025|Sistema Elétrico|Rele Pisca 3 T 12v S/ Suporte Para Palio Strada Uno Marea
+carro-sistema-eletrico|18|316.12|2wh21uK|891988-MLB119171830456_112026|Sistema Elétrico|Modulo Caixa Fusivel 207 307 C3 B5 B3 Bsm
+carro-sistema-eletrico|19|22.68|1Va2oAH|911071-MLB88714759096_072025|Sistema Elétrico|2 Chicote Soquete + Lâmpada 2 Polo Ré Freio Seta Conjugada
+carro-sistema-eletrico|20|36.95|1cWocT2|757666-MLB79242660958_092024|Sistema Elétrico|Par 2 Fusível Mini Diodo Para Sandero Logan Kwid Duster
+carro-suspensao-e-direcao|1|78.95|1y5fta5|918357-MLB93851898799_092025|Suspensão e Direção|2 Bieleta Original Nakata Vw Up Gol G5 G6 Saveiro Voyage Fox
+carro-suspensao-e-direcao|2|57.9|1kUTuHA|834615-MLB113397423977_062026|Suspensão e Direção|Par Encolhedor De Molas Suspensão Profissional Rosca 1/2 Pol
+carro-suspensao-e-direcao|3|63.09|23b3AQh|743615-MLB83639238883_042025|Suspensão e Direção|Kit Rolamentos P/ 2 Rodas Traseira Saveiro Parati Voyage Gol
+carro-suspensao-e-direcao|4|85.69|2N1acZU|690104-MLB116364266962_092026|Suspensão e Direção|Par Kit De Rolamento Roda Traseira Gol G1 G2 G3 Original Skf
+carro-suspensao-e-direcao|5|43.74|2aHLcJq|897473-MLB108254895057_032026|Suspensão e Direção|Rolamento Dianteiro Gol Fox Parati Monza Astra Ka Fiesta 8v
+carro-suspensao-e-direcao|6|27.7|1wtq7Ht|870010-MLB106754673630_022026|Suspensão e Direção|Par De Bucha Estabilizador Original Gol Fox Polo Saveiro Voyage 2009 A 2017
+carro-suspensao-e-direcao|7|67.35|1BoX9yM|986343-MLB95896069172_102025|Suspensão e Direção|Reservatorio Direcao Hidraulica Ford Fiesta 1.0 E 1.6 02/14
+carro-suspensao-e-direcao|8|39.97|2BNXRXs|701837-MLB106801768947_022026|Suspensão e Direção|Caixa Direção Cônica Cg 160 150 125 Titan Fan Start Cargo
+carro-suspensao-e-direcao|9|73|34hbMKt|842997-MLB113292054563_062026|Suspensão e Direção|Cubo Roda Traseiro Fiat Uno Todos Ano 1987 C/rolamento S/abs
+carro-suspensao-e-direcao|10|368.19|2MBbB3n|991795-MLB117933020868_102026|Suspensão e Direção|Jogo Molas Esportivas - Escolha Seu Modelo Gol Bola G2 G3 G4
+carro-suspensao-e-direcao|11|128.79|1LA8ZS7|951739-MLB110405096738_052026|Suspensão e Direção|2 Suportes Barra Tensora Morceguinho Corsa Celta Prisma
+carro-suspensao-e-direcao|12|66|1mLAQk2|625518-MLB97861651095_112025|Suspensão e Direção|Kit 4 Buchas Bandeja Balança Dianteira Fox Polo Space Cross
+carro-suspensao-e-direcao|13|45.81|2Ajo5Jv|907438-MLB118697470836_102026|Suspensão e Direção|Par Encolhedor De Mola Traseira E Dianteira Universal
+carro-suspensao-e-direcao|14|210|2ftUtGK|782688-MLB119019246779_102026|Suspensão e Direção|Kit Coxim Nakata Batente Dianteiro Onix Prisma Cobalt Spin
+carro-suspensao-e-direcao|15|78.13|2ZQLGDx|764680-MLB54858880353_042023|Suspensão e Direção|Par Suporte Barra Tensora Morceguinho Corsa Celta Prisma
+carro-suspensao-e-direcao|16|38|2QqE2gi|784424-MLB53263032636_012023|Suspensão e Direção|Encolhedor De Molas Universal Suspensão Dianteira E Traseira
+carro-suspensao-e-direcao|17|85.36|1Yqzc3p|691111-MLB72428110783_102023|Suspensão e Direção|Par Bieleta Dianteira Barra Estabilizadora 206 207 C3 Ds3
+carro-suspensao-e-direcao|18|84|2mGMUWM|755071-MLB52868911417_122022|Suspensão e Direção|Par Bieleta Dianteira Fiat Argo Cronos Pulse Original Cofap
+carro-transmissao|1|298.38|1FiJ8VK|621082-MLB111516682072_062026|Transmissão|Kit Embreagem Original Uno Vivace Way Motor Evo 1.0 1.4 8v
+carro-transmissao|2|89.99|2mnHdGX|725936-MLB102632936827_122025|Transmissão|Trambulador Engate Rápido Vw Ap Gol G1 G2 G3 G4 4/5 Marchas
+carro-transmissao|3|69.9|2T6Uj6B|719002-MLB116754433978_092026|Transmissão|Kit Reparo Bucha Alavanca Trambulador Marcha Corsa Celta
+carro-transmissao|4|398|1DYcJ3S|751326-MLB121602980925_112026|Transmissão|Kit Embreagem Saveiro G6 1.6 8v 2014 Completo Original Luk
+carro-transmissao|5|39.9|1WytJJu|707385-MLB81801299804_012025|Transmissão|Kit Reparo Bucha Trambulador Gol G1 G2 G3 G4 Câmbio 5 Marcha
+carro-transmissao|6|281.43|2QNWhPU|677859-MLB121148487267_112026|Transmissão|Kit Embreagem Gm Corsa Celta Prisma Ônix Agile 1.0 1.4
+carro-transmissao|7|325|1A8J4aq|994189-MLB31177987568_062019|Transmissão|Kit Embreagem Strada 1.4 8v Fire 2006 2007 2008 Original Luk
+carro-transmissao|8|135.44|2bnpGze|675241-MLB119470995185_102026|Transmissão|Kit Reparo Trambulador Alavanca Câmbio Celta 2006 2007 08
+carro-transmissao|9|34|14xYxu5|867649-MLB74134445936_012024|Transmissão|Kit Reparo Bucha Trambulador Gol G1 G2 G3 G4 Câmbio 5 Marcha
+carro-transmissao|10|501.21|2bnJM4h|610442-MLB51227554866_082022|Transmissão|Kit Embreagem Fiesta Zetec Rocam 1.0 1.6 De 2000 À 2013 Luk
+carro-transmissao|11|101.49|2FVJmcM|933710-MLB96762717764_112025|Transmissão|Reparo Alavanca Cambio Fox 2006 2007 2008 2009 2010
+carro-transmissao|12|158.9|2FaD51m|822799-MLB107259167257_022026|Transmissão|Cabo Câmbio Selecãoengate Marcha Corsa/celta 2005/2012/13/14
+carro-transmissao|13|19|2SQnMua|767660-MLB96762359504_112025|Transmissão|Pino Bucha Cabo Trambulador Gm Classic Celta Corsa Astra
+carro-transmissao|14|78.9|2r2XTLN|900408-MLB72877009795_112023|Transmissão|Kit Bucha + Hastes Do Trambulador Peugeot 206 1.4 / 1.6
+carro-transmissao|15|22.78|33KxG5r|783045-MLB84415611548_052025|Transmissão|Bucha Guia Alavanca Câmbio Golf Fox Bora A3 Gol Voyage G5 G6
+carro-transmissao|16|45.42|33N8RLF|619158-MLB118838855207_102026|Transmissão|Kit Reparo Alavanca De Marcha Astra 2006 A 2011 Celta 2006 A 2013 Classic 2010 A 2013 Corsa 2006 A 2012 Montana 2006 A 2010 Agile 2009 A 2016prisma 2007 A 2012 Vectra 2006 A 2011 Zafira 2006 A 2012
+carro-transmissao|17|30|1hXLrPR|944255-MLB89908623679_082025|Transmissão|Kit De Reparo Bucha Alavanca Câmbio Varão Astra Corsa Celta
+carro-transmissao|18|529.77|2Z8KWzF|602007-MLB114685397012_082026|Transmissão|Kit Embreagem Luk C/ Atuador Astra Vectra Cobalt Spin 8v
+moto-baterias|1|155.17|2R7CNei|690864-MLB115026539085_072026|Baterias|Bateria Moto Titan Fan Biz Bros Fazer 125 150 160 Mix Flex
+moto-baterias|2|177|2ZgGX4j|669652-MLB92294299148_092025|Baterias|Bateria Moura Ma5-d Para Moto Titan Fan Biz Bros Fazer Direito 12v
+moto-baterias|3|167.71|1wz79N4|711792-MLB114144219230_082026|Baterias|Bateria Moto Cg Titan Fan Biz Bros 125 150 160 5ah 12v Moura Direito
+moto-baterias|4|139.3|2BXZLQW|909403-MLA120347243217_102026|Baterias|Bateria Cral Moto Cg Titan Fan 160 Mix 150 Factor Biz Xre300 Direito
+moto-baterias|5|164.9|146SLtp|976945-MLB89761365354_082025|Baterias|Bateria Moto Titan Fan Biz Bros Fazer 125 150 160 Mix Flex- Direito
+moto-baterias|6|92.19|1DvJA9k|838395-MLB105343709051_012026|Baterias|Bateria Para Moto Titan Cg Biz Bros Fan 150 160 Crf Pcx Direito
+moto-baterias|7|172.34|1D1m28S|861433-MLB117915044326_102026|Baterias|Bateria Mbr 6ah 125150 Cg Titan Biz Nxr Bros Fan Xre300
+moto-baterias|8|166.59|23Dmov7|874815-MLB106701984220_022026|Baterias|Moura Moto 5ah Titan/biz/bros/fazer/xre 125 150
+moto-baterias|9|152|1LRaK3M|981911-MLB102983678007_122025|Baterias|Bateria Moura Titan Fan Biz Bros Fazer 125 150 160 Flex Xre
+moto-baterias|10|108.09|2mJb4BA|618385-MLB116813111285_082026|Baterias|Bateria Komotors Moto Cg 125/150 Biz Bros 6ah Todos Os Anos Direito
+moto-baterias|11|153.13|2rAAo8W|772894-MLB106754432965_022026|Baterias|Bateria Moto Moura Cg Titan Fan Biz Bros Xre 125 150 160 5ah Direito
+moto-baterias|12|159.99|1PdBHVS|656336-MLB90289578024_082025|Baterias|Bateria Moto Moura 5-d Cg125 Cargo/fan/titan160/today/pop100 Direito
+moto-baterias|13|357.29|1vamYZn|992096-MLB111578577152_062026|Baterias|Bateria Moto Bmw Mirage Comet F800gs F650gs Ytx14bs 12v 13ah Esquerdo
+moto-baterias|14|119.74|1XPi9JH|602174-MLB116373613028_092026|Baterias|Bateria Moto Honda Biz 100/ 125 5 Ns 12v 5ah
+moto-baterias|15|175.31|1BH5qoY|756201-MLB117609014427_092026|Baterias|Bateria Moto Moura Ma5-d 12v5ah Honda Cg Titan Fan Biz Bros Start 125 150 160 Xre 190 Crf 230 250 Scooter Pcx Elite Sh Yamaha Fazer Factor 125 150 Fz15 Ybr Scooter Fluo N-max 160 12v 5 Amper Amperes
+moto-baterias|16|180.4|22DMU25|611751-MLB96189934582_102025|Baterias|Bateria Moto Moura 6ah Original Fazer Cb250 Cb300 Direito
+moto-baterias|17|173.9|1aXEF31|916946-MLB119497697153_102026|Baterias|Bateria Moto Cral 7ah Cb300 Fazer Cbx 250 Falcon Lander Mt03 Direito
+moto-baterias|18|329.99|33KhS5d|717692-MLB112646983385_062026|Baterias|Bateria Moto Honda Cb 400 Cb 450 Cbr 450r Ytx14a-bs 12v 12ah Esquerdo
+moto-chassis|1|69.9|17j7ThE|832702-MLB80375675595_112024|Chassis|Kit Peso Pcx C/ Manopla Vazada + Guidão Cargo 160 2016/2022
+moto-chassis|2|105.56|2atrTUS|777272-MLB107962895035_032026|Chassis|Paralama Dianteiro Cg Titan Fan Start 150 160 2014 A 2026 Dianteiro Preto
+moto-chassis|3|327.99|2J31rWK|717275-MLB101662952393_122025|Chassis|Frente Titan 2025 Completa Cg Titan 160 Adaptada 2014 A 2024
+moto-chassis|4|29.6|2AGQr2y|987523-MLB111656703119_052026|Chassis|Suporte Placa Moto Mercosul Universal Protetor Moldura
+moto-chassis|5|85|1RUeZDT|722044-MLB119619763427_102026|Chassis|Par Amortecedor Traseiro Cg Titan Fan Start 150 160 2004/...
+moto-chassis|6|74.9|2fGB63m|871389-MLB113625529102_072026|Chassis|Guidão Cargo Com Pezinho Pcx Manopla Cargo C/ Roldana Cg Fan
+moto-chassis|7|40.89|1rRKfTp|959363-MLB85075698287_052025|Chassis|Punho Interruptor De Partida Pisca Alerta Cb500 Cg Titan 160
+moto-chassis|8|29.88|2cHcHze|833531-MLB95966328553_102025|Chassis|Manete Cromado Honda Cg Titan 160 Fan 150 125 Freio Disco Cromado
+moto-chassis|9|16.15|2tJBzuJ|827737-MLB116304191753_082026|Chassis|Suporte Protetor De Placa Moto Mercosul Plástico Preto
+moto-chassis|10|29.6|1tMb5t8|922866-MLB116510654270_092026|Chassis|Suporte Placa Moto Mercosul Universal Protetor Moldura Prateado
+moto-chassis|11|29.87|2zRpkf1|637599-MLB113553853659_062026|Chassis|Par De Peso Pezinho De Guidao De Moto Pcx 150 Aluminio+bucha Prateado
+moto-chassis|12|36|1bffMxZ|886489-MLB81219553730_122024|Chassis|Burrinho Freio Dianteiro Cb 300 / Cbx 250 / Titan 125/ 150 Preto
+moto-chassis|13|38.99|1qyXRwF|945538-MLB83947165602_042025|Chassis|Patim Lona Freio Cg Titan Fan 125 150 160 Std Trase/diante
+moto-chassis|14|43.9|2V9vCLs|995814-MLB81359921105_122024|Chassis|Guidão Cargo Cg Fan Titan 160 Cromado Com Peso Mod Original
+moto-chassis|15|29.9|1joGVjY|688353-MLB79149012012_092024|Chassis|Tampa Tanque C/ Chaves Cg 125 150 Fan Titan Bros Xre Twister
+moto-chassis|16|36.99|13kSbfR|632226-MLB105268372567_012026|Chassis|Kit Suporte Placa Moto Mercosul Reforçado +arruela Anodizada
+moto-chassis|17|67.83|1ccdx5u|870462-MLB115641116404_092026|Chassis|Kit Guidão Cargo 160 + Peso Pcx + Manopla Vazada 2016/2022 Cromado
+moto-chassis|18|75.49|1Wdkx66|676050-MLB109923436549_042026|Chassis|Punho De Partida Cb 500 + Punho De Luz Titan 160 Lampejador
+moto-chassis|19|20.9|1yVRCev|789587-MLB93395557844_092025|Chassis|Suporte Placa De Moto Mercosul Lacres Parafuso Protetor Moto
+moto-escapamentos-e-silenciosos|1|69.99|174BTQC|763381-MLB96531850497_102025|Escapamentos e Silenciosos|Protetor De Escapamento Start Fan Titan Cg 160 2016 A 2024
+moto-escapamentos-e-silenciosos|2|67.1|1rMkTD5|811608-MLB109967425627_042026|Escapamentos e Silenciosos|Protetor Escapamento Latinha Cb 250f Twister Cg160 2016/2024
+moto-escapamentos-e-silenciosos|3|129.3|1kEE7Am|971826-MLB113407206422_072026|Escapamentos e Silenciosos|Escapamento Titan 125 Fan 125 2000 A 2008 Cromoforte Power
+moto-escapamentos-e-silenciosos|4|69.99|1cowXC1|820836-MLB118272634074_102026|Escapamentos e Silenciosos|Protetor Escapamento Latinha Cb 250f Twister Cg160 2016/2024
+moto-escapamentos-e-silenciosos|5|175.09|1Q3iZMy|873560-MLB75818886359_042024|Escapamentos e Silenciosos|Ponteira Escapamento Modelo Original Cbx 250 Twister 01 A 08
+moto-escapamentos-e-silenciosos|6|85.47|1UkHGa9|751309-MLB118018954063_092026|Escapamentos e Silenciosos|Proteção Do Escapamento Cromada Titan/fan 160 2025/2026
+moto-escapamentos-e-silenciosos|7|47.09|2vtDQGQ|983478-MLB81189570499_122024|Escapamentos e Silenciosos|La Vidro Escapamento Para Moto Ponteira Escape Universal
+moto-escapamentos-e-silenciosos|8|789|142sVFW|715684-MLB117360592996_102026|Escapamentos e Silenciosos|Escapamento Grs Atomic Cg 160 2016/2026 Cromado
+moto-escapamentos-e-silenciosos|9|184.29|2fYtE7g|632991-MLB118812095270_102026|Escapamentos e Silenciosos|Escapamento Estralador Turuna Cg 160 Start Titan Fan
+moto-escapamentos-e-silenciosos|10|78.99|29w9Sif|615317-MLB113140620226_072026|Escapamentos e Silenciosos|Protetor Escape Escapamento Honda Cb 300r 2009 A 2015
+moto-escapamentos-e-silenciosos|11|130|2VdveBo|932436-MLB114251657535_072026|Escapamentos e Silenciosos|Escapamento Modelo Original B Biz 100 1998 A 2005 Cromado
+moto-escapamentos-e-silenciosos|12|59.99|2yRDRWM|746768-MLB109638843829_032026|Escapamentos e Silenciosos|Protetor De Escapamento Titan150 2004 À 2008 Fan125 2009/ 13
+moto-escapamentos-e-silenciosos|13|85.49|2tbCv3K|725571-MLB111894951307_052026|Escapamentos e Silenciosos|Protetor De Escapamento Cromado Cg Titan Fan 160 2016 A 2027
+moto-escapamentos-e-silenciosos|14|31.2|2zNyBoR|893679-MLB94154783066_102025|Escapamentos e Silenciosos|Abraçadeira Escape Guarnição Honda Tornado 250 Xre300 Cb300r
+moto-escapamentos-e-silenciosos|15|38.39|2hRVyR1|974223-MLB118215231686_102026|Escapamentos e Silenciosos|Lã Cerâmica P/ Abafar Escapamento Moto Superior Lã De Vidro
+moto-escapamentos-e-silenciosos|16|300.89|13ACPMW|985307-MLB119347356529_102026|Escapamentos e Silenciosos|Escapamento F1 Mini Tri Fortuna Titan/fan/start 160 2025 À 27
+moto-escapamentos-e-silenciosos|17|197.99|1dF3e1d|680636-MLB118075779905_092026|Escapamentos e Silenciosos|Escapamento Modelo Original 150 Cg Titan Esd 2004 A 2008
+moto-escapamentos-e-silenciosos|18|31.55|2XcU88L|886810-MLB116504148922_092026|Escapamentos e Silenciosos|Tampão Escapamento Moto Trilha Off Road 4 Tempos Lavagem Crf
+moto-escapamentos-e-silenciosos|19|180.59|17dt15s|604752-MLB117431159216_102026|Escapamentos e Silenciosos|Escape Escapamento Cg Titan 150 2005 A 2008 Modelo Original
+moto-espelhos-retrovisores|1|36.9|2KE2F1M|639147-MLB89380441925_082025|Espelhos Retrovisores|Retrovisor Kawasaki Z400 Rebaixado Haste Curta Média Honda
+moto-espelhos-retrovisores|2|36.34|26SMD1Q|769728-MLB116742262110_092026|Espelhos Retrovisores|Retrovisor Kawasaki Z400 Rebaixado Haste Curta Honda/convexa
+moto-espelhos-retrovisores|3|36.53|1x1ADx6|857556-MLB110186693848_052026|Espelhos Retrovisores|Retrovisor Bmw Gs F800 Rebaixado Haste Curta Média Honda Par Curta 90 Grau Rebaixado
+moto-espelhos-retrovisores|4|34.57|31qtz4b|871938-MLB93905990974_102025|Espelhos Retrovisores|Retrovisor Gs 650 F800 Bmw Fixo Convexa Rosca Honda Par
+moto-espelhos-retrovisores|5|30.99|2vTwXaH|881962-MLB92390801298_092025|Espelhos Retrovisores|Par Retrovisor Moto Honda Cg Titan Fan Start 125 150 160
+moto-espelhos-retrovisores|6|30.9|2SrZ78v|946456-MLB110558590723_042026|Espelhos Retrovisores|Par Retrovisor Moto Honda Titan Fan Start Cg 125 150 160
+moto-espelhos-retrovisores|7|39.9|1gs6sAT|966856-MLB109869981277_032026|Espelhos Retrovisores|Par Retrovisor Modelo Fixo Tiger Triumph 1200 Rosca Honda
+moto-espelhos-retrovisores|8|36.9|134VVfC|722846-MLB96086778712_102025|Espelhos Retrovisores|Retrovisor Kawasaki Z400 /par Rosca Honda
+moto-espelhos-retrovisores|9|37.9|1pDiyHV|784317-MLB88948493482_082025|Espelhos Retrovisores|Retrovisor Bmw Gs F800 Rebaixado Haste Curta Ou Média Honda
+moto-espelhos-retrovisores|10|29.9|33RXgUT|854385-MLB106540478218_022026|Espelhos Retrovisores|Par Retrovisor Espelho Honda Pop 100 110i Biz 125 Bros 150
+moto-espelhos-retrovisores|11|28.4|2upq6BU|694615-MLB122303120671_112026|Espelhos Retrovisores|Retrovisor Mini Kawasaki Z400 Rebaixado 90° Honda Yamaha
+moto-espelhos-retrovisores|12|29.44|1xDs1MM|717025-MLB121922389649_112026|Espelhos Retrovisores|Espelho Retrovisor Par Moto Honda Biz 125 Modelo Original
+moto-filtros|1|26.5|1bAzeg6|938072-MLB71190064806_082023|Filtros|Filtro Ar Esportivo Moto Cg Titan Fan 125 150 160 Twister
+moto-filtros|2|21.33|1jJybKg|799082-MLB114391328371_072026|Filtros|Filtro Combustível Cg Titan Fan Cargo Bros 150 160 Xre 190
+moto-filtros|3|22.99|1zficB2|939994-MLB112640626589_062026|Filtros|Filtro De Ar Honda Cg Fan 160 2020 2021 2022 2023 2024 2025
+moto-filtros|4|19.99|26ej5oF|862348-MLB99280485077_112025|Filtros|Filtro De Gasolina Moto Carburada Com Mangueira Universal
+moto-filtros|5|66.83|12hFT7F|612403-MLB101299969422_122025|Filtros|Filtro De Ar Esportivo Do Grau Fan Titan 160/150 + Moldura
+moto-filtros|6|99.81|2xh5X7N|891331-MLB110685961920_052026|Filtros|Filtro De Ar Esportivo Filtro Do Grau Honda Fan Cg 150 160 Preto
+moto-filtros|7|19.95|1RyGGTj|612062-MLB70352014483_072023|Filtros|Filtro Combustível Factor Fazer Crosser 150 Tenere Fazer 250
+moto-filtros|8|24.9|2QNVNMv|701641-MLB119730518245_102026|Filtros|Filtro De Óleo Moto Honda Xre300 Cb300 Twister250 Sahara
+moto-filtros|9|22.99|2jhukg8|912768-MLB120014863217_102026|Filtros|Filtro Óleo Cb Cbr Nc Tiger Xj R1 Hornet Ninja Oc1019 Mahle
+moto-filtros|10|19.9|23dSRWD|898920-MLB113052629197_062026|Filtros|Filtro Oleo Crf 250f Tornado Cb Twister Xre 300 Falcon
+moto-filtros|11|24.82|1B12FfA|609671-MLB89549267722_082025|Filtros|Filtro Combustível Acrílico Anodizado Cnc Moto Universal
+moto-filtros|12|26.99|14XBxYa|716565-MLB118092722100_102026|Filtros|Filtro Óleo Moto Yamaha Fazer 250 Lander Tenere Fz25
+moto-filtros|13|41.99|2NPb6zj|829115-MLB113636710043_062026|Filtros|Kit Revisão Filtro Ar Gasolina Vela Titan Fan 160 2016-2024
+moto-filtros|14|21.99|2HhUkUq|866937-MLB120967705219_112026|Filtros|Filtro De Ar Honda Cg Titan Fan Start 150/160 2014 Á 2025
+moto-filtros|15|19|1fCPGz4|945351-MLB118515839953_092026|Filtros|Filtro De Gasolina Moto Carburada Com Mangueira Universal
+moto-filtros|16|37|1oAKr9q|970182-MLB104341238994_012026|Filtros|Filtro De Ar Cb 300f Twister 2023 2024 2025 2026 Eksim
+moto-filtros|17|19.45|1zPzGTT|867780-MLB97576636689_112025|Filtros|Filtro Ar Bros Cg 150 Titan Fan 125 2009 2010 2011 2012 2013
+moto-filtros|18|23.05|1SMJHwr|736094-MLB117020032425_092026|Filtros|Filtro De Oleo Lander -fazer-tenere-250 - Crypton-vedamotors
+moto-filtros|19|16.99|2dCyvM6|740946-MLB71754780780_092023|Filtros|Filtro Combustível Cg Titan Fan Cargo Bros 150 160 Xre 190
+moto-filtros|20|19.99|1DjbwmQ|608105-MLB110162020654_042026|Filtros|Filtro De Gasolina Moto Carburada Com Mangueira Universal
+moto-ignicao|1|33.7|1Zowcuy|894210-MLB92248899534_092025|Ignição|Vela Ngk De Moto Cg 150 160 Titan Fan Start Bros 150 160 Original
+moto-ignicao|2|49|1rqtv29|738773-MLB111690932075_052026|Ignição|Bobina Cdi Para Bicicleta Motorizada 49cc 80cc Com Magneto
+moto-ignicao|3|157.67|28hMEaE|978933-MLB80597694423_112024|Ignição|Bateria Heliar Htz6l 12v 5ah Moto Honda Fan Bros Xre 125/150
+moto-ignicao|4|131.9|1dTVuma|952786-MLB110747196781_042026|Ignição|Trava Miolo Ignição Antifurto Cg 150 160 Titan Fan Cromado
+moto-ignicao|5|90.99|27RY1To|649113-MLB114346225146_082026|Ignição|Vela Ngk Iridium Cpr8eaix-9 Cg150 Titan Fan Bros 150 160 Biz
+moto-ignicao|6|475.29|2mxJ3a6|681024-MLB122180902683_112026|Ignição|Cdi Pro Fire X Universal Para Motos Carburadas Com Pipoco
+moto-ignicao|7|139.9|13Jo3Lh|707352-MLB110747791957_042026|Ignição|Trava Miolo Ignição Antifurto Honda Cg Titan / Fan 150 160
+moto-ignicao|8|31.92|2KuQXTf|785290-MLB118422654729_092026|Ignição|Vela De Ignição Iridium Fan 125/150 Bros 150 Titan 160 Cg
+moto-ignicao|9|159.65|2p4qaBY|922071-MLB83672602220_042025|Ignição|Bateria Heliar Htz6l 12v 5ah Moto Honda Fan Bros Xre 125/150
+moto-ignicao|10|39.9|11kUH38|964030-MLB113826963395_062026|Ignição|Vela Ngk Yamaha Ignicao Fz15 Crosser Factor Fazer 150
+moto-ignicao|11|31|1MBzQxC|745266-MLB71087442226_082023|Ignição|Vela Ngk Cpr8ea-9 Cg 125 150 160 Bros Titan Fan Start Cargo
+moto-ignicao|12|28.19|1FNWSAy|910907-MLB86097017735_062025|Ignição|Vela Ngk Bpm7a Para Roçadeira Motosserra Stihl Husqvarna
+moto-ignicao|13|136.58|1o6NHxG|680874-MLB121937586783_112026|Ignição|Kit Chave Ignição Nxr 150 Bros 2011 2012 2013 2014 (4 Peças)
+moto-ignicao|14|159.17|2ATjWhU|709269-MLB81542946634_012025|Ignição|Bateria Heliar Htz6l 12v 5ah Moto Honda Fan Bros Xre 125/150
+moto-ignicao|15|19.99|1v7eEgH|727127-MLB116381385940_092026|Ignição|Cachimbo Vela Ignição Led Supressivo Luminoso Universal Moto Vermelho
+moto-ignicao|16|100.59|1kTAfX9|736828-MLB110480242415_042026|Ignição|Cdi Corte De Giro Cg Titan 125 1995-2005 Crf230 Cbx200 Xr200
+moto-ignicao|17|36.49|1wQUg78|983519-MLB113161087752_072026|Ignição|Vela Ngk Yamaha Ignicao Ybr Xtz Factor 125 Neo 115 Cr7hsa
+moto-ignicao|18|57|1UAbanP|693570-MLB118274803489_092026|Ignição|Kit Chave Ignição Contato Cabo Trava Banco Pop 100 07 A 15
+moto-ignicao|19|180|2MdpxNx|835200-MLB89821865577_082025|Ignição|Kit Chave Ignição Cg 150 Titan 2004 2005 2006 2007 2008 5pçs
+moto-iluminacao|1|41.89|2bmtMdZ|943611-MLB82843981048_032025|Iluminação|Kit 4 Piscas Seta Twister Titan Fan 125-150 Xre Cb 300 Bros
+moto-iluminacao|2|46.9|2LNHv8N|713868-MLB109038526720_032026|Iluminação|Kit 4 Pisca Led Seta Sequencial Cb250 Twister Titan 160
+moto-iluminacao|3|41.89|1yfohHF|729194-MLB89056375381_072025|Iluminação|Kit 4 Pisca Seta De Led Cb250 Twister Cg Titan Fan Start 160
+moto-iluminacao|4|39|1J9YLbA|838055-MLB105688708759_012026|Iluminação|Kit 4 Piscas Led Seta Twister Titan Fan 125 150 Xre 300 Bros
+moto-iluminacao|5|44.5|2AkHSLt|808795-MLB112063064277_052026|Iluminação|4 Pisca Seta Led Sequencial Rosca Cb Twister 250 Fan 150 Xre
+moto-iluminacao|6|20.99|2M9Gsz1|857575-MLB115401789208_082026|Iluminação|Rele Pisca Seta Led Moto 2 Pinos Com Regulagem De Velocidade Laranja E Preto Com Regulador De Velocidade
+moto-iluminacao|7|57.5|2PjoZ7c|880150-MLB110338235476_052026|Iluminação|4 Pisca Seta Cg Titan Fan Start 150 160 2014 A 2024 Coxim
+moto-iluminacao|8|44.5|1q4fFJq|711279-MLB116721777482_092026|Iluminação|Kit 4 Piscas Seta Twister Titan Fan 125-150 Xre Cb 300 Bros
+moto-iluminacao|9|40.63|1JsKBpB|802110-MLB89531327458_082025|Iluminação|Kit 4 Piscas Seta Led Mt03 Mt07 Mt09 Factor Fazer Fz 150-250 Amarelo Sequencial
+moto-iluminacao|10|43.9|1hHSu5d|997364-MLB122121794361_112026|Iluminação|Kit 4 Pisca Seta Fumê Fan Titan125 150 2000 A 2008 Universal Preto
+moto-iluminacao|11|39.69|1XHsDhJ|628094-MLB105069028018_012026|Iluminação|Kit 4 Pisca De Twister Seta Led Moto Titan Xre 300 Cb Bros Amarelo
+moto-iluminacao|12|49.9|231F88M|790983-MLB109035762942_032026|Iluminação|Kit 4 Pisca Led Seta Cb250 Twister Titan 160 Moto Honda
+moto-iluminacao|13|33.9|2fmuTEV|844856-MLB119060825110_112026|Iluminação|Olho De Gato Luz Placa Titan Fan Start 160 Modelo Original Ambos Lados Vermelho
+moto-iluminacao|14|39.65|2AJe9cr|813482-MLB109661959494_042026|Iluminação|Kit 4 Piscas Led Seta Moto Mt03 Mt07 Mt09factor Fazer150 250 Amarelo Seta Sequencial
+moto-iluminacao|15|35.14|2qkgBZU|664275-MLB111754447260_062026|Iluminação|Farol Completo Da Moto Fan 125 2009 2010 2011 2012 Aro Preto
+moto-iluminacao|16|47.77|23f1y9U|731040-MLB95718760612_102025|Iluminação|4 Pisca Com Lâmpada Cg Titan 150 Fume Xre 2004 A 2008 Fumê Com Lampada
+moto-iluminacao|17|43.67|1yu3t6e|809659-MLB118271849646_102026|Iluminação|Farol Cg 150 Titan Fan 2004 2005 2006 2007 2008 Aro Cromado Direito
+moto-iluminacao|18|53.3|192PSYP|991862-MLB110037474246_042026|Iluminação|4 Pisca Seta Nxr Bros 150/160 Cg Titan Fan Cb Xre Cristal Lente Cristal
+moto-iluminacao|19|32.98|2Kq4agC|963467-MLB119334424053_102026|Iluminação|Farol Completo Honda Cg 150 Titan Fan 2004 2005 2006 A 2013 Ambos Lados
+moto-iluminacao|20|35.05|1AwHAMs|894218-MLB83374564748_042025|Iluminação|Farol Titan 125 Ks Es Fan 2000 A 2009 Aro Preto Ambos Lados
+moto-motor|1|105|2AmyMtf|738423-MLB74323858537_012024|Motor|Motor Partida Arranque Fan 150 Bros 150 Titan 150 Magnetron
+moto-motor|2|70.9|2dDemvC|751374-MLB89690277862_082025|Motor|Carburador Cg Titan 150 Completo Ks Es Esd Mod Original
+moto-motor|3|62.96|2FA8Rqk|939790-MLB116256264416_092026|Motor|Carburador Moto Biz 100 Mod Original 1998 A 2005 Completo
+moto-motor|4|29.99|1xFCsg3|675121-MLB118273356320_102026|Motor|Pedal Partida Honda Cg 125 Nxr Bros Titan Fan Ks 2000 / 2008
+moto-motor|5|69|1QeSPjr|655366-MLB113930698704_072026|Motor|Carburador Completo Titan 150 2004 Á 2008 Mod Original
+moto-motor|6|24.9|2ZfqPjW|954419-MLB95961465703_102025|Motor|Coxim Bucha Da Coroa Roda Traseira Titan/fan 160 Todos Anos
+moto-motor|7|29.99|2LeajUu|804586-MLB110407022066_052026|Motor|Pedal Partida Honda Cg 150 Titan Fan Nxr Bros 2004 A 2015 Ks Prateado
+moto-motor|8|78.9|2wDEDJY|733464-MLB32507821638_102019|Motor|Carburador Cg Fan 125 2009 2010 2011 2012 Honda Completo!
+moto-motor|9|24.9|2xaPUVh|837222-MLB74626442501_022024|Motor|Guarnição Tampa Válvula Cg Start Fan Titan 160 Full Oferta
+moto-motor|10|66.99|1cncQGY|857041-MLB114040923326_072026|Motor|Carburador Cg Titan 150 Completo Ks Es Esd Mod Original
+moto-motor|11|69.99|2oUHT5D|890301-MLB113735607446_072026|Motor|Carburador Titan 125 2002/04 Fan 125 2002/08 Mod Original
+moto-motor|12|36.9|1WwMRNi|838829-MLB92173874668_092025|Motor|Esticador Tensor Guia Regulador Corrente Universal Moto Bike
+moto-motor|13|19|1TCniir|608177-MLB118516081455_092026|Motor|Bucha Da Balança Quadro Elastico Cg Titan Fan 125/150/160
+moto-motor|14|99.17|2k3YvpE|852463-MLB109447204668_042026|Motor|Motor Partida Arranque Yamaha Ybr/ Xtz/ Factor 125 Até 2016
+moto-motor|15|229.9|14kFMtr|647382-MLB113408762065_062026|Motor|Kit Cilindro Motor Titan 150 Cg 150 2004 A 2015 Kmp Premiun Prateado
+moto-motor|16|39.99|19enXLU|740372-MLB112227938172_062026|Motor|Kit 20 Gicles Alta E Baixa Carburador Titan Gigles-cg150/125
+moto-motor|17|141|2VJWdXE|846365-MLB75701265284_042024|Motor|Motor Partida Arranque Fan 160 Bros 160 Titan 160 Magnetron
+moto-motor|18|34.9|1jkL4mR|786064-MLB116012360572_092026|Motor|Par Esticador Corrente Bros 125 Bros 150 Bros 160 Xre Xr200
+moto-motor|19|1061|2fj8HxP|910474-MLB85759930949_062025|Motor|Cabeçote Cb300 Xre300 2009 A 2018 Vela Fina Original Honda
+moto-motor|20|452.9|1fnaFtg|644032-MLB105485115755_012026|Motor|Kit Cilindro Motor Cg Titan Fan Bros 160 Original Honda
+moto-transmissao|1|78.99|2TTvBPH|735304-MLB115717692189_082026|Transmissão|Kit Relaçao Titan Fan Start 160 Riffel Aço 1045 Promoção Prata
+moto-transmissao|2|104.97|1wydmNC|978358-MLB94348117043_102025|Transmissão|Relação Cg 150/160 Titan Fan Start Cargo Aço 1045 (kit) Cg160 Titan160 Start160 Fan160
+moto-transmissao|3|174.57|2mvTskq|603046-MLB118561568106_102026|Transmissão|Relação Cg 150/160 Titan Fan Start Mix Cargo Com Retentor
+moto-transmissao|4|78.99|1HNodjT|819803-MLB97400318948_112025|Transmissão|Kit Relaçao Titan Fan Start 150/160 Riffel Aço 1045 Promoção Prata
+moto-transmissao|5|69.93|1cmNF51|724436-MLB96041995740_102025|Transmissão|Kit Relação Cg 150/160 Titan Fan 2004 A 2015 Riffel Original Cinza
+moto-transmissao|6|78.89|1UuiZUZ|828312-MLB114255794136_082026|Transmissão|Kit Relaçao Cg Titan 160/fan 160 Start - Riffel Aço 1045 Cinza
+moto-transmissao|7|57.97|1Ep39C6|954015-MLB106804963053_022026|Transmissão|Kit Relação Cg 160 Titan Fan Start Transmissão Aço 1045 Prateado
+moto-transmissao|8|75.04|28VVHhK|783881-MLA90163802998_082025|Transmissão|Kit Relação Transmissão Biz 125 Biz 110i Riffel 2005 A 2027 Prateado
+moto-transmissao|9|154.9|25sgaMs|763813-MLB92318500415_092025|Transmissão|Kit Relação Cg 150/160 Titan Fan Start Cargo C/ Retentor Top Prateado
+moto-transmissao|10|159.49|1HKxJV7|923714-MLB118762935878_102026|Transmissão|Kit Relação Nxr Bros 160 Xre 190 Com Retentor Todas Riffel Cinza
+moto-transmissao|11|239|1ntC7Ho|648525-MLB73326538810_122023|Transmissão|Kit Embreagem Completo C/ Molas Titan/bros 150original Honda
+moto-transmissao|12|76.89|26Zrcgk|912499-MLB90562602713_082025|Transmissão|Kit Relação Reforçada Titanium Pop 110i 2016 À 2024 Prateado
+moto-transmissao|13|92.14|29bGg9X|682188-MLB113517944745_062026|Transmissão|Kit Relação Transmissão Tração Honda Cb300 2009 A 2015
+moto-transmissao|14|87.3|1YxYKZ6|794515-MLB117593287626_102026|Transmissão|Relação Nxr Bros 160 Xre 190 2016 Á 2025 Transmissão Aço1045 Preto
+moto-transmissao|15|89.29|1RQuXP6|654354-MLB91958195562_092025|Transmissão|Kit Relação Transmissão Yamaha Ybr Factor 125 2000 Á 2016 Prateado
+moto-transmissao|16|178.98|25QcEDH|908349-MLB92316335202_092025|Transmissão|Kit Relação Bros 160 Xre 190 Riffel Com Retentor Todas Cinza
+moto-transmissao|17|117.72|2Ryb3yW|691384-MLB89666788530_082025|Transmissão|Kit Relação Transmissão Honda Nxr 150 Bros 2006 A 2015 Prateado
+moto-transmissao|18|96.8|1asjPiE|631630-MLB92654382493_092025|Transmissão|Kit Relação Tração Honda Cg Fan 125 Ks 2013 Original Riffel Cinza
+moto-transmissao|19|56.9|2aLrqBa|991861-MLB118489791547_092026|Transmissão|Kit Relação Transmissão Tração Honda Titan 150 2004 À 2015
+moto-transmissao|20|129.09|26sQh1e|645409-MLA69670349062_052023|Transmissão|Kit Embreagem Do Grau Titan Fan 150 160 Competição
