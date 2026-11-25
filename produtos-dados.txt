@@ -1,0 +1,893 @@
+beleza|1|29.9|1R8Fgrz|775128-MLA120018457362_112026||L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor Térmico Tratamento Reconstrutor Para Todos Os Tipos De Cabelo
+beleza|2|104.47|1jDTfi8|645686-MLA82876911341_032025||O Boticário Quasar Blue Desodorante Colônia 100ml
+beleza|3|64.37|1rp7tqn|695558-MLA119937437423_102026||Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml
+beleza|4|71.9|1mx9g6o|837324-MLU75963465495_042024||O Boticário Liz Flora Desodorante Colônia 100ml
+beleza|5|26.91|24M4kxR|710576-MLA117488774728_102026||Papel Higiênico Folha Dupla 30m L24p22 Personal
+beleza|6|48.99|2Pvyzo9|866261-MLA99361636628_112025||Papel Higiênico Neve Supreme Folha Tripla, Kit Com 24 Rolos
+beleza|7|83|2S55rRo|930930-MLA118355221530_102026||Loção Hidratante Corporal 3 Ceramidas Hidratação 120h CeraVe 473ml
+beleza|8|86.9|2HDwX44|889465-MLA99767551238_122025||Floratta Flores Secretas 75ml O Boticário Feminino
+beleza|9|25.27|1TrCLp5|787270-MLA114763911463_072026||Percarbonato De Sódio 100% Puro Sem Cloro, Tira Manchas e Branqueador 1kg
+beleza|10|22.9|1WA4RmW|952927-MLA115681613734_092026||Máquina Maquininha Dragão Acabamento Cortar Cabelo Aparador Barba Pelos Elétrica Sem Fio Recarregavel - Dourado 127/220v
+beleza|11|39.31|1nnVpjF|617155-MLA118231595864_102026||Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco
+beleza|12|31.8|2gXKAnq|758069-MLA109087295016_042026||Hidrabene Protetor facial Solar FPS 70 Toque Seco Antissinais Clareia a pele 50g
+beleza|13|17.44|23CghMt|934788-MLA115583677394_092026||Creme Dental Colgate Total Anti Tártaro 180g
+beleza|14|49.9|2mtUiH2|980292-MLA115592849216_092026||Kit Facial Kokeshi Completo 3 Passos Olhos de Gueixa, Pele de Porcelana e Gota de Colágeno
+beleza|15|159.28|2b3xj2y|750670-MLA118429558724_102026||Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1 Raspa, Apara e Contorna Uso Seco e Molhado 100% À Prova d'Água Sem Fio Bivolt QP1425/10
+beleza|16|16.49|1QtaPtG|974841-MLA121137466497_112026||NIVEA Loção Deo-Hidratante Corporal Milk 400ml, 72h de hidratação, Cuidado Intensivo
+beleza|17|30.99|1etp1BN|952728-MLA99929505489_112025||Fralda Bigfral Derma Plus M 8 Unidades Tamanho Médio
+beleza|18|81.99|1MHf7Jt|846712-MLA99595796020_122025||Papel higiênico Neve Toque da Seda folha dupla 30 m de 32 un
+beleza|19|99|1txeNoz|877711-MLA118854536139_102026||Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original
+beleza|20|95|2Pijrki|761257-MLA108807654621_032026||Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60
+beleza|21|34.42|2rqVcMu|683166-MLA103936334574_012026|Cuidados com o Cabelo|L'oréal Paris Elseve Collagen Lifter Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa com Peptídeos de Colágeno Aumenta o Volume em 61% e Encorpa os Fios por 72h 100ml
+beleza|22|91|18Hmg46|777426-MLU72721384007_112023|Cuidados com o Cabelo|Absolut Repair Gold Quinoa Máscara 500g - L'oréal
+beleza|23|29.9|1YFD87e|997869-MLA119798411771_102026|Cuidados com o Cabelo|Máscara Acidificante Amend Equilíbrio do pH 250g
+beleza|24|239|1WhnPcs|753132-MLA99450295832_112025|Cuidados com o Cabelo|Máscara de Reconstrução Profunda para Cabelos Danificados, Força e Elasticidade Résistance Thérapiste Kérastase 200ml
+beleza|25|80.66|1zrQHK8|951816-MLA121034574117_112026|Cuidados com o Cabelo|Escova Progressiva 150g - Fashion Gold
+beleza|26|32.87|2S94nz1|690433-MLA116380162305_082026|Cuidados com o Cabelo|Óleo Capilar wella Oil Reflect 30ml
+beleza|27|24.6|2W1WfY7|707622-MLA111154260840_052026|Cuidados com o Cabelo|L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito Teia Para Resgate de Massa com Peptídeos de Colágeno Reconstrói a Fibra e Dá Volume por 72h 300g
+beleza|28|52.44|1o1qPnP|858040-MLA121673815267_112026|Cuidados com o Cabelo|Shampoo Antiqueda Estimulante Aminexil Dercos Energy+ Vichy Refil 200g
+beleza|29|29.5|16Q2wKD|899348-MLA99892745395_112025|Cuidados com o Cabelo|Máscara Keune Care Vital Nutrition 50ml Nutrição e Reparação para Cabelos Secos e Danificados
+beleza|30|84.95|1f6JgTi|646464-MLA112810161826_072026|Cuidados com o Cabelo|Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g
+beleza|31|89.9|1cKLGjg|631595-MLA99350047876_112025|Cuidados com o Cabelo|Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml
+beleza|32|165.66|2cJ7xbn|652186-MLA99351096240_112025|Cuidados com o Cabelo|Máscara Invigo Nutri-enrich 500ml Wella Pro - Nutrição e Hidratação
+beleza|33|74.52|2A9sAGe|745593-MLA106774218986_022026|Cuidados com o Cabelo|Óleo Capilar Oil Reflections Wella 100ml
+beleza|34|27.67|2T7iYA1|890336-MLA99419583068_112025|Cuidados com o Cabelo|Keune Care Keratin Smooth Mask 50ml
+beleza|35|33.49|2nDHVsg|988587-MLA113982412397_072026|Cuidados com o Cabelo|Máscara De Hidratação Morte Súbita 450g Lola Cosmetics
+beleza|36|114|2eVtk2y|893501-MLB92700478434_092025|Cuidados com o Cabelo|Tonalizante Capilar Nouê Camuflage Medium 140ml Castanho 4 Castanho
+beleza|37|26.9|2xq7PsV|681825-MLA117190948420_102026|Cuidados com o Cabelo|Leave-in Amend Essencial Antifrizz 180ml seca sem frizz
+beleza|38|57.94|1pWNvVH|828955-MLU75239497013_032024|Cuidados com o Cabelo|Revlon Uniq One Tratamento 10 Em 1 Leave In 150ml - Selo
+beleza|39|42.31|2C5fsrC|840775-MLA120003995227_102026|Cuidados com a Pele|Refil Loção Hidratante Corporal 3 Ceramidas 120h CeraVe 237ml
+beleza|40|103.99|11PfE4g|800625-MLA118013409895_092026|Cuidados com a Pele|Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h
+moda|1|84.63|1XG3JY5|869607-MLA118808103080_102026||Tênis Kappa Park 2.0
+moda|2|82.99|2tcpbbJ|636204-MLB92283366432_092025||Tênis Kappa Park 2.0 Original Unissex Caminhada Academia
+moda|3|89.99|2bZQmgu|696772-MLB119102221220_112026||Tênis Casual Kappa Zenit Masculino Unissex Conforto
+moda|4|29.7|1y6znfJ|913708-MLB79953362788_102024||Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida
+moda|5|33.99|1hgbpuf|740930-MLA100107121067_122025||Chinelo Unissex Top Havaianas Liso
+moda|6|78.99|29dUUJg|774830-MLB122193134687_112026||Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada
+moda|7|117.29|2p6Ukds|797944-MLB82978249605_032025||Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original
+moda|8|84.55|1cu1Dp5|914288-MLB119935520173_102026||Camiseta Tech Light Insider Masculino
+moda|9|124.66|2LRwwV1|747746-MLB114087021168_072026||Tênis Kappa Pulse Rx Unissex Corrida Conforto
+moda|10|89.99|28Vmxe8|878492-MLB108664426620_032026||Kit 4 Shorts 2 Em 1 Duplo Dryfit Masculino Compressão Térmic
+moda|11|35.41|1Za3Cw1|896929-MLB114435489234_082026||Camiseta Básica Masculina Algodão Lisa Malha Peruana Premium
+moda|12|64.99|33G29qS|952158-MLB117534658949_092026||Calça Jeans Wide Leg Feminina Cintura Alta Pantalona Preto Black Marmo Liso 42
+moda|13|59.99|2JX8BLo|932405-MLB77376616776_072024||Chinelo Havaianas Masculino Top Max Comfort Anatômica Macia
+moda|14|199.99|1DPv48s|931746-MLB121990592509_112026||Tênis Flyer Runner Mesh Bdp Puma
+moda|15|48.99|2dUT2p7|899152-MLB113410235826_072026||Top Puma Original Feminino Alta Sustentação Academia Fitness Preto Lisa G 44-46
+moda|16|34.82|2u2ohCp|658388-MLB90869609638_082025||Calça Legging Leg Flare Zero Transparência Grossa Academia
+moda|17|65.89|1shNmTe|997077-MLB116234968507_082026||Camisa Social Masculina Slim Fit Premium Passa Facil Branco Liso G
+moda|18|229.28|1wfSx6F|940651-MLA118415001690_102026||Mala De Viagem Bordo Mão Pequena 10kg Abs Cadeado 360 Azul
+moda|19|74.99|1heBfe6|925439-MLB95522562902_102025||Calça Masculina Sarja Premium Esporte Fino Bolso Faca Lycra
+moda|20|44|2hpCbYt|868827-MLB118751954072_102026||Kit 3 Top Com Bojo Fitness Academia Sem Costura Poliamida
+moda|21|569.99|2eRS3WJ|664503-MLU79261871661_092024|Calçados|Vans UltraRange Rapidweld Adultos
+moda|22|38.59|2RAJtyS|671885-MLA81672743644_012025|Calçados|Chinelo Feminino Slim Havaianas Liso
+moda|23|156.39|1iR6kRA|867286-MLB109373136106_042026|Calçados|Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve
+moda|24|48.99|1yGN81f|697516-MLB80630950581_112024|Calçados|Havaianas Brasil - Original - Mod Light - Varias Cores.
+moda|25|67|2gxfU2P|833803-MLB118685362969_102026|Calçados|Tênis Masculino Leve Esportivo Sapato Confortável Promoção
+moda|26|67.37|2oNH1QS|957872-MLB97351627901_112025|Calçados|Sapatênis , Leve De Zíper Super Conforto
+moda|27|39.9|2tyxnDG|758890-MLB116981105613_082026|Calçados|Chinelo Havaianas Slim Square Sandália Feminina Quadrada Smoke Green 35-36 Br
+moda|28|33|2oVEpXa|887215-MLB119791745532_112026|Calçados|Sandália Infantil Menina Kimimo Confortável Moda Verão Bronze Strass 30
+moda|29|56.9|2J3SiGU|714543-MLB111591026027_052026|Calçados|Tenis Academia Masculino Corrida Musculação Caminhada Treino Preto/branco 42
+moda|30|71.92|1Yr7yUc|984855-MLB85635884054_062025|Calçados|Tenis Masculino Sapatenis Polo Feet Sapato Casual Promoção
+moda|31|59.99|2t6FMyW|744415-MLB109713456038_042026|Calçados|Tênis Casual Academia Feminino E Masculino Skate Sneakers
+moda|32|77.38|32vYwEh|723918-MLB85408173696_062025|Calçados|Tênis Kappa Run 200 Original Caminhada Academia
+moda|33|58.95|2qqDgNp|611416-MLB94450459506_102025|Camisetas e Regatas|Kit 3 Camiseta Masculina Lisa Básica 100% Algodão
+moda|34|98.27|14uyKDX|684232-MLB104458045514_012026|Camisetas e Regatas|Kit 3 Camiseta Polo Manga Curta Com Zíper Masculina Canelada
+moda|35|78.99|33uNVEt|683225-MLB100382923917_122025|Camisetas e Regatas|Kit 3 Camisetas Algodão Dia Dia Sandrini Básica Conforto Preto/branco/mescla Sortido Gg Liso
+moda|36|53.82|1jYJ1K7|951368-MLB107638587427_022026|Camisetas e Regatas|Camiseta Masculina Básica Slim Algodão - Várias Cores Ogochi
+moda|37|99|1hhELHh|616903-MLB115107953006_082026|Camisetas e Regatas|Daily T-shirt Insider
+moda|38|41.65|27uvmyU|996753-MLB89971829846_082025|Camisetas e Regatas|Kit 5 Camisetas Básicas Masculina Dry Fit Lisa Tradicional Cor-1 G
+moda|39|59.43|1t5mKKM|611037-MLB95214291218_102025|Camisetas e Regatas|Kit 3 Camisetas Básicas Masculina Slim Algodão T01
+moda|40|27.9|1zPZgU3|605639-MLB99898103548_122025|Camisetas e Regatas|Blusa Feminina T-shirt Listrada Básica Social Manga Curta
+esportes|1|37.9|2aNz7Pc|662415-MLA97812910758_112025||Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g
+esportes|2|78.92|2BdMkPd|603981-MLA115262802698_082026||Creatina Monohidratada 1kg 100% Pura - Dark Lab
+esportes|3|99.99|2SWzvoL|951997-MLA99985874825_112025||Creatina Integralmédica sem sabor pacote x 2 frascos de 300g
+esportes|4|99.9|17A1kp3|608162-MLA112813208483_062026||Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg
+esportes|5|73.99|1gpaHLi|819000-MLA101180020755_122025||Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg
+esportes|6|134.93|2LvHXUc|927988-MLA99469885866_112025||Whey Protein Concentrado 1kg Morango Dark Lab
+esportes|7|16.62|2dn9e1d|782298-MLA100076194863_122025||Creatina 100% Pura 60 Cápsulas Integralmédica
+esportes|8|179.92|1sZxh27|989007-MLA99405715766_112025||Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab
+esportes|9|21.5|2MmkXzG|697835-MLA117269994412_102026||Creatina Monohidratada Max Titanium Sem Sabor 100g
+esportes|10|239.9|2vzQJXh|824274-MLA98770399871_112025||Whey Protein Growth Concentrado 1kg – Sabor Baunilha
+esportes|11|47.04|1eBsDwa|654641-MLA105556742941_012026||Lanterna Mais Forte Do Mundo Recarregável Tática Potente T9 - Apfer
+esportes|12|32.99|1ND5KDp|646740-MLA121929723333_112026||Creatina Dux Monohidratada 100% Em Pó 300g Sem Sabor
+esportes|13|200.51|2D6ogDM|900386-MLU75143558182_032024||Whey Fort 3w 900g Protein Sabor Frutas Vermelhas - Vitafor
+esportes|14|78.9|2yqYEq3|616506-MLA110075703952_042026||Anabolic Mass 28500 3kg Profit Labs Sabor Chocolate
+esportes|15|34.54|2vWiVhk|653067-MLA110738695437_042026||Mineral/Vitamina Bodyaction Nutri Science Magnésio E Inositol Taurina Melatonina 210g em pó sabor Maracujá x 210g
+esportes|16|210.99|2CWvH7e|738007-MLA97316893807_112025||Proteína Adaptogen Science Tasty Whey Gourmet em pó sabor Doce de leite x 900g
+esportes|17|69.9|18LPz9u|923658-MLB117765624789_092026||Creatina Monohidratada 500g Pouch - Growth Supplements Sem Sabor
+esportes|18|43.41|334AkhL|874204-MLA99607101834_122025||Pré-treino Evolution 300G Termogênico Melancia - Soldiers Nutrition
+esportes|19|49.5|2geitrD|661238-MLA100080909657_122025||2 Potes Vitamina B12 Metilcobalamina - 60 Cápsulas Nutrify
+esportes|20|34.9|1Sgt67X|843897-MLA114342332614_082026||Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas
+esportes|21|44.99|19CkNu1|774036-MLB116796134441_082026|Camping, Caça e Pesca|Garrafa Térmica 800ml Inox Bico Duplo Canudo Alça Esporte Preto
+esportes|22|317.44|1rJmctg|715209-MLA99488781978_112025|Camping, Caça e Pesca|Garrafa Térmica Quick Flip Stanley Charcoal 710ml
+esportes|23|47.95|2HNGFow|602741-MLA120484199385_102026|Camping, Caça e Pesca|Lanterna Tática Militar T9 Mais Forte Do Mundo Potente Led Recarregável - Allume Iluminação Decorativa
+esportes|24|29.97|1eaJDuk|826952-MLB119351161297_102026|Camping, Caça e Pesca|Lanterna Tatica Militar Led Cree Ultra Potente 1km Zoom Super Branco
+esportes|25|27.99|1uityjx|656579-MLA109845675912_042026|Camping, Caça e Pesca|Lanterna Tática Militar Recarregável Led Cree Mais Forte Do Mundo Ultra Potente 1000m Zoom Alto Brilho Sitio Fazenda Apegashop
+esportes|26|59.9|1uavYBA|711699-MLA111577220144_062026|Camping, Caça e Pesca|Lanterna A Verdadeira Mais Forte Do Mundo Tática Alcance 3km Super Potente Recarregável Led Alta Potência Zoom Telescópico Usb-c Profissional Militar Camping Pesca Trilha Emergência
+esportes|27|97|1qPn4nn|648749-MLB92240777598_092025|Camping, Caça e Pesca|Lanterna Tática Sabre De Luz Mais Forte Do Mundo Led Militar Super Branca Preto
+esportes|28|45.07|27cHgoT|763470-MLA115323351322_082026|Camping, Caça e Pesca|Copo Térmico Gigante 1,2l Inox Com Tampa E Inox Canudo Cor Branco Cor Pura / Material Fosco
+esportes|29|75|2KWAJRh|748419-MLA114184659679_072026|Camping, Caça e Pesca|Bolsa Térmica Lancheira Marmita 13,5L 2 Compartimentos Frasqueira Dupla Camada Alça de Ombro Fitness Trabalho Azul
+esportes|30|33.99|1dmQzNt|685628-MLB121841722849_112026|Camping, Caça e Pesca|Garrafa Térmica 800ml Água Azarte Inox Academia Com Alça Preto
+esportes|31|49.23|26aB6jQ|815995-MLB100305922994_122025|Camping, Caça e Pesca|Lanterna Tática Mais Forte Do Mundo T9 Potente Recarregável Preto
+esportes|32|28.11|2323FoD|628452-MLB100396831464_122025|Camping, Caça e Pesca|Canivete Tático Dobrável De Metal Ideal Para Camping Trilhas Preto
+esportes|33|98.99|1jpZg7Y|637404-MLA116660445893_082026|Camping, Caça e Pesca|Colchão Inflável Casal grande Confortável e Aveludado para Acampamento com Bomba de Ar - Aguenta até 300kg - Wemov
+esportes|34|48.99|31yvF3M|819434-MLB116025233580_092026|Camping, Caça e Pesca|Copo Térmico 1.2l Inox Tampa Flip Canudo Alça Carro Academia Rosa Escuro Cor Pura / Material Fosco
+esportes|35|33.95|1AzB13m|947382-MLB115292418199_072026|Camping, Caça e Pesca|Garrafa De Água Termica 800ml Café Inox Copo Frio E Quente Preto
+esportes|36|149.9|2p4b1i2|711116-MLA111631927405_052026|Camping, Caça e Pesca|Lanterna De Led Tática Grande Com Luz Forte Tipo Farolete 100000 Lúmens Recarga Usb E Solar Power Bank 7 Modos Ideal Para Uso Rural Camping Trilha Pesca Emergência E Segurança Noturna
+esportes|37|19.99|1PaRETC|746032-MLB106729137990_022026|Camping, Caça e Pesca|Canivete Militar Tático Defesa Bolso Aço Inox Caça Ec-713 Faca Canivete De Bolso Proteção Defesa Militar Tático Camping Pesca Aço Inoxidável Lâmina Afiada
+esportes|38|145|12t8a8P|892928-MLA119927917158_112026|Camping, Caça e Pesca|Copo Térmico Stanley Quencher 887ml com Alça em Aço Inox Rose Quartz 08149-01
+esportes|39|56.87|33SoUz5|842487-MLA120158163710_112026|Ciclismo|Compressor de Ar Portátil VERUNTO VER-B15 com Tela Digital para Carro, Moto e Bicicleta
+casa|1|29.9|1vkYAXz|689391-MLB73256515535_122023||Jogo De Lençol Casal Padrão 3 Pçs 400 Fios C/ Elástico Hotel Cinza Liso
+casa|2|73.55|1ToHqek|893134-MLA115783362979_082026||Lava Roupas Líquido Omo Lavanderia Profissional Lavagem 7 L
+casa|3|31.89|1RvWFot|833331-MLB91182119648_092025||Jogo De Lençol 400 Fios Ponto Palito Cama Queen 3 Pçs Saldão
+casa|4|129.9|2mtm6s2|994871-MLA119301626806_112026||Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex
+casa|5|129.89|1mR5QPz|664695-MLA96099594865_102025||Cortina 4,00x2,80 Metros Blackout Blecaute Preto Corta Luz Em Tecido Grosso Para Quarto E Sala Texfine
+casa|6|69.9|2pcZyH9|657409-MLA118704430554_102026||Cascata de LED 400 Luzes Branco Frio 10m com 8 Funções para Decoração
+casa|7|26.99|1sV1KSn|706491-MLB83128725973_032025||Capa Protetora Colchão Box Casal Padrão Matelado Impermeável
+casa|8|66|2bPqYVp|718827-MLA121009065709_112026||Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex
+casa|9|37.99|29fV4mP|720324-MLA118519912953_092026||Pisca Cortina 300 Leds 3x3m Usb Ip44 8 Modos Iluminação Luzes Fada Decoração De Natal Festa Branco Frio Luvinco
+casa|10|32.9|2oFF2nn|808562-MLA115342218281_072026||Jogo De Lençol Queen 3 Peças 400 Fios C/ Elástico Hotel Pink Liso
+casa|11|26.91|24M4kxR|710576-MLA117488774728_102026||Papel Higiênico Folha Dupla 30m L24p22 Personal
+casa|12|48.99|2Pvyzo9|866261-MLA99361636628_112025||Papel Higiênico Neve Supreme Folha Tripla, Kit Com 24 Rolos
+casa|13|96.89|2S2jXHF|600929-MLA107442530491_022026||Kit Cobre Leito Colcha King 3 Peças Boutis Dupla Face Porta Travesseiro Aba Americana - Sofia Rose
+casa|14|13.49|2t1PTwT|950605-MLA99927683925_112025||Água Sanitária Ypê Cloro Ativo 5 L Original
+casa|15|128|1nHeCJj|638677-MLA118516851287_092026||Ducha Eletrônica Lorenzetti Loren Shower Ultra 7500w 220v Branco
+casa|16|69.99|1Dzs82s|836315-MLB122275454801_112026||Pisca Pisca Cascata Natal 400 Leds 10m Luz Quente Branco Quente 127v
+casa|17|96.02|2rBD1mg|942823-MLA113526261849_062026||Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação
+casa|18|58.99|1B4Cb8A|850337-MLA110275056555_042026||Lava Roupas Líquido Tixan Ypê Primavera 7 Litros
+casa|19|29.99|2icMEq3|902822-MLB113686572268_072026||Capa Protetor De Colchão Elástico Queen Impermeável Matelado
+casa|20|49.7|2X3JLb1|877963-MLA118368907496_102026|Enfeites e Decoração da Casa|Festão Aramado Grosso 300 Galhos 270cm Árvore de Natal Cheia Enfeite Decoração de Natal Gurilanda Escada Grande Verde LuvinCo
+casa|21|26.99|32CdSXL|963007-MLB118622332012_102026|Enfeites e Decoração da Casa|Pisca-pisca Solar De Led Colorido Para Decoração Outdoor 20m Multicolorido Energia Solar
+casa|22|22.4|21p1Zn5|736771-MLA117599831710_102026|Enfeites e Decoração da Casa|Cordão de Luzes Natalinas 100 LED Branco Quente 9.5m para Árvore e Interior
+casa|23|19.26|2ZEGGgp|637293-MLA116846266298_092026|Enfeites e Decoração da Casa|Fio De Fada 100 Leds 10 Metros Ip44 Bateria Cordão Pisca Luzes Festa Decoração Árvore Natal Branco Frio Luvinco
+casa|24|39.9|1hUK1iY|692685-MLA116658868139_082026|Enfeites e Decoração da Casa|Cascata Meteoro 50cm 8 Tubos Led 3 Metros Bastão Chuva IP65 Decoração Natal Festas Bivolt Cor Branco Frio LuvinCo
+casa|25|29.9|1yT6Qm6|974396-MLA118385009551_092026|Enfeites e Decoração da Casa|Saia Tapete Base Árvore De Natal Decoração Papai Noel Enfeite Natalino Luxo Modelo 6 Luvinco
+casa|26|69.9|2Vv6kPP|964568-MLA115683908212_092026|Enfeites e Decoração da Casa|Cascata Natal com 8 Funções 400 Leds 10 Metros Branco Quente Extensível Macho Fêmea A Prova D'agua área interna e externo para Casa e Apartamento LARUNO
+casa|27|31.97|2NAK52a|831067-MLA116839046568_092026|Enfeites e Decoração da Casa|Cortina 300 Leds 3x3m Pisca Pisca 8 Funções Usb Controle Remoto Iluminação Fio Fada Decoração De Natal Branco Frio
+casa|28|32.6|2E6CyMf|832867-MLB116732519129_082026|Enfeites e Decoração da Casa|Kit C/ 12 Flor Natalina Decoração Árvore Natal Luxo Enfeite
+casa|29|64.9|2xhXYLA|633444-MLA116500347702_092026|Enfeites e Decoração da Casa|Cascata Natal Luz Fixa 400 Leds 10 Metros Branco Quente Extensível Macho Fêmea A Prova D'agua área interna e externa LARUNO
+casa|30|23.79|1qNb4r1|964358-MLA99843231633_112025|Enfeites e Decoração da Casa|Kit 10 Fio Fada Cordão Luz Decoração Artezenato Luzes De Fada Led Pisca 2m 20 Leds Iluminação Pilhas Para Garrafas Árvore De Natal Casamento
+casa|31|32.9|2u23yjM|608532-MLA120041203005_102026|Enfeites e Decoração da Casa|Cortina de Luz 310 LEDs 3x3m USB com Controle Remoto Fio Transparente IP44 Pisca Pisca Natal Festas Casamento DAIFPRO Branco Frio
+casa|32|19.9|2y8KNxp|958782-MLB92796184970_092025|Enfeites e Decoração da Casa|Pisca Pisca Natal 100 Leds 10m Prova D'água 8 Funções Cores
+casa|33|33.07|1wXCe9j|814270-MLA95975086410_102025|Enfeites e Decoração da Casa|Cascata 8 Tubos Efeito Chuva Meteoro Decoração Natal Bivolt Branco Quente 50cm
+casa|34|111.45|2ZDofTW|949685-MLA99517006678_112025|Enfeites e Decoração da Casa|Cortina Blackout Em Tecido 3,00x2,80 Corta Luz Cor Palha
+casa|35|64.99|2wxAwGK|765982-MLA120305732491_102026|Enfeites e Decoração da Casa|Kit 12 Pendentes Pelúcia Enfeite Árvore Natal Pingentes Papai Noel 12cm e 17cm Decoração LuvinCo
+casa|36|31.99|1CeBn2u|770265-MLA117214172384_102026|Cozinha|Kit 10 Potes 750ml Com Tampa Trava Plástico Transparente Para Mantimentos E Alimentos Marmita Organizador De Cozinha Geladeira E Freezer Jogo De Potes Para Organização Ponte Lar Utilidades
+casa|37|28.9|2CSxpWd|748154-MLA114700023633_072026|Cozinha|Kit 10 Potes 1 Litro Transparente Marmita Fitness Bpa Free Tampa Hermética Reutilizável Micro E Freezer Mantimentos ponte lar utilidades
+casa|38|94.98|1WBwzw8|918225-MLA113027307626_072026|Cozinha|Kit 10 Potes Vidro Hermético Aristus 640ml Marmita Anti Vazamento Forno Micro-ondas Freezer Tampa 4 Travas - Azul
+casa|39|62.87|2j4TK9r|890455-MLA105354548757_012026|Cozinha|Jogo Talheres Faqueiro Búzios Aço Inox 24 Peças Tramontina
+casa|40|38.99|2FBFpfp|828647-MLA115260931620_082026|Cozinha|Kit 12 Utensílios De Silicone Com Cabo De Madeira - Marca Aristus Com Alta Resistência, Durável E Com Design Moderno, Perfeito Para Sua Cozinha Cor Cinza
+bebes|1|30.1|2CJKyfj|973923-MLA99918118901_112025||Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml
+bebes|2|17.9|1E5JT4w|885111-MLA115673151555_082026||Papel Toalha Absoluto Multiuso 360 Folhas Com 3 Unidades
+bebes|3|104.86|2bZeSdE|789253-MLA111638452273_052026||Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Un
+bebes|4|19|2c2y548|969938-MLA110462868389_042026||Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un
+bebes|5|69|2MAgYgX|684445-MLA99450736120_112025||Fralda Pom Pom Protek Proteção de Mãe G 68 Unidades
+bebes|6|123.99|1fMsp8e|782627-MLA99928206837_112025||Huggies Fralda Descartável Máxima Proteção XG - 112 Un
+bebes|7|52.91|1wWpGiX|754916-MLA99922830519_112025||Fralda Protect e Sec 90 Unidades Tamanho Médio Personal Baby
+bebes|8|132|31TEZPN|636582-MLA118799061081_102026||Fralda Pampers Confort Sec Tamanho G, 92 Un
+bebes|9|35.31|2edCm7e|908623-MLA111032843377_042026||Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades
+bebes|10|20.9|2FUarJy|958709-MLA109670017122_042026||Bepantol Baby Creme Preventivo De Assaduras 30g
+bebes|11|17.59|27Z8t7Q|631466-MLA109737821200_042026||Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml
+bebes|12|34.88|1A2CFxv|990051-MLA110123026010_042026||Fralda Turma Da Mônica Baby Mega G 44 Unidades G
+bebes|13|19.79|2WuEYEQ|776721-MLA112696702376_062026||Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades
+bebes|14|35.77|2ibQNr2|738296-MLA110297780960_052026||Fralda Descartável Turma da Mônica Baby M 50 Unidades 12 h
+bebes|15|34.7|2sszDFT|944831-MLA110297599476_052026||Fralda Turma da Mônica Baby Qu4trosec P com 62 Unidades
+bebes|16|23.26|2twbFc3|759458-MLA109736226025_032026||Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 400ml
+bebes|17|133.9|17xejds|971120-MLA115772115597_082026||Fralda Confort Sec Tamanho Xxg 82 Unidades Pampers
+bebes|18|30.79|2iY5cCQ|837020-MLA99452042258_112025||Huggies Fralda Descartável Premium Natural Care Rn 34 Unidades Sem Gênero
+bebes|19|26.48|1J5qfy6|753827-MLA80015367155_102024||Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un
+bebes|20|26.5|2hg5jM2|609197-MLB115547789173_082026|Roupas de Bebê|Kit 12 Pares Meias Antiderrapante Bebê Infantil Oferta C/ Nf
+bebes|21|113.08|1UL9vvt|681378-MLA117121680280_102026|Roupas de Bebê|Saída De Maternidade Em Tricô Rosa Bebê Rosa 0 A 3 Meses
+bebes|22|25.31|1rvDHSV|720198-MLB109916199897_042026|Roupas de Bebê|Camiseta Infantil 100% Algodão Criança Lisa Básica Cores Verde Bandeira 6
+bebes|23|64.66|2dp1vVt|846856-MLB113891700852_072026|Roupas de Bebê|6 Peças Roupa Infantil Menino/3 Conjunto Infantil Masculino Kit 3 Conjuntos Sortidos 4/5 Anos
+bebes|24|29|1oSZcTh|755772-MLB111089562861_042026|Roupas de Bebê|Kit 12 Pares Meias Bebê Menina E Menino Antiderrapante Variadas Menino Bebe Antiderrapante Logo 0 A 6 Meses
+bebes|25|21.99|27ZE2cZ|685233-MLA104754891923_012026|Roupas de Bebê|Sapatinho Bebê Tênis Menino Bebêmania Direto Da Fabrica71305
+bebes|26|67.57|1E37Q3m|660568-MLB88359216828_072025|Roupas de Bebê|Kit 15 Peças Roupas Bebê Body Calça Touca Enxoval Completo
+bebes|27|24.09|1EVQR9y|757325-MLB111962788884_062026|Roupas de Bebê|Kit 12 Pares De Meias Recem Nascido Menino Menina Enxoval Kit Masculino 0 - 9 Meses
+bebes|28|42.74|2n8szQD|981843-MLB112399574111_052026|Roupas de Bebê|Kit 4 Peças Vestido Calcinha Laço Sapato Bebê Menina 0 Á 6 M Vermelho 3 Á 6
+bebes|29|56.99|2PYkxwv|854949-MLB112619717620_062026|Roupas de Bebê|Kit 6 Peças De Roupas Bebê Menino Minimalista Casual Algodão 3 Conjuntos Regata 1 (veste 6 A 12 Meses)
+bebes|30|72.9|2P4ER3q|658009-MLB120424721424_112026|Roupas de Bebê|Kit 3 Macacão Infantil Vira Pé Bebê Estampado Menino Menina
+bebes|31|18.9|1j6Xcqb|708300-MLB113865278758_072026|Roupas de Bebê|Meia Bebê Menina Babado Batizado Festa Princesa Fofa Respira
+bebes|32|22.61|1R2YVzT|732630-MLB96068025363_102025|Roupas de Bebê|Kit 12 Pares Meia Bebê Rn Enxoval Saída Maternidade
+bebes|33|38.09|2S15yQL|960611-MLA106760006275_022026|Roupas de Bebê|Kit 3 Bodys Bebê Liso Manga Curta 100% Algodão Menina Menino Cor Azul-marinho Azul-claro E Branco Tamanho G
+bebes|34|43.55|1LxEYBj|676680-MLB119931694293_102026|Roupas de Bebê|Camisa Social Infantil Masculina Manga Longa Menino Branco 6
+bebes|35|22.21|1tyEg1G|924658-MLA99605787102_122025|Roupas de Bebê|Chapéu Bucket Bebê Infantil Praia Proteção Solar Uv Girafa Cor Tubarão Azul Tamanho Un
+bebes|36|49.9|1MsJbrs|671697-MLB115720303079_082026|Roupas de Bebê|Kit 6 Peças Body E Calça Canelado Bebê Sortidas 100% Algodão Kit 6 Peças Menina Rn
+bebes|37|79.8|2au7vg9|885962-MLB116197312431_082026|Roupas de Bebê|Kit 6 Peças Body Canelado Bebê Menino Manga Longa Calça
+bebes|38|48|1rLA3Ki|747721-MLB118920251761_102026|Roupas de Bebê|Conjunto Jardineira E Body Feliz Natal Menino E Menina
+bebes|39|58.41|2Yxhg6X|944229-MLA119175436700_112026|Brinquedos para Bebês|Tapete De Atividades Para Bebê Piano Musical Móbile Interativo 5 Brinquedos Sensoriais Funny Dino Maxi Baby
+bebes|40|55.08|2DSywXN|729971-MLA117826961230_102026|Brinquedos para Bebês|Tapete De Atividades Musical Bebê Piano Interativo Ginásio Cor Rosa
+brinquedos|1|19|1iwnHrZ|670757-MLA118001948637_092026||Pokémon ME05 Escuridão Absoluta Booster 6 Cartas Copag
+brinquedos|2|24.38|1M8jydg|777795-MLA119713643197_102026||Kit 10 Squishy Mochi Bichinhos Macios De Apertar Antiestresse Brinquedo Sensorial Relaxante Criativo Para Crianças E Adultos Diversão Garantida Tendência Popular TikTok Brasiliana Tech
+brinquedos|3|76.78|29YXBUW|979288-MLA109171693698_042026||Kit Com 48 Pacotes de Figurinhas Panini Para o Álbum Copa do Mundo FIFA 2026
+brinquedos|4|19.99|2Zdhfww|965547-MLB117664503417_092026||Squishy Manteiga 13cm Gigante Anti Estresse Slow Rising Butt Amarelo
+brinquedos|5|62.82|2FsNMk6|724815-MLA99876815105_112025||Conjunto 5 Carrinhos Hot Wheels - Mattel
+brinquedos|6|49.41|1awdsoj|702576-MLA110388417253_042026||Patinete Infantil 3 Rodas Led Dobrável Luppy Azul Maxi Toys
+brinquedos|7|31.99|1QzX3xp|622921-MLA119104711006_112026||Blister Triplo Pokémon TCG Reinado Delta - Spritzee
+brinquedos|8|19|2UceSoo|638104-MLA111704798941_052026||Spray Pum Peido Fedorento Pegadinha Viral Trollagem Brincadeira Perfume Fedido - Marca Black Raipe
+brinquedos|9|49.8|2a72R8j|944838-MLA99549576346_122025||Patinete Infantil 3 Rodas com Led/Dobrável Menino/Menina
+brinquedos|10|19.9|1fLg1i7|723227-MLA119032921608_112026||Bolinha Alivio Antiestresse Brinquedo de Apertar TPA-002 Crianças a Adultos Fosco Cor Sortidos
+brinquedos|11|135|1AjGRo6|794094-MLA106544309108_022026||Bebê Reborn Bonecas Realista De Silicone Menina 48 Cm
+brinquedos|12|72.9|2d9jEEw|976719-MLA100007783665_122025||Bicicleta Infantil De Equilíbrio Sem Pedal Andador 4 Rodas Cor Azul
+brinquedos|13|39.99|2fZvAoc|814813-MLB117136514358_102026||Kit 3 Bolas Surpresas Mini Minis Brands Para Mini Geladeira Azul
+brinquedos|14|42.99|1RA3HpR|633703-MLA120091503725_102026||Jogo Stop De Palavras Adedonha Educativo Infantil Interativo Familia Adultos E Crianças Babuu Brinquedos Educativos
+brinquedos|15|33.85|2qNmueC|846287-MLB120058313731_102026||Kit Hama Beads 2,6mm 16.000 Peças 24 Cores Pegboard E Pinças Cor 1
+brinquedos|16|27.19|2qTwyV7|915176-MLA119049397119_102026||Squishy Bolinha Médio Garra Colorido Slow Rising para Crianças
+brinquedos|17|26.9|2fPiXzH|746671-MLA100113047697_122025||Brinquedo Bubble Gun Maquina Arminha Pistola Bolha De Sabão
+brinquedos|18|18.99|2q5khQC|621567-MLB119285309793_102026||Carrinho Hot Wheels 2026 E 2025 1:64 Mattel Lote J K L M Nissan Maxima Drift Car
+brinquedos|19|70.88|1VUCU7G|972685-MLA112274391971_052026||Mini Geladeira Brinquedo +2 Bolas Mini Brands Surpresa Azul-turquesa
+brinquedos|20|72.59|1VzSiD9|829394-MLA99479039346_112025||Patinete Infantil 3 Rodas Com Led Som E Cesta Menino Menina Cor Rosa
+brinquedos|21|86.91|2TJGY1z|996199-MLB109027923759_032026|Bonecos e Bonecas|Boneca Bebê Reborn Silicone Realista Original Pode Dar Banho
+brinquedos|22|72.59|1UKiCtT|707116-MLA116059439054_092026|Bonecos e Bonecas|Boneca Reborn Bebê Realista Vinil Siliconado Récem-nascida
+brinquedos|23|749.98|2ZLfiMZ|928127-MLA111393282693_052026|Bonecos e Bonecas|Casa De Boneca Barbie Dream Land Com Escorregador Multicolor
+brinquedos|24|68.91|1GWLYiJ|922351-MLA113260595007_062026|Bonecos e Bonecas|Boneca Patinadora Robô que Anda de Patins Dança e Canta com Luzes LED Skating Girl Brinquedo Musical Infantil para Menina 30cm Kizumba
+brinquedos|25|36.9|1ERYnfk|632679-MLA114975603123_072026|Bonecos e Bonecas|Boneca Bambola Lola Baby 855 35 cm de Plástico com Chupeta
+brinquedos|26|69.74|1K4A2Pr|897745-MLA99453292044_112025|Bonecos e Bonecas|Sunny Boneco Patrulha Canina 1342 Skye Focos
+brinquedos|27|78.29|1wMoHkT|746653-MLB109019481701_032026|Bonecos e Bonecas|Boneca Adora Reborn 48cm Silicone Pode Dar Banho
+brinquedos|28|66.15|2xorMMX|755049-MLA113260061103_062026|Bonecos e Bonecas|Boneca Interativa no Hoverboard Skate Elétrico Musical com Luz LED Bate e Volta Gira 360 Graus Anda Sozinha Brinquedo Infantil Menina Rosa Kizumba
+brinquedos|29|65.09|29TMSXE|789669-MLB112369440008_062026|Bonecos e Bonecas|Kit 6 Mini Bebe Reborn Fantasia Bonecas Colecionaveis
+brinquedos|30|99.9|2YKEGGj|790942-MLB108251484310_032026|Bonecos e Bonecas|Boneca Bebê Reborn Realista 100% Silicone Pode Dar Banho
+brinquedos|31|78.99|27mZvAw|614682-MLB117823118857_092026|Bonecos e Bonecas|Boneca Bebê Reborn Luna Luxo Premium Com Acessórios Day Luna
+brinquedos|32|92.05|1EMhEXR|659154-MLA107901202678_032026|Bonecos e Bonecas|Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone
+brinquedos|33|94.99|11MPpSm|624400-MLA108865604607_032026|Bonecos e Bonecas|Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone
+brinquedos|34|494.6|1F43Rqj|835645-MLA99448675126_112025|Bonecos e Bonecas|Playset Casa Da Gabby Dollhouse 3063 Sunny Brinquedos
+brinquedos|35|39.99|2fpuhXH|601916-MLB112500361424_062026|Bonecos e Bonecas|Homem Aranha Boneco Brinquedo Vingadores Articulado Grande
+brinquedos|36|35.16|12kxhy6|954571-MLA118969946235_102026|Bonecos e Bonecas|Kit 3 Bolas Surpresa Cápsula Mini Brands Hc-3006 Azul Colecionável Miniatura Realista Brinquedo Infantil
+brinquedos|37|234.99|1bR5QzZ|757155-MLB119805970056_112026|Bonecos e Bonecas|Bebê Reborn Menina Silicone Realista 24 Itens - Igual A Foto
+brinquedos|38|78.9|1rdmis1|825513-MLA109629080834_042026|Bonecos e Bonecas|Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho
+brinquedos|39|53.99|1AyVpC8|962068-MLA116208434438_092026|Bonecos e Bonecas|Boneca Dançarina Bailarina Grande Brinquedo Infantil Menina Led e Música Presente Princesa Sophia
+brinquedos|40|121.37|1FqAckw|815455-MLA108426948268_032026|Veículos de Brinquedo|Carrinho Controle Remoto Recarregável Grande Off Road Cross Azul
+pet|1|44.94|2DjLLMM|971200-MLA114202177794_082026||Tapete Higiênico para Cachorro 50 Unidades 60x55cm com Gel Absorvente Fralda Manta Pet Cão Com Fitas Adesivas Anti Odor Atrativo Canino borda absorvente
+pet|2|56.9|1Dgk3R6|939566-MLA116739049828_092026||Tapete Higiênico Para Cachorro Descartável Alta Absorção 60x60 60 Unidades Secagem Rápida Cão Proteção Piso
+pet|3|43.39|1krk7PU|820836-MLA118246315219_092026||Tapete Higiênico Pet 50 Unidades 60x60 Descartável Cão Gato
+pet|4|31|2orizEy|925335-MLA116976139155_082026||Areia Higiênica Fina Biodegradável Para Gatos Kadi 4kg
+pet|5|168.14|2j2FiEX|713073-MLA87288318879_072025||Bravecto Cães 20-40kg 1000mg 1 Comp. Mastigável Msd Azul
+pet|6|23.3|2uHGvb1|632907-MLA115701618116_092026||Areia Higiênica Granulado Para Gatos 4kg Mandioca + Minerais Controle De Odores Alta Absorção Econômica Biodegradável Não Suja Patinhas Rende Mais Banheiro Sanitário Pet Super Premium
+pet|7|136.29|1pJkHM5|956444-MLA116327367506_092026||Ração Golden Gato Castrado Adulto Sabor Frango 10,1kg
+pet|8|74|1aQZz3f|779227-MLA99942942427_112025||Comprimido NexGard Anti Pulgas e Carrapatos Cães 25,1-50kg 1 Tablete
+pet|9|123.18|11UQ95h|805521-MLU75306151652_032024||Simparic 40mg Cães 10,1-20kg Pulgas Carrapatos 3 Comprimidos Zoetis
+pet|10|42.97|1ZCFGhR|908706-MLA118066167113_092026||Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses Pulgas e Mosquitos
+pet|11|43|2hbnpP3|605917-MLA110210763454_052026||Antipulgas Defenza 45mg Cães De 2 A 4,5kg 1 Comprimido
+pet|12|46.9|1giV1a2|955216-MLA114022806412_072026||Tapete Higiênico Descartável Luxena para Cães e Gatos 50x60 cm com 50 Unidades e Eliminação de Odor Com Camadas De Proteção
+pet|13|56|2fsME9j|952496-MLA99450305980_112025||Ração P/caes Adultos Fresh Meat Sensitive Min E Peq 1kg
+pet|14|50.5|2cXuQHH|684780-MLA118487055202_102026||Kit 20 Whiskas Premium Carne Ao Molho Para Gato Adulto
+pet|15|130.81|13GbQLs|638840-MLA118579827896_102026||Ração Golden Premium Especial Castrado Carne Frango Gato Adulto 10,1kg
+pet|16|33|1t2UWv2|878947-MLA99932126325_112025||Ração Úmida Pedigree para Cão Adulto de Raças Pequenas Sabor Carne ao Molho - Kit com 12 Sachês de 100g
+pet|17|46.8|1Uk2Eiz|870187-MLA114452604619_072026||Coleira Antiparasitária Scalibor 48cm Cães Pulgas Carrapatos MSD
+pet|18|445|17AQsDN|808081-MLA99823828421_112025||Combo 2 Ração Quatree Supreme Gatos Castrados Salmão 10,1kg
+pet|19|192.5|1EVPY8N|734163-MLA95938679770_102025||Fórmula Natural Pro Cão Adulto Médio e Grande 15kg
+pet|20|19.9|1n2JiqK|912140-MLA100088914615_122025||Shampoo para cães Clorexidina World Fragrância Suave Frasco 500 Ml
+pet|21|178.19|1iT8Mhn|729927-MLA108260586639_032026|Cães|Ração Quatree Supreme Gatos Castrados Frango E Batata Doce 10,1 kg
+pet|22|23.99|22Y32yw|654877-MLA116053010345_082026|Cães|Peitoral Ergonômico PROMOFORCE de Náilon para Cães e Gatos, Azul-Turquesa L – Com Guia e Faixa Reflexiva
+pet|23|279.9|1qParpq|631012-MLA100018783777_122025|Gatos|NexGard Cachorro 25 kg à 50 kg 3 Comprimidos
+pet|24|44.29|2BeVkWk|676345-MLA116190281965_082026|Gatos|WellPet 200mg Ourofino Antipulgas e Carrapatos para Cães 10,1 a 20kg 1 Comprimido
+pet|25|166.67|2dWSUtd|813563-MLA99436997162_112025|Gatos|MSD Bravecto Azul-celeste Comprimidos Cachorro 20 kg a 40 kg
+pet|26|59.96|2XPt75F|915009-MLA110657065173_042026|Gatos|Cama De Gato Caminha Nuvem Ninho Pet Soft Redonda 70x70cm Cor Rosa-chiclete
+pet|27|58.6|1YkLtxP|968677-MLB118366695234_102026|Peixes|Bomba Submersa 2000l/h Lago Cascata Aquário Tanque De Peixes
+pet|28|34.5|2UjBSai|859834-MLA113678720504_072026|Peixes|Aquatank Filtro Externo Hang On Hf-0200 250l/h
+pet|29|16.15|1aA3Vc2|800000-MLA115958626812_092026|Peixes|Sifão Limpeza Com Bomba Manual Para Aquário Sugador Sujeiras
+pet|30|21.31|21SVG1K|762109-MLA120117731993_102026|Peixes|Bomba Submersa Agua Para Aquário Peixe Motor Fonte Bebedouro De Gato Lago Cascata Bombas
+pet|31|59.24|1A5Daoq|704725-MLA115196227653_072026|Peixes|Bomba Submersa 2000l/h 2m Lagos Recalque Fontes Aquários Cascata Chafariz Motor Água Doce Salgada Marinho Fonte Hidroponia Aquaponia
+pet|32|42.99|1fC5zTt|642518-MLB120018841292_112026|Peixes|Bomba Submersa 1000 L/h Lagos Aquário Fonte Agua Eleva 1,5m
+pet|33|25.18|1HQEcZf|722522-MLA119692534133_102026|Peixes|Bomba Submersa Bivolt Com Mangueira Para Aquário E Fonte De Água Motor Para Bebedouro De Gato E Pets
+pet|34|36.11|2t88LUS|921075-MLA106050309498_022026|Peixes|Ração Para Peixe Fort Flocos 250g Maramar alimento completo
+pet|35|29.99|1wZBaKt|700469-MLB117872632907_092026|Peixes|Luminária Led 5w Aquário Peixes Betta Plantado Bivolt
+pet|36|29.99|2TrUoiZ|729943-MLB90516981144_082025|Peixes|Motor Bomba Submersa Aquário Fontes Água Bivolt + Mangueira Bivolt
+pet|37|19.39|2YuELnH|834827-MLB113409987993_062026|Peixes|Manta Acrílica Lã Perlon Filtro Aquário Sump 1m X 1,40m Top
+pet|38|142.41|1sJtV3N|964838-MLA116131448724_092026|Peixes|Bomba Submersa 4000 L/h para Aquário Peixes Lagos Fontes Cascatas Chafariz Hidroponia Sump Elevação 4,0m Coluna D'água Bombinha de Água Silenciosa Climatizador Oxigenador Vazão Regulável Premium
+pet|39|27|15zwKXP|719733-MLB117874260657_092026|Peixes|Condicionador Anticloro - Instantaneo 1 Litro
+pet|40|21|2wyGy9N|986980-MLA99566851712_122025|Peixes|Bomba Submersa AquaTank SB-200 Aquário Fonte 300 L/H
+construcao|1|128|1nHeCJj|638677-MLA118516851287_092026||Ducha Eletrônica Lorenzetti Loren Shower Ultra 7500w 220v Branco
+construcao|2|22.9|1KiGU9q|870580-MLA115067778901_072026||Telha Pvc Plan Precon 2.42x0.88m Terracota
+construcao|3|19.99|1i8HJfZ|763060-MLA120178083748_112026||Telha Colonial PVC Precon de 3,28x0,86 m Terracota
+construcao|4|28.89|1xNfWiS|859190-MLA100084628639_122025||Régua Extensão Elétrica 6 Tomadas Filtro Linha 10a Cabo 2 Metros
+construcao|5|18.9|1y1EBi4|707984-MLA116332933142_092026||Extensão Elétrica 3 Metros com 3 Tomada Bivolt Branco Bestcon
+construcao|6|21.9|2GV8iNR|919101-MLA115787824327_082026||Extensão Elétrica 5 Metros Preta Filtro De Linha 3 Tomadas Energia Bivolt Tripolar Compacta Bestcon
+construcao|7|273.29|19rS9Wx|776678-MLA95631255988_102025||3 Mantas Asfáltica Aluminizada Telhado Auto Adesiva 45cmx10m
+construcao|8|59.9|16hA4NZ|868628-MLA95214672168_102025||Telha Pvc Plan Precon de PVC Cerâmica 3,30m x 88cm Laranja
+construcao|9|31.91|2LvfUi4|966957-MLB114597126661_072026||Filtro De Linha Extensão Régua Elétrica Bivolt Usb Tipo C Preto 127/220v
+construcao|10|41.34|2mMD5Ev|723321-MLA115550156894_082026||Filtro de Linha para 6 Tomadas com 2 USB e Proteção Contra Sobrecarga, Cabo de 2 Metros e 10A
+construcao|11|39.97|1h4SWrQ|770863-MLA117767371493_092026||Torneira Baixa Pia Banheiro Lavabo Inox Aço 304 Escovado Bancada Acabamento Fosco Cor Preto - Marca Camperluz
+construcao|12|19|1nNYwwj|728010-MLA117810445453_092026||Extensão Elétrica 2 Metros com 3 Tomadas Bivolt Preta Parosflux
+construcao|13|45.48|34hTnSW|977428-MLA110165892658_042026||Extensão Elétrica 30mts 3 Tomadas 20a 10a Bivolt Reforçada Preto 127/220v
+construcao|14|230.11|2bFvgrA|827922-MLA98777542521_112025||Chuveiro Elétrico Fame Intense Eletrônico Luxo White Potente Cor Branco Potência 5400 W
+construcao|15|34.03|2nmFNSm|818853-MLB111079678495_042026||Papel De Parede Madeira Lavável Vinílico 10 Metros Adesivo Carvalho
+construcao|16|26.6|2zVMKGG|602005-MLA117482500837_092026||Adaptador de Tomada Two Lef 20A para 10A com 3 Pinos, Bivolt e Cabo de 90 Graus
+construcao|17|170.28|1G2AcRp|861479-MLA99503246768_112025||Transformador 5000va De 110 Para 220 E 220v Para 110v Bivolt 12000 Btus Conversor Voltagem 5kva Energia Ar Condicionado Impressoras Brother Microondas Máquina Costura Geladeira Lavar Roupas 127v 127
+construcao|18|100|1C9iqdv|759545-MLA115253164788_082026||Chuveiro Eletrônico Zagonel Moment Branco 7500W
+construcao|19|63.99|1fDq4nM|641159-MLA117859946629_092026||Extensão Elétrica Two Lef de 30 Metros com 3 Tomadas e 20A Bivolt
+construcao|20|27.97|1noyYA1|861316-MLA114374165739_072026||Torneira Lavatorio Lavabo Pia Banheiro Luxo Bica Alta Reforçada Cromada - Marca Camperluz
+construcao|21|158.06|2gqP8Qo|877138-MLA110116456634_042026|Energia|Transformador 5000va 110-220 Ou 220-110 Conversor Bivolt 12000 Btus 2000W Geladeira Ar Condicionado Impressoras Brother Microondas Máquina Costura Lavar Roupas Preto - MAX AMPER
+construcao|22|53.99|1HrHctn|702153-MLB119031698595_102026|Energia|Cabo Flexível 2,5mm Rolo 100 Metros Unipolar 750v
+construcao|23|19|14aRHdP|826306-MLA122197444385_112026|Energia|Adaptador de Tomada Universal para Viagem Internacional Bivolt 110/220V Compatível com +150 Países EUA Europa Reino Unido Austrália Japão Adaptador Universal de Energia Portátil SAMZHE
+construcao|24|42.99|2XEYP6g|612488-MLA118445138646_102026|Energia|Filtro de Linha Régua extensão 6 Tomadas 5m 10A Preto Bivolt Proteção Sobretensão
+construcao|25|35.49|2uc8HdH|650887-MLA112992490716_072026|Energia|Filtro de Linha Régua extensão Protetor Eletrônico 6 Tomadas 3m 10A Preto Bivolt Proteção Sobretensão
+construcao|26|42.9|2LXrhLD|709426-MLA115448586876_082026|Energia|Tomada Inteligente Wi-Fi 16A Bivolt Qonex Automação Smart Plug Interruptor com Monitor de Consumo Compatível Alexa e Google Home
+construcao|27|74.99|1127oVr|918401-MLA99469437312_112025|Energia|Interruptor Inteligente Wifi Novadigital 2 Teclas Botões Touch Tuya Smart Life Alexa Google 220V Bivolt Branco LITE-WS2-W
+construcao|28|50|2dNUbYt|742222-MLB97632181400_112025|Energia|Cabo Flexivel 2,5mm Rolo Com 100 Metros 750v Fio Unipolar
+construcao|29|45.84|2oQyrvD|805024-MLA110742209364_052026|Energia|Cabo Paralelo 2x2,5mm Ecopack Fio Elétrico Instalação Residencial E Comercial Pvc Alta Resistência - 50m
+construcao|30|74.79|2BwJHPr|829239-MLA112806480127_062026|Energia|Cabo Flexível 4 Mm² Illuminix Rolo Com 100 Metros 750v Amarelo
+construcao|31|19.9|2f8J9uH|843247-MLA96664429521_102025|Materiais de Obra|Telha Colonial PVC Precon 2,30x0,86m Cor Cerâmica
+construcao|32|45.21|1pNhHJ8|953582-MLA118557817213_102026|Materiais de Obra|Spray Vedatudo Vazamentos De Agua Reparo Telha Laje Calha Transparente 400ml
+construcao|33|326|1WoqR3o|790035-MLA99914840697_112025|Materiais de Obra|Kit 24 Adesivo Silicone Pu40fix Selante Branco 387g Tek Bond
+construcao|34|36.34|2c3gVWE|627625-MLA99932092439_112025|Materiais de Obra|Rejunte Acrílico Weber Quartzolit 1kg - Cores Cor Ypê
+construcao|35|68.26|1WgL2HF|967652-MLA96101815039_102025|Materiais de Obra|Malibu Rolo De Tnt 40g 50 Metros 1.40 De Largura Cor Preto
+construcao|36|80.1|2rJe5Td|997158-MLA95706970008_102025|Materiais de Obra|Afort Terracota 6 Ondas 242x88cm PVC laranja
+construcao|37|28.03|1bjamVf|893261-MLA99360345444_112025|Materiais de Obra|Borracha Líquida Spray Dryko cor Preto 400ml
+construcao|38|48.99|187G8dk|695570-MLA114538216994_082026|Materiais de Obra|Manta Asfáltica Autoadesiva Aluminizada 15cm x 10m Dryko
+construcao|39|73.14|2QRWP17|959227-MLA99950104807_112025|Materiais de Obra|Rejunte Epóxi Quartzolit Verde Floresta 1 Kg Para Revestimentos e Piscinas
+construcao|40|34|2XvWqPv|958443-MLB120328232065_102026|Materiais de Obra|Kit 400 Peças Parafusos E Buchas P/ Parede Com Organizador
+saude|1|37.9|2aNz7Pc|662415-MLA97812910758_112025||Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g
+saude|2|78.92|2BdMkPd|603981-MLA115262802698_082026||Creatina Monohidratada 1kg 100% Pura - Dark Lab
+saude|3|39.9|2i9RAGJ|736679-MLA121751753241_112026||Creatina Monohidratada 500g 100% Pura - Soldiers Nutrition
+saude|4|99.99|2SWzvoL|951997-MLA99985874825_112025||Creatina Integralmédica sem sabor pacote x 2 frascos de 300g
+saude|5|99.9|17A1kp3|608162-MLA112813208483_062026||Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg
+saude|6|39.92|2g5REMX|830138-MLA116668021755_082026||Creatina Dark Lab Premium Pure em pó Sem sabor x 300g
+saude|7|73.99|1gpaHLi|819000-MLA101180020755_122025||Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg
+saude|8|134.93|2LvHXUc|927988-MLA99469885866_112025||Whey Protein Concentrado 1kg Morango Dark Lab
+saude|9|16.62|2dn9e1d|782298-MLA100076194863_122025||Creatina 100% Pura 60 Cápsulas Integralmédica
+saude|10|179.92|1sZxh27|989007-MLA99405715766_112025||Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab
+saude|11|21.5|2MmkXzG|697835-MLA117269994412_102026||Creatina Monohidratada Max Titanium Sem Sabor 100g
+saude|12|21.99|12aj3ix|603899-MLB115896722285_082026||Seringa Insulina 1ml 100ui Agulha Fixa 8x0,30 30g Kit 10un
+saude|13|239.9|2vzQJXh|824274-MLA98770399871_112025||Whey Protein Growth Concentrado 1kg – Sabor Baunilha
+saude|14|32.99|1ND5KDp|646740-MLA121929723333_112026||Creatina Dux Monohidratada 100% Em Pó 300g Sem Sabor
+saude|15|29.61|1H6w6tf|750371-MLA116617370667_082026||Balança Digital Bioimpedância Profissional smart imc 180kg Bluetooth Corporal Aparelho Alta Capacidade aplicativo App para Android e para IOS Balança De Banheiro Academia
+saude|16|200.51|2D6ogDM|900386-MLU75143558182_032024||Whey Fort 3w 900g Protein Sabor Frutas Vermelhas - Vitafor
+saude|17|78.9|2yqYEq3|616506-MLA110075703952_042026||Anabolic Mass 28500 3kg Profit Labs Sabor Chocolate
+saude|18|34.54|2vWiVhk|653067-MLA110738695437_042026||Mineral/Vitamina Bodyaction Nutri Science Magnésio E Inositol Taurina Melatonina 210g em pó sabor Maracujá x 210g
+saude|19|222.1|2CWvH7e|738007-MLA97316893807_112025|Suplementos Alimentares|Proteína Adaptogen Science Tasty Whey Gourmet em pó sabor Doce de leite x 900g
+saude|20|49.9|334AkhL|874204-MLA99607101834_122025|Suplementos Alimentares|Pré-treino Evolution 300G Termogênico Melancia - Soldiers Nutrition
+saude|21|49.5|2geitrD|661238-MLA100080909657_122025|Suplementos Alimentares|2 Potes Vitamina B12 Metilcobalamina - 60 Cápsulas Nutrify
+saude|22|34.9|1Sgt67X|843897-MLA114342332614_082026|Suplementos Alimentares|Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas
+saude|23|29.9|18HeDQj|995499-MLA115445220864_082026|Equipamento Médico|Luva De Látex Descartável Branca Com Pó Tamanho G Caixa 100 Unid
+saude|24|19.47|2A2w5Cs|612551-MLA82190844896_022025|Equipamento Médico|Luvas descartáveis Talge Vinil sem pó cor transparente tamanho P x 100 unidades
+saude|25|22.9|1VkB99J|778811-MLA118177128165_092026|Equipamento Médico|Seringa Insulina 1ml Agulha Fina 6x0,25mm Venper Kit 10un
+saude|26|32.9|2RHeSs7|688649-MLA114807724634_082026|Equipamento Médico|Luva Nitrilica Medix Antiderrapante Azul Tamanho P 100 Unidades
+saude|27|59.95|337YqkM|681654-MLA112155637395_052026|Equipamento Médico|50 Tiras Reagentes de Glicemia G TECH FREE Para Medir Glicose
+saude|28|21.82|2qYUAaV|940957-MLB107392155067_022026|Equipamento Médico|Seringa Insulina 1ml 100ui Agulha Fixa 6x0,25 31g 10un Medix
+saude|29|27.17|28yN232|777156-MLA110283061451_042026|Equipamento Médico|Seringa Insulina 30ui Agulha 6mmx25mm Fixa 0,3ml 10 Unidades 0.3 Ml
+saude|30|110|1fm5kzi|743592-MLA111143812147_052026|Equipamento Médico|Seringa de Insulina SR com Agulha Fixa 0.5 mL, Kit com 100 Unidades
+saude|31|24.73|1E756S4|622356-MLB114961446613_072026|Equipamento Médico|Seringa Insulina 50ui Agulha 6mmx25mm Fixa 0,5ml 10 Unidades
+saude|32|19|2B5Aqqq|609511-MLA118439958472_102026|Equipamento Médico|Máscara Descartável Elástico 50 Unidades Polipropileno Medix
+saude|33|139.99|2LKinkD|882459-MLA108382947382_032026|Equipamento Médico|Seringa Insulina C Agulha Fixa 0,5ml 0,25mm X 6mm 31g 100un
+saude|34|56.98|1xeWrdK|877695-MLA118988360749_102026|Equipamento Médico|Tiras Reagentes G-Tech Lite para Medição de Glicose com 50 Unidades
+saude|35|169.99|2HqvF3T|805937-MLB92881118779_092025|Equipamento Médico|Colchão Antiescara Pneumático De Ar Inflável Para Acamados
+saude|36|149.99|1KKEcsG|825313-MLA112252175911_052026|Equipamento Médico|APARELHO PARA MEDIR GLICOSE ACCU-CHEK ACTIVE COM 50 TIRAS
+saude|37|29.97|2cwFNLT|858951-MLA92612943807_092025|Equipamento Médico|Luvas descartáveis antiderrapantes Talge Luvas de látex cor natural tamanho PP de látex com pó
+saude|38|72.01|2KhXrqq|954447-MLA99516887728_112025|Equipamento Médico|Bisglicinato De Magnésio Vitafor Magnésio Plus 90 Cápsulas
+saude|39|41|2vR16fe|614620-MLA121394349647_112026|Equipamento Médico|Tiras de Glicemia G-Tech Vita Tiras 50un
+eletrodomesticos|1|91.02|1cqdpZe|744049-MLA99539379058_122025||Liquidificador Turbo Power Mondial 550W - L-99 FB
+eletrodomesticos|2|359.9|1DU6bL2|927559-MLA99450788218_112025||Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w
+eletrodomesticos|3|152.79|1arL3RU|764049-MLA114244626520_082026||Kit 2 Refil De Água Acqua Pure Electrolux Pe12a Pe12b Pe12g PC01X, Cor Marrom-claro
+eletrodomesticos|4|338|2sDnEtd|627568-MLA108247612641_032026||Aspirador Pó E Água Soprador Wap Gtw 10 Maré 1400w Cor Cinza
+eletrodomesticos|5|130.85|2nhCfGW|620576-MLA99958768953_112025||Ventilador de Mesa 30cm Super Power Mondial 60W VSP-30-B
+eletrodomesticos|6|94.9|2Wqne1Q|766837-MLA98259429221_112025||Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900
+eletrodomesticos|7|39.9|2MaddBy|811182-MLA111346833822_052026||Chaleira Elétrica 1,8l Ferve Água Rápido Inox Café Chá Inox
+eletrodomesticos|8|87.36|1ESzm6P|877834-MLA99469550350_112025||Batedeira Mondial Prática B-44
+eletrodomesticos|9|309|2MX7a6e|761173-MLA99475995202_112025||Air Fryer Philco 6,5l Visor Glass E Redstone 1700w Paf65a Preto 127v.
+eletrodomesticos|10|231.83|1xX2jmZ|911216-MLA114704223805_072026||Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial
+eletrodomesticos|11|31.97|2HpEnQw|873330-MLA115104920512_082026||Cozedor de Ovos Elétrico Micgeek a Vapor para 7 Ovos com Desligamento Automático
+eletrodomesticos|12|122.32|1c7mgw7|887734-MLA99375017938_112025||Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1
+eletrodomesticos|13|19.99|2cjxEnS|958277-MLA119493208264_112026||Mini Mixer Elétrico Recarregável USB 3 Velocidades – Espumador de Leite Profissional em Aço Inoxidável – Misturador Portátil para Cappuccino, Café, Matcha, Shakes e Ovos
+eletrodomesticos|14|260.13|2pa4HYC|963344-MLA96100910929_102025||Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol
+eletrodomesticos|15|329|17j6k3n|866410-MLA106357490185_022026||Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A
+eletrodomesticos|16|34.91|1QDusim|965103-MLA99575749404_122025||Chaleira Eletrica Atacama 1,8l - Unitermi
+eletrodomesticos|17|260.1|168NU2K|728713-MLA99416610212_112025||Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A
+eletrodomesticos|18|80.35|214GGTi|879703-MLA99536118600_122025||Refil Filtro W11199342 (CIX06AX) Purificador De Água Consul Cpc30af, Cpc30ab, Cpb35ab, Cpb35af, Cpb36af, Cpb36ab, Cpb34ab, Cpb34af, Cpb34as, Cpc31ab, Cpc31af , Original Branco
+eletrodomesticos|19|170.9|1Ktp83L|929681-MLA99450771766_112025||Liquidificador Pratic Turbo, Mondial, 550W - L-98-B
+eletrodomesticos|20|57.9|15T2wgu|695332-MLA118292636431_092026||Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório Gourmet Apartamento Casa - Commlite.
+eletrodomesticos|21|419.9|1z2Bf9C|654188-MLA110122213881_042026|Pequenos Eletrodomésticos|Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial
+eletrodomesticos|22|101.97|1qyZiGG|633183-MLA99468751756_112025|Pequenos Eletrodomésticos|Sanduicheira Elétrica Cadence SAN400 Preta
+eletrodomesticos|23|19.99|23Ksw4o|903976-MLA109751277529_032026|Pequenos Eletrodomésticos|Balança Digital Davely Cook 10 kg para Cozinha Branca
+eletrodomesticos|24|301.99|2LvM1g4|857179-MLA115434954082_082026|Pequenos Eletrodomésticos|Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea
+eletrodomesticos|25|239.9|33ixmXW|775407-MLA99776749612_122025|Pequenos Eletrodomésticos|Fritadeira sem óleo air fryer 4L Mondial 1500W AFN-40-BFT
+eletrodomesticos|26|234|1PSviQq|738236-MLA116379124521_082026|Pequenos Eletrodomésticos|Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro
+eletrodomesticos|27|47.74|1W2FDFk|751769-MLA119270000306_112026|Ar e Ventilação|Ventlador Bivolt 100 6 Pás E27 3 Velocidades LED 3 Tons de Luz Silencioso Mini Pequeno
+eletrodomesticos|28|137.91|1GcnCXy|957387-MLA95501959460_102025|Ar e Ventilação|Ventilador Bvt400 Maxx Force 2 Em 1 150w Preto Britânia
+eletrodomesticos|29|299|2yAzeWH|751745-MLA99477917668_112025|Ar e Ventilação|Ventilador de Coluna Arno Essential 40cm 6 PÁS 140W VE2C
+eletrodomesticos|30|248|125oR47|719817-MLA113216396562_072026|Ar e Ventilação|Ventilador Parede 50cm 6Pás Monta Fácil Preto Ventisol
+eletrodomesticos|31|68.5|1VGrv7N|892367-MLA112728337850_062026|Ar e Ventilação|Ventlador de Teto 120W Silencioso Forte com LED, Controle e 6 Pás
+eletrodomesticos|32|484.9|2jpDVmw|665541-MLA91981620699_092025|Ar e Ventilação|Climatizador De Ar Ventisol Clin 16 5 Em 1 130W Com Gelo Reservatório 16L Filtro Colmeia E Oscilação Automática
+eletrodomesticos|33|100|2226CVP|769335-MLA99425803926_112025|Ar e Ventilação|Ventilador de Mesa 30cm Super Power, Mondial, 60W - VSP-30-AP
+eletrodomesticos|34|211.25|1J6K52j|754389-MLA119103956430_112026|Ar e Ventilação|Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto
+eletrodomesticos|35|125.9|2PbtLFS|908667-MLA99533027792_122025|Ar e Ventilação|Ventilador De Mesa Britânia Prime Air AVTE300 Preto com 6 Pás e 3 Velocidades
+eletrodomesticos|36|299.99|2AWmcjB|720983-MLA100059069891_122025|Ar e Ventilação|Ventilador de Mesa 40cm Arno X-TREME 7 - 7 PÁS, 150W VE70
+eletrodomesticos|37|77.84|15MTax4|907489-MLB116280075972_092026|Ar e Ventilação|Kit 2 Ventiladores De Teto Retrátil Lâmpada 3 Cores 60w
+eletrodomesticos|38|251.92|2AMWakY|900892-MLA99964407659_112025|Ar e Ventilação|Ventilador Philco Pvt41a Tecnologia Maxx Force 150w
+eletrodomesticos|39|254.25|1LusyuJ|702322-MLA105457895165_012026|Ar e Ventilação|Ventilador de Coluna Britânia 6 Pás de 40cm 160W BVC41A
+eletrodomesticos|40|164.9|23mZ35q|843498-MLA113779468044_072026|Ar e Ventilação|Ventilador de Mesa Mondial Super Power 40cm 6 Pás VSP-40-B 127V Preto/Cinza
+eletronicos|1|118.75|33VhJ3B|730568-MLA99983575997_112025||Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personalização de Som via App Cor Preto
+eletronicos|2|19|1m9uiBZ|854028-MLA117416860537_092026||Suporte TV Fixo Universal 10" a 100" Polegadas Forte Para Todas as Marcas
+eletronicos|3|24.9|1Ryzfmt|745614-MLA116755340171_082026||Pilha Alcalina Aa Pequena Duracell Com 4 Unidades
+eletronicos|4|1899|1wk6jxb|994322-MLA99533174096_122025||Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A
+eletronicos|5|179.9|2EiUSMv|828936-MLB88748640584_082025||Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v
+eletronicos|6|24.99|1eBR9B8|723680-MLA121916642941_112026||Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug
+eletronicos|7|186.2|2gjczhK|760745-MLA95700724020_102025||Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto
+eletronicos|8|202.5|266CNgP|967872-MLA87279987383_072025||Samsung Galaxy Buds Core branco
+eletronicos|9|70.9|29d6uDq|673950-MLA99394598783_112025||Fone de Ouvido Bluetooth Dapon H02D, Bluetooth 5.1, Modo Sem Fio e P2 3,5mm, Dobrável, Almofadas Macias,Microfone Integrado, Controle no Fone, Carregamento Tipo-C Preto
+eletronicos|10|78.9|2AJM4rW|817010-MLA119521703492_112026||Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto
+eletronicos|11|1360|31haUu1|864411-MLA99591392870_122025||Caixa De Som Boombox Aiwa AWS-BBS-01-B 200w IP66 30hs De Bateria
+eletronicos|12|96.87|13dosYG|857350-MLA107653770031_022026||Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Branco
+eletronicos|13|36.95|1X7M7JN|706538-MLB111795032848_062026||Suporte Articulado Para Tv Lcd Led 3d 24 32 40 42 49 50 55 Preto
+eletronicos|14|449.89|2CvpzhW|906463-MLA118742749100_102026||Kit Starlink Mini X – Internet via Satélite com Antena Mini e Roteador Wi-Fi 6
+eletronicos|15|209|2dwvwnU|608030-MLA106478715282_022026||Fone de Ouvido On-Ear - JBL Tune 530BT - JBL Pure Bass, Drivers de 33 mm, Bluetooth 6.0, Multiponto, 2 Microfones Beamforming, Carga Rápida, até 76h de Bateria e App JBL Headphones - Preto
+eletronicos|16|29.89|251sC5E|871216-MLA120306690651_102026||Antena Digital 4k Hd Interna Externa Para Tv Samsung LG Smart Led Lcd 3d Uhf Cabo Longo Com Base Magnética
+eletronicos|17|89|2rBm8g3|638013-MLA99988533713_112025||Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4
+eletronicos|18|65.99|2ZHi7Z8|971330-MLA118049048726_102026||Rádio Retrô Vintage Portátil AM/FM Bluetooth USB Marrom
+eletronicos|19|2299|2Vtis6H|863194-MLA118534430667_092026||Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Preta
+eletronicos|20|58.49|122Y4cG|996455-MLB77546660553_072024||Kit 8 Pilhas Recarregáveis + Carregador Rápido Bivolt Aa/aaa
+eletronicos|21|135.69|1VL5JdY|839706-MLA100500303163_122025|Componentes Eletrônicos|Inversor Veicular IF-378 350W 12V para com USB e LED Defqual
+eletronicos|22|19.32|2cZksY2|973485-MLB120416789863_102026|Componentes Eletrônicos|Kit 20 Conectores De Fio Emenda Rápido Elétrico E Isolamento Preto
+eletronicos|23|122.54|2rJEgZj|652219-MLA114925602909_072026|Componentes Eletrônicos|Inversor De Tensão Veicular 12v Para E 300w Automotivo Com Usb E Tomada Para Carro Starlink
+eletronicos|24|138.7|227ZNPJ|844831-MLB94688512010_102025|Componentes Eletrônicos|Inversor De Corrente 12v Para 110v 1000w Transformador
+eletronicos|25|24.49|2yQje6f|759086-MLA100092165627_122025|Componentes Eletrônicos|Fonte Colméia Chaveada 12V 5A 60W Bivolt Haiz para Led Som CFTV Câmeras
+eletronicos|26|33.56|2TcXguP|750181-MLB112918532031_062026|Componentes Eletrônicos|Kit 100 Conector De Pressão Emenda 2 Vias Sem Solda Eyecool Branco
+eletronicos|27|25.9|25UDg8y|781730-MLB75162386087_032024|Componentes Eletrônicos|Kit Cabo Jumper Macho Macho + Macho Femea + Femea Femea 120x
+eletronicos|28|57.5|1efntoy|837801-MLA119180594086_112026|Componentes Eletrônicos|Fonte Chaveada 12v 50a 600w Bivolt Estabilizada Som Automotivo Led Cftv Impressora 3d Lumiville
+eletronicos|29|120|1RzRERa|611095-MLA114208591851_072026|Componentes Eletrônicos|Inversor De Tensão Veicular 12v Para 110v E 300w Com 4 Portas USB 5v Automotivo Com Usb E Tomada Para Carro Starlink Pholex
+eletronicos|30|129.56|1SY5M6M|988073-MLB104564834920_012026|Componentes Eletrônicos|Inversor De Corrente 12v Para 220v 1000w Transformador
+eletronicos|31|30.06|2szqfoP|971048-MLA113522893841_062026|Componentes Eletrônicos|Kit Espaguete Tubo Termo Retratil Encapar Cabos Fios 560pcs Multcores
+eletronicos|32|39.45|1W9ftF6|648862-MLB118809734043_102026|Componentes Eletrônicos|Módulo Relé Acionador Bomba Com Controle Remoto 30a 110/220v 127/220v
+eletronicos|33|43.89|1SFz3dr|916307-MLB115178724928_082026|Componentes Eletrônicos|Esp32 Devkit Módulo Microcontrolador Wroom32 Memória Placa
+eletronicos|34|45|1Aog5XF|815195-MLB118335854024_102026|Componentes Eletrônicos|Rele Controle Remoto Ac Motor Bomba Água 110v220v 127/220v 127/220v
+eletronicos|35|29.66|2yHWULv|681316-MLB104808379442_012026|Componentes Eletrônicos|Terminais Elétrico Tubular Ilhós 1200 Unidade 0,5mm Até 10mm
+eletronicos|36|34.9|14SGMy8|799527-MLA115258586514_082026|Componentes Eletrônicos|Conector De Fios Emenda Rápida 2 Vias Kit Com 20 Unidades Entrada E Saida
+eletronicos|37|37.82|33TkxcK|791778-MLB71280223208_082023|Componentes Eletrônicos|Placa Esp32 Pino Soldado Wifi Bluetooth Com Esp32-wroom-32
+eletronicos|38|26.78|1Vh2S8j|971640-MLB89122567019_082025|Componentes Eletrônicos|Relé Interface Acoplador Atork, 12v, 24v, 127v, 220v
+eletronicos|39|20.34|2xqumLM|852717-MLA100083952399_122025|Componentes Eletrônicos|Fonte Slim 12V 60W 5A Lustres Online Para Fita LED e CFTV IP40 Aquanano
+eletronicos|40|105|14R6XWh|776643-MLA97452664977_112025|Áudio|Headphone Philips Bluetooth E Energia Para 55h Tah2300bk/00 Preto
+celulares|1|1317|13TGLEz|889169-MLA96868779849_102025||Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul
+celulares|2|1299|1RcmHxL|895724-MLA91526198522_092025||Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7"
+celulares|3|1079|1BkrVwk|980483-MLA91807112934_092025||Smartphone Moto g06 4G Tela 6,9 256GB Câmera 50MP Motorola
+celulares|4|139.96|11kCH5b|719636-MLA99381510294_112025||Power Bank Basike 20000mAh Preto, Carga Rápida 22.5W para iPhone e Samsung, Com Cabos Embutidos e Display
+celulares|5|772.37|1PHuqrZ|773592-MLA105493148200_012026||Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela Fhd+ 60hz, Bateria 5200 Mah - Azul
+celulares|6|118.75|33VhJ3B|730568-MLA99983575997_112025||Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personalização de Som via App Cor Preto
+celulares|7|28.9|1Uuk4Nr|804604-MLB118927678949_102026||Cartão De Memória 128 Gb Para Câmeras Wi-fi Drones Micro Sd
+celulares|8|28.49|2pew9HN|767887-MLA120087704221_102026||Carregador Super Rápido 25w Para Samsung Galaxy S24 S23 S22 S21 S20 Fe Ultra Motorola M22 M31 M32 M62 M63 M64 G15 Xiaomi Redmi Note 12 13 14 15 LG - Super Fast Cabo Blindado Tipo Usb C Fast Plug
+celulares|9|44|2gajuuf|826850-MLA116465697992_092026||Carregador 30w Turbo Para iPhone 8 X Xr 11 12 13 14 Pro Max Fonte Usb C Cor Branca Dtimp
+celulares|10|29.49|1Gmvsia|923598-MLA113044313715_062026||Carregador Super Rápido 25w Para Samsung Galaxy S24 S23 S22 S21 S20 Fe Ultra Motorola M22 M31 M32 M62 M63 M64 G15 Xiaomi Redmi Note 12 13 14 15 LG - Super Fast Cabo Blindado Tipo Usb C -Dtimp
+celulares|11|24.99|1eBR9B8|723680-MLA121916642941_112026||Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug
+celulares|12|78.97|1sVFXtY|727353-MLA121910468817_112026||Power Bank 20000mah Carregador Portátil Turbo Rápido 22.5w Display Digital Preto
+celulares|13|1799|2TrcgUe|631624-MLA99926713059_112025||Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather
+celulares|14|202.5|266CNgP|967872-MLA87279987383_072025||Samsung Galaxy Buds Core branco
+celulares|15|39.7|2yuoUSa|999053-MLA112935055303_062026||Carregador Turbo 40w Para iPhone 11 12 13 14 Pro Max Usb Branco
+celulares|16|19.9|1Ugx8h5|656233-MLB112764955318_062026||Capa Capinha Anti Shock Para Samsung + Película Cerâmica 3d Transparente E Película A17
+celulares|17|989.1|1frwU8r|701453-MLA115696737028_092026||Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP com editor magico, Bateria de 5200 mAh e tela 6.7" 120Hz, NFC - Azul Nautico
+celulares|18|38.9|18ac5dW|669139-MLA110835515699_042026||Carregador Turbo Super Rápido 30w Para iPhone 15 16 17 Pro Max - Cabo Super Rápido Turbo Tipo Usb C Dtimp
+celulares|19|3098|1mhtLEE|961264-MLA95713213402_102025||iPhone 16e (128 GB) - Preto - Distribuidor Autorizado
+celulares|20|78.9|2AJM4rW|817010-MLA119521703492_112026||Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto
+celulares|21|124.9|1oTRVLZ|899751-MLA99504871320_112025|Acessórios para Celulares|Carregador Portátil Power Bank Turbo 20000mah 22.5w universal para iphone samsung motorola xiaomi Com Display Digital DTimp
+celulares|22|19.9|2k7GJsn|716836-MLB117468374767_092026|Acessórios para Celulares|Kit 2 Pelicula 3d De Vidro Para iPhone Todos Os Modelos iPhone 17 Pro Max
+celulares|23|19|1mEv1fM|826812-MLA111718763226_062026|Acessórios para Celulares|Cabo Carregador Turbo Tipo C Para iPhone 8 X Xr 11 12 13 14 Pro Max Cor Branco Dtimp
+celulares|24|209|2dwvwnU|608030-MLA106478715282_022026|Acessórios para Celulares|Fone de Ouvido On-Ear - JBL Tune 530BT - JBL Pure Bass, Drivers de 33 mm, Bluetooth 6.0, Multiponto, 2 Microfones Beamforming, Carga Rápida, até 76h de Bateria e App JBL Headphones - Preto
+celulares|25|27.9|2puJevU|688434-MLA107886731106_032026|Acessórios para Celulares|Suporte de Celular Veicular Automotivo Pra Carro Universal AYANN para Painel e Para-brisas com Ventosa
+celulares|26|77.49|296fjKs|918189-MLA113906382815_062026|Acessórios para Celulares|Carregador Portátil Power Bank 20.000mah Turbo Celular Carga Rápida 22.5w Premium Display Visor Grande Universal Usb-c Viagens los E Android Compatível Com IPhone Samsung Motorola Xiaomi Branco Nixzen
+celulares|27|19.9|2XWund7|632856-MLA112428403362_062026|Acessórios para Celulares|Cabo Carregador Usb-c Tipo C Turbo 60w Carga Rápida Nylon Trançado Premium 1M Resistente Compatível Samsung Xiaomi Motorola iPhone 15 16 17 18 Notebook Tablet Transferência Dados Eletric Teck
+celulares|28|29.9|2ZiGik8|920412-MLA118577870138_102026|Peças para Celular|Kit Jogo de Ferramentas Precisão Magnético 115 Peças Quicko para Reparação Kit Completo Para Assistencia Tecnica Celulares Jogo De Chave Abrir Celular Equipamentos Para Manutenção De Celular
+celulares|29|62|1e3BoHr|908756-MLA117835115873_092026|Peças para Celular|Microfone Lapela A'Gold MCF-38D Sem Fio para iPhone e Android com 2 Microfones
+celulares|30|19.99|1aFqG1G|663700-MLB80584879760_112024|Peças para Celular|Cola 15ml B7000 Transparente + Elástico Tela Reparo Celular
+celulares|31|71.79|1ydoP1g|890172-MLA117469155409_092026|Peças para Celular|Tela VIVID HD+ para iPhone 11 + Película Vidro 3D A2111 A2221 A2223 Módulo Display LCD Frontal Touch Screen Compatível com iphone DCY
+celulares|32|64.79|27McW3w|922342-MLA115555822754_082026|Peças para Celular|Microfone Lapela Duplo Anti Ruído Tipo C E Lightning iPhone
+celulares|33|27.84|2b9Ve4q|751055-MLA112428593866_062026|Peças para Celular|Kit Chave Precisão Profissional 115 Peças Magnético Manutenção Celular Notebook Jogo Compacta Multiuso Compatível Com iPhone Computador Vídeo Game Tablet Philips FendaTorx Y Nixzen
+celulares|34|55.99|263SHk7|828030-MLA113675933852_072026|Peças para Celular|Tela Compatível A02 A12 A125 M12 Top + Brinde / Frontal Display Lcd Touch Módulo 4 STORE PREMIUM
+celulares|35|22.99|2tPCbVf|797568-MLB118010426448_102026|Peças para Celular|Kit Cola B7000 Ou T7000 + Ferramentas Reparo Celular Tela T7000 Preto
+celulares|36|61.99|2hE7GnP|851629-MLA113586055342_072026|Peças para Celular|Tela Compatível Moto G04 G04s G24 E14 Top + Brinde / Frontal Display Lcd Touch Módulo 4 STORE PREMIUM
+celulares|37|94.99|33kegcA|665465-MLA114972506691_072026|Peças para Celular|Tela Compatível iPhone 12 e IPhone 12 Pro Top + Brinde / Frontal Display Lcd Touch Módulo 4 Store Premium Preto
+celulares|38|71.99|2NBCWHR|618236-MLA116280406418_092026|Peças para Celular|Tela Compatível iPhone 11 6.1 A2111 A2221 A2223 Top + Brinde / Frontal Display LCD Touch Módulo 4 STORE PREMIUM
+celulares|39|63.99|1hJYAJq|697099-MLA116271566750_092026|Peças para Celular|Tela Compatível A15 4g A15 5g A155 Top + Brinde / Frontal Display Lcd Touch Módulo 4 STORE PREMIUM
+celulares|40|56.99|2dUQ3cR|913866-MLA113683631950_072026|Peças para Celular|Tela Compatível A02S A035 A03S A04E Top + Brinde / Frontal Display Lcd Touch Módulo 4 STORE PREMIUM
+informatica-e-games|1|150|2uCcyJQ|902418-MLA116666090065_082026||Sony PlayStation Store Gift Card R$ 150 (Digital)
+informatica-e-games|2|100|2ppzRsX|639120-MLA116488850701_082026||Xbox Cartão Presente R$ 100 Gift card (Digital)
+informatica-e-games|3|63.99|2e5zdG4|913849-MLA105989588051_012026||Filamento 3D Petg Branco Premium Resistente Impressora 3D Master Print 1,75mm - 1kg
+informatica-e-games|4|113.9|2fo8gH5|647571-MLA116549201715_082026||Filamento PLA Voolt3D High Speed Premium de 1.75mm e 1kg Verde Velvet
+informatica-e-games|5|139.96|11kCH5b|719636-MLA99381510294_112025||Power Bank Basike 20000mAh Preto, Carga Rápida 22.5W para iPhone e Samsung, Com Cabos Embutidos e Display
+informatica-e-games|6|101.99|2FbtMSb|903418-MLA107165042644_022026||Filamento Pla Plus 1kg Impressão 3d Nacional - Cores Cor Preto
+informatica-e-games|7|123.41|1GRK1n1|998645-MLA99980485903_112025||Bambu Lab PLA Lite vermelho
+informatica-e-games|8|30|2w4gJxj|634164-MLA115097345074_082026||Razer Gold Digital R$ 30 (digital)
+informatica-e-games|9|42.9|1MJVspp|795187-MLA107571017470_032026||Cabo De Rede Internet 30m 30 Metros Cat6 Azul Crimpado Giga Lan Ethernet Boyu Cell
+informatica-e-games|10|91.91|2WJ7Nbc|895244-MLA113527662763_062026||Filamento Pla Impressão 3d High Speed 1kg Onyon3d 1.75mm Ful Verde
+informatica-e-games|11|324|1QCGdqG|805455-MLA99487191924_112025||KIT 10 Resmas - Papel Sulfite A4 Report 500 Folhas Branco
+informatica-e-games|12|63.64|1WeZbMi|680341-MLA118784298481_102026||Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6" E À Prova D'Água
+informatica-e-games|13|78.97|1sVFXtY|727353-MLA121910468817_112026||Power Bank 20000mah Carregador Portátil Turbo Rápido 22.5w Display Digital Preto
+informatica-e-games|14|202.5|266CNgP|967872-MLA87279987383_072025||Samsung Galaxy Buds Core branco
+informatica-e-games|15|103.41|2HbVEMh|972554-MLA112052080599_052026||Filamento de Impressão 3d Esun Pla Basic 1 Kg Cor Preto
+informatica-e-games|16|38.99|18HVrP8|793055-MLA115825214508_092026||Mochila Masculina Grande Notebook Impermeável Reforçada Woosh
+informatica-e-games|17|1079|2YYAzn2|885225-MLA99998218631_112025||Impressora multifuncional Wi-Fi Epson Ecotank L3250 Mod C11CJ67301
+informatica-e-games|18|70.9|29d6uDq|673950-MLA99394598783_112025||Fone de Ouvido Bluetooth Dapon H02D, Bluetooth 5.1, Modo Sem Fio e P2 3,5mm, Dobrável, Almofadas Macias,Microfone Integrado, Controle no Fone, Carregamento Tipo-C Preto
+informatica-e-games|19|78.9|2AJM4rW|817010-MLA119521703492_112026||Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto
+informatica-e-games|20|149.99|2DhvjVs|735713-MLA99973706633_112025||Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto
+informatica-e-games|21|550|13dSJEZ|667359-MLA120524668786_112026||Rockstar Games Gta Vi Ps5 Edição Padrão
+informatica-e-games|22|5499|17v5GC9|759031-MLA120439839994_112026||Console PlayStation 5 Slim Digital - Pacote Astro Bot e Gran Turismo 7 - Branco
+informatica-e-games|23|56.9|1cE3Cyg|762912-MLA105696431793_012026||Controle Sem Fio Joystick REDFIN Bluetooth Compatível Para Ps4 Videogame Tv Samsung Pc P4 Ps 4 Manete Pc Gamer Tv Smart Controle Bluetooth Celular Headset Sem Fio Com P2 Marca Redfin
+informatica-e-games|24|359.1|15ZtrC6|759059-MLA99508283678_112025||Controle Joystick Sem Fio Sony Playstation 5 Midnight Black Preto
+informatica-e-games|25|130.41|2ZgZeyK|743438-MLA105468591979_012026||Headset Gamer Redragon Zeus Lite Preto Drivers 53mm com Microfone Removível
+informatica-e-games|26|50|1SC7DdK|845854-MLA115155718544_082026||Nintendo Gift Card eShop R$ 50 (Digital)
+informatica-e-games|27|359.1|1yZuREQ|948051-MLA119960877876_112026||Controle Sem Fio Sony DualSense para PlayStation 5 Cor Branco CFI-ZCT1W
+informatica-e-games|28|58.52|1jfbSwH|931423-MLA117290685353_092026||Cartão de Memória Micro SD SanDisk Ultra microSDXC 128GB SDSQUNR-128G com Adaptador
+informatica-e-games|29|153.83|2zVMxaB|913023-MLA110131689717_042026||Fone de Ouvido Gamer com Fio - Quantum 100M2 - Driver de 40mm, Microfone Boom Removível, Compatível com PC e Consoles, JBL QuantumSOUND Signature - Preto
+informatica-e-games|30|107|2h5nVp2|980288-MLA99966340125_112025||Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria
+informatica-e-games|31|82.65|2qGubPJ|713220-MLA96140340073_102025||Cartão Micro Sd 32gb 16tbw Western Digital Purple
+informatica-e-games|32|709|1kSGZi1|644387-MLA119786973369_102026||Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)
+informatica-e-games|33|139|1ptPGan|759854-MLA99487952684_112025||Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto
+informatica-e-games|34|269.1|2wiukJh|685800-MLA95634757877_102025||Fones de ouvido para jogos sem fio Redragon H510-PRO H510-PRO pretos com luz LED
+informatica-e-games|35|46.9|1RdQH2u|905623-MLA118558569418_102026||Controle Para Xbox 360 Com Fio USB Joystick Manete Gamepad Controle PC Gamer Para Computador Windows Steam Game Pass Android Gamepass TV Vibração Analógico Ergonômico Plug And Play Redfin
+informatica-e-games|36|1099|1izQFch|930129-MLU78451929490_082024||SSD Kingston NV3 1TB M.2 2280 PCIe 4.0 NVMe 6000 MB/s
+informatica-e-games|37|19.74|2mqT1K8|783743-MLB83051258254_032025||Suporte Base Vertical Para Playstation 5 Ps5 Slim Fat Todos
+informatica-e-games|38|137.9|1wfqDLp|994442-MLA95384666215_102025||Cartão Micro Sd 64gb 32tbw
+informatica-e-games|39|22.99|2HT5iEn|862425-MLA95804056004_102025|Portáteis e Acessórios|Suporte Para Notebook e Macbook de Alumínio Dobrável Prateado Ajuste de Altura e Inclinação Confortáve Base Antiderrapante Portátil Articulado Reforçado Ergonomico Universal Para 14 a 20 Polegadas
+informatica-e-games|40|529.9|1PcXUve|821363-MLA118014839321_092026|Portáteis e Acessórios|Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4
+acessorios-para-carro-e-moto|1|338|2sDnEtd|627568-MLA108247612641_032026||Aspirador Pó E Água Soprador Wap Gtw 10 Maré 1400w Cor Cinza
+acessorios-para-carro-e-moto|2|38.61|2knA1Xj|636812-MLA120529755972_112026||Carregador de Bateria 12V 6A Bivolt Inteligente Carro Moto Caminhão Automotivo 4Ah a 100Ah Com Função Reparo Display Digital Proteção Carga Emergencia Portátil Resistente Eficiente Multifuncional
+acessorios-para-carro-e-moto|3|56.87|33SoUz5|842487-MLA120158163710_112026||Compressor de Ar Portátil VERUNTO VER-B15 com Tela Digital para Carro, Moto e Bicicleta
+acessorios-para-carro-e-moto|4|39.99|2okyozY|712572-MLA119455735087_102026||Carregador Inteligente De Bateria Automotiva 12v 6a Bivolt Recupera Baterias 4ah A 100ah Todos Veículos Moto Carro Caminhão Barco Woosh
+acessorios-para-carro-e-moto|5|148.1|1bJJDEF|727270-MLA116319031959_082026||Modulo Taramps 400 Rms Ts-400 Ts400x4 T400 4 Canais V6
+acessorios-para-carro-e-moto|6|269.1|19Zefem|631074-MLA99452011506_112025||Amplificador Taramps TS 800x4 800W 4 Canais para Som Automotivo
+acessorios-para-carro-e-moto|7|141.07|1BuVQVR|919649-MLA112122698633_052026||Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta Inflador Automotivo Cor Preto
+acessorios-para-carro-e-moto|8|37.34|2Tm6yfD|705624-MLA120956340977_112026||Fone De Ouvido Para Capacete Moto Bluetooth Motoboy Headset Rgb Sem Fio Comunicador Woosh
+acessorios-para-carro-e-moto|9|29.09|1WK25Ge|739911-MLA111969831660_062026||Mini Aspirador De Pó Portátil Recarregável Soprador Usb Automotivo 3em1 Sem Fio Premium Vácuo Limpeza Carro Multifuncional Casa Dr Hank
+acessorios-para-carro-e-moto|10|20.9|1SKrLGy|886444-MLB95702648919_102025||Scanner Automotivo Bluetooth Obd2 Eml 327 Android Ios Obdii
+acessorios-para-carro-e-moto|11|150.65|1ZdjtPi|983870-MLB115020123038_082026||Compressor De Ar Portátil Auxiliar Partida Digital 4 Em 1 Preto 127/220v
+acessorios-para-carro-e-moto|12|23.9|1ip1xwq|643376-MLA99585610312_122025||Lona Plástica Polietileno 3x2m Azul Impermeável Lonas Online com UV
+acessorios-para-carro-e-moto|13|37.68|2qfCrLy|622276-MLA121203733431_112026||Fone De Ouvido Para Capacete Moto Bluetooth Motoboy Headset Rgb Comunicador Motoqueiro Sem Fio Kateluo
+acessorios-para-carro-e-moto|14|151.71|2DZSwTD|973555-MLA115777841187_082026||Auxiliar de Partida Carregador Bateria e Compressor de Ar Portátil 6 em 1 Inteligente para Carro, Moto e Bicicleta com Lanterna e Power Bank
+acessorios-para-carro-e-moto|15|34.9|324Sa9t|902305-MLB88750630332_082025||Kit 2 Capa De Chuva Reforçada Pvc Transparente Resistente Transparente Único
+acessorios-para-carro-e-moto|16|105.5|1wFGQQ8|951048-MLA101766821321_122025||Capacete Moto Aberto Pro Tork New Liberty Three Amarelo Tamanho 56 Desenho Solid Viseira Cristal
+acessorios-para-carro-e-moto|17|72.59|1inkyWZ|786122-MLB94266586894_102025||Capa Chuva Motoqueiro Pvc Impermeável Motoboy Emborrachada
+acessorios-para-carro-e-moto|18|22.9|1hr14bm|982212-MLB116514165860_092026||Par Palheta Limpador Para-brisa Silicone Escolha Seu Tamanho Selecione O Tamanho A Cima 22/18 Polegadas
+acessorios-para-carro-e-moto|19|39.78|134YYzS|660778-MLA110508992255_042026||Vonixx Blend 500ml Proteção E Brilho + Flanela Microfibra
+acessorios-para-carro-e-moto|20|19|2SQUM6D|781508-MLA119564550868_112026||Estilete Vonder ES 218 Lâmina Segmentada 18 mm
+acessorios-para-carro-e-moto|21|28.8|2ptpaZF|768391-MLB114357470047_072026||Quebra Sol Para Brisa Carro Protetor Solar Quebra Sol Eletro
+acessorios-para-carro-e-moto|22|59.17|1RXLjmd|877303-MLB114389976225_072026||Capa Protetora Para Carro Forrada Proteção Contra Sol Chuva Fiat Palio 1996 A 2018 G1 G2 G3 G5g4
+acessorios-para-carro-e-moto|23|28.97|1ZCqZh4|848016-MLB119801714653_102026||Quebra Sol Para Brisa Carro Protetor Solar Guarda Chuva
+acessorios-para-carro-e-moto|24|28.9|2jmMk8f|628378-MLB120068557175_102026||Quebra Sol Para Brisa Carro Protetor Solar Guarda Chuva
+acessorios-para-carro-e-moto|25|25.9|1T6DFzV|641143-MLB121224794475_112026||Quebra Sol Para Brisa Carro Protetor Solar Guarda Chuva
+acessorios-para-carro-e-moto|26|73.99|1ndvHzT|928984-MLA99926475771_112025||3 Câmera Wifi Automotiva Veicular Carro Com Hd Noturna 1080p Icarbonx
+acessorios-para-carro-e-moto|27|32.98|2fPRURd|856616-MLA96076005507_102025||Câmera De Re Automotiva 8 Leds Hd Infravermelho Visão Noturna Colorida Universal Veicular Carro Borboleta 2 Em 1 A Prova D'agua Gurumania
+acessorios-para-carro-e-moto|28|53.62|1rLV4Er|906196-MLA99448129206_112025||Removedor De Piche E Cola Strike Vonixx - 500ml
+acessorios-para-carro-e-moto|29|69.79|1dyszcT|657983-MLB118692455592_102026||Suporte De Painel Veicular Starlink Mini Ventosas Antimulta Preto
+acessorios-para-carro-e-moto|30|61.11|31WiCLT|742926-MLA116270602221_082026||Capa Para Carro Forrada Impermeável 100% Proteção Anti Raios Uv, Sol, Poeira, Riscos, Chuva Diversos Tamanhos P M e G Sumo
+acessorios-para-carro-e-moto|31|104.94|2Fy3M8u|605165-MLA99336586296_112025||Vonixx V-Mol 5L Desengraxante Automotivo Remove Lama Graxa
+acessorios-para-carro-e-moto|32|165.2|1j8ZeYH|872474-MLB105809154586_022026||Case Suporte Starlink Mini 4 Ímãs 66 Mm Teto Carro Veicular Preto
+acessorios-para-carro-e-moto|33|107.97|1F8NTpK|822593-MLB117335464844_102026||Munheca Para Reboque Carretinha Completa 2.500kg
+acessorios-para-carro-e-moto|34|58.1|2Yt7DST|898326-MLB101415584246_122025||Jogo Tapete De Borracha Personalizado Chevrolet + Lixeira 3 Peças Onix 2012 A 2024
+acessorios-para-carro-e-moto|35|59.99|28kQNk5|929548-MLB115298881675_072026||Capa Protetora Carro Forrada Contra Sol Chuva Poeira Prot Uv Volkswagen Fusca 1950 A 1996
+acessorios-para-carro-e-moto|36|48.86|2v6Fb7y|929713-MLB117949809810_102026||Capa Pra Cobrir Carro Automotiva 100% Impermeável Com Forro
+acessorios-para-carro-e-moto|37|74.69|2L1RTrp|963927-MLB115552615356_082026||Suporte De Painel Starlink Mini Com Ventosas Preto
+acessorios-para-carro-e-moto|38|78.9|1Qzxq6Q|641037-MLB106917120023_022026||Capa Para Banco Carro Protetora Tecido Palio Uno Siena Punto Preto Palio 1996 A 2024
+acessorios-para-carro-e-moto|39|55.99|1gkznkH|752970-MLA108794263491_032026||Kit Sensor De Estacionamento 22mm Preta Universal Ré Preto
+acessorios-para-carro-e-moto|40|33.99|1os3ex7|727826-MLB100168414953_122025|Peças de Carros e Caminhonetes|Filtro Cabine Ar Condicionado Original Bosch Hb20 2012-2024
+ferramentas|1|139.9|2HZCrjj|981459-MLA117136184907_092026||Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo
+ferramentas|2|94.99|2PwDBzD|710675-MLB89102120983_082025||Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta Preto 127/220v
+ferramentas|3|299|32vNpUn|914656-MLA112812146736_072026||Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 127V
+ferramentas|4|299|2pZ7WZb|681126-MLA115545993062_082026||Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente e Lança Regulável
+ferramentas|5|120|1mUr3Lh|951617-MLB110943565198_052026||Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio Amarelo 127/220v
+ferramentas|6|32.9|2ADLK8E|636676-MLA116721406480_092026||Kit Ferramentas 46 Peças Jogo Chaves Catraca Soquetes Allen Torx Fenda Phillips Quicko Maleta Completa Manual Mecânico Manutenção Casa Carro Oficina Profissional ajustes e reparos diversos montagens
+ferramentas|7|54|2NdP7w4|610242-MLA107057310600_022026||Jogo De Chave Boca E Estrela Combinada 12 Pçs Aço 6-22 Mm Cromada Profissional Tkch12 The Black Tools
+ferramentas|8|43.9|2yF225D|674554-MLA119255486606_112026||Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro Acende Churrasqueira Davely
+ferramentas|9|273.29|19rS9Wx|776678-MLA95631255988_102025||3 Mantas Asfáltica Aluminizada Telhado Auto Adesiva 45cmx10m
+ferramentas|10|101.15|18x4Sum|804305-MLA119589286173_102026||Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP
+ferramentas|11|140.6|2rEZ8po|615564-MLA111281336350_052026||Furadeira Parafusadeira Sem Fio Bateria Tb-12E 12v 3/8 10mm Maleta E Acessórios The Black Tools + Jogo Soquetes 40 Peças
+ferramentas|12|40|2jZ1gwe|813790-MLA120083226718_112026||Soprador de Ar Portátil Woosh Recarregável, Para Limpeza e Acender Churrasqueira
+ferramentas|13|38.89|2sa6dNi|945969-MLA117038173985_092026||Kit Jogo De Ferramentas Aço Carbono Titanium 11 Peças
+ferramentas|14|160.65|1JoKLRi|621555-MLA114663974288_082026||Parafusadeira e Furadeira de Impacto 3/8" WAP K21 ID02 2000 mAh
+ferramentas|15|189|1z5tz8K|650275-MLA114597010784_082026||Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp 1.250l C/5 Bicos E Acessórios 600w Tpp150 The Black Tools
+ferramentas|16|110.1|2i7XXXM|945975-MLB115448761498_082026||Parafusadeira Furadeira Sem Fio 48v 2 Baterias 340w Bivolt Amarelo 127/220v
+ferramentas|17|494|313TFxZ|894333-MLA115546000124_082026||Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com Aplicador De Detergente E Lança Regulável
+ferramentas|18|182.02|2ehzXUY|694253-MLB113894567221_062026||Chave De Impacto Kinetx 68vf Brushless 880nm 2 Baterias Kit Azul 127/220v
+ferramentas|19|308|2sPJHy3|670719-MLA99986706915_112025||Esmerilhadeira Bosch 4,5" 220V 710W GWS 700 06013A30E0
+ferramentas|20|37.99|23ssics|635283-MLB107904100577_032026||14 Polegada Bolsa De Ferramentas Forte Durvel Lona Engrossa Verde
+ferramentas|21|19|2SQUM6D|781508-MLA119564550868_112026|Ferramentas Manuais|Estilete Vonder ES 218 Lâmina Segmentada 18 mm
+ferramentas|22|19.79|2atqHme|868606-MLA100107212411_122025|Ferramentas Manuais|Martelo De Prego Profissional Tipo Unha Cabeça Em Aço Cabo Fibra Emborrachado Resistente Ferramenta Portátil E Multifuncional Construção Obra Casa Pedreiro Carpinteiro Serralheiro Reforma Marca Lfal
+ferramentas|23|28.83|2kNMjWb|624385-MLA112570760021_062026|Ferramentas Manuais|Kit Chave Catraca Soquete 46 Peças em Cromo Vanádio para Manutenção GJ-46 Vlx Vermelho
+ferramentas|24|29.9|1uVQe9T|699480-MLA113536583531_062026|Ferramentas Manuais|Kit Ferramentas 46 Peças Com Soquetes e Chaves Para Carro e Casa Hexon Vermelho
+ferramentas|25|125.9|1yux4hi|694437-MLB114077242610_072026|Ferramentas Manuais|1000 Espaçadores / Nivelador Slim + 200 Cunhas Slim Cortag
+ferramentas|26|24.99|2EKTmGR|884003-MLA114910230297_072026|Ferramentas Manuais|Kit 46 Peças Jogo Soquetes E Chave Catraca Reversível Cor Preto
+ferramentas|27|59.9|2BKbuxW|926154-MLA99583620794_122025|Ferramentas Manuais|Pistola Fixação Finca Pino Ação Direta Pregos Epi Maleta Pinador Pregador Grampeador Rebitador De Prego Pressão Manual Ferramenta Para Drywal Gesso Concreto Aço Parede Forro PVC Grampo Smarter Tools
+ferramentas|28|40.89|1Q4pNpL|794108-MLA100105842177_122025|Ferramentas Manuais|Riscador Manual Cortar Vidro Cerâmica Telha Piso Porcelanato
+ferramentas|29|28.7|2V7PJgP|609611-MLA99356961706_112025|Ferramentas Manuais|Kit Chave Catraca 46 Peças Indufer em Cromo Vanádio, para Manutenção
+ferramentas|30|39.99|1TUm8Ld|650329-MLA117441376548_102026|Ferramentas Manuais|Pistola Fixação Finca Pino Manual Grampeador De Prego Pressão Acessórios E Kit EPI Drywal Gesso Concreto Aço Parede
+ferramentas|31|61.9|1crNdiL|625409-MLA112629191862_062026|Ferramentas Manuais|Jogo Chave de Fenda e Philips Profissional Imantado 12 Peças
+ferramentas|32|29.89|2DdA1a4|701755-MLB85959666529_062025|Ferramentas Manuais|Jogo Chaves Fenda E Philips Isoladas Eletricista Imã 6 Peças
+ferramentas|33|69.9|2KkpWmg|866702-MLA113979534319_062026|Ferramentas Manuais|Kit Elétrico Profissional Com Alicate Decapador Fios + Alicate Crimpador + 1200 Ilhós Profissional Alicates Kit Eletricista Profissional Ferramentas Etetricista Portátil Prático Eficiente
+ferramentas|34|77.93|15QiEvE|836601-MLA99443244142_112025|Ferramentas Manuais|Jogo Chaves Combinadas Gedore Robust S09105012 06-22mm 12 Peças Cromado
+ferramentas|35|22.95|1xXNV8e|803401-MLA112923525463_062026|Ferramentas Manuais|Pistola Aplicador Silicone Pu Aberto Catraca Metálica Aplicador Manual Selante Cola Tubo Estrutura Reforçada Uso Construção Reparos Vedação
+ferramentas|36|38.42|1W92yzm|667329-MLB100789076645_122025|Ferramentas Manuais|45 Graus Guia Disco Corte Gabarito Serra Chanfro Porcelanato
+ferramentas|37|74|1vMFEKj|666540-MLA114108111681_072026|Ferramentas Manuais|Kit Jogo De Ferramentas Completo 122 Peças Com Soquetes Chaves Martelo Trena Alicate Bits Maleta TBNT13 The Black Tools
+ferramentas|38|28.7|1qCjNGu|677275-MLA116901755832_092026|Acessórios para Ferramentas|Ponta Bits Magnética Ph2 50mm + 70mm + 90mm Ponteira Imã Antiderrapante Parafusadeira Kit 7 Peças Fortner
+ferramentas|39|19|24jSzFU|667665-MLA99369520796_112025|Acessórios para Ferramentas|Disco Corte Fino 4.1/2 Aço Inox Profissional Esmerilhadeira Cor Amarelo e Cinza
+ferramentas|40|33.5|1y37X3h|989001-MLA99990558741_112025|Acessórios para Ferramentas|Arame Solda Mig 0.8mm Carretel 1kg Sem Gas Vonder E71t-gs
+pecas-para-carro|1|22.9|1hr14bm|982212-MLB116514165860_092026||Par Palheta Limpador Para-brisa Silicone Escolha Seu Tamanho Selecione O Tamanho A Cima 22/18 Polegadas
+pecas-para-carro|2|33.99|1os3ex7|727826-MLB100168414953_122025||Filtro Cabine Ar Condicionado Original Bosch Hb20 2012-2024
+pecas-para-carro|3|26.32|2BK1hP3|900654-MLB93648509989_092025||Kit Limpador 2 Palheta Para-brisa Original Silicone Gancho Fiat Palio Fire 1996 Á 2017
+pecas-para-carro|4|78.99|1K9myGN|873694-MLB114011864921_072026||Limpador De Para Brisa Dianteiro Palheta Original Bosch Par
+pecas-para-carro|5|78.99|1aCH5Lm|854027-MLB103729253921_012026||Par Limpador Parabrisa Palheta Paleta Dianteiro Bosch Chevrole. Onix / Prisma 2013 À 2018
+pecas-para-carro|6|99.9|2fFigdR|965838-MLB110040864578_042026||Limpador Para-brisa Paleta Original Bosch Aerofit Preto Ka 2014 A 2021
+pecas-para-carro|7|24.7|1WwsU5T|926677-MLB106351673141_022026||Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+pecas-para-carro|8|59.9|1JB8PTQ|773053-MLA104341009324_012026||Filtro Cabine Ar Condicionado Bosch + Spray Higienizador Onix 2019 A 2026
+pecas-para-carro|9|20.59|2mpqAXA|676509-MLB121816710039_112026||Clipe Fixação Carro 100pcs Painel Pára-lamas Rebite Plástico
+pecas-para-carro|10|26.7|258WZPf|634686-MLB83440760137_032025||Chave C/ Bateria Onix Prisma Cobalt Cruze Spin 2012 A 2020
+pecas-para-carro|11|48.9|1SBRnVx|968123-MLB105823525051_012026||Espaçador Sonda Lambda Prolongador Catalisador Apaga Luz
+pecas-para-carro|12|58.9|1gHBP57|770884-MLB115341299655_072026||Clipe Fixação Carro 800pcs Painel Pára-lamas Rebite Plástico
+pecas-para-carro|13|112.23|1pP51xj|976773-MLB120236643589_102026||Palhetas Limpador Parabrisa Bosch Aerofit + Traseira Import Kit Diant Bosch E Tras Vto Onix 2013 A 2018
+pecas-para-carro|14|19|2xsAbzV|939388-MLB113029207392_072026||Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+pecas-para-carro|15|28.9|1iUoXaV|922314-MLB117709167887_092026||Borracha Fita De Vedação 10m Anti Ruido, Sugeiras, Agua
+pecas-para-carro|16|42.62|1aiVcxi|825407-MLB112068439289_052026||Filtro Ar Condicionado Cabine De Carro + Spray Higienizador Gm Corsa 2002 A 2012
+pecas-para-carro|17|38.86|1G8WpR6|942056-MLB115303162708_082026||Par Lâmpadas H4 Farol Baixo E Alto Bosch Halogena 12v 60/55w
+pecas-para-carro|18|83.18|2KhNEKg|950889-MLB112805077845_062026|Motor|Refil De Bomba De Combustível Flex Euro Para Sistema Bosch
+pecas-para-carro|19|55|1S5Mhtf|992523-MLB111722912788_062026|Motor|Kit Bomba Combustível Universal Gasolina Para Sistema Bosch
+pecas-para-carro|20|109.9|2L6X5uF|743471-MLB122307907371_112026|Motor|Kit Correia Dentada + Tensor Original Vw Gol G3 G4 G5 G6 1.0
+pecas-para-carro|21|71.97|2g2ewG4|887034-MLB103225684174_012026|Motor|Reservatório Agua Vw Gol Voyage G5 G6 G7 Saveiro Com Tampa
+pecas-para-carro|22|92.05|2Bn368J|890656-MLB119102177594_112026|Motor|Kit Correia Dentada + Tensor Para Corsa Celta Agile Meriva
+pecas-para-carro|23|33.19|1i21R4z|676919-MLB76032367391_042024|Motor|Tampa Reservatório De Água Original Agile Celta Corsa Vectra
+pecas-para-carro|24|150.97|1SZDNRZ|794268-MLB116272546364_092026|Motor|Radiador Fiat Idea Palio Siena Strada Fire 2002-2016 Fire
+pecas-para-carro|25|23.9|21dmMop|868055-MLB99040528264_112025|Motor|Junta Tampa Válvula Original Gm Corsa Celta Prisma 90409594
+pecas-para-carro|26|177|1T9b1qc|606554-MLB118913477361_102026|Motor|Cavalete Válvula Termostática Completa Aluminio Gol G5 Flex
+pecas-para-carro|27|146.3|1LY2DZj|720057-MLB114499622421_072026|Motor|Cavalete Válvula Termostática Completa Aluminio Gol G5g6 Fox
+pecas-para-carro|28|123.12|2gPc2GH|783459-MLB109865692346_042026|Motor|Kit Correia Dentada Original Gol Fox Polo Saveiro 1.0 1.6 8v
+pecas-para-carro|29|41.9|2pFUDTV|715165-MLB111195946515_052026|Motor|Cebolinha Interruptor De Óleo Original Vw G5 G6 Fox Gol Up!
+pecas-para-carro|30|119.9|1bZEYb2|943378-MLB120743070473_112026|Motor|Kit Correia Dentada Onix Prisma 1.0 1.4 Spin 1.8 8v Gm Mt 8v
+pecas-para-carro|31|39.69|1bsagv3|901306-MLB111365220600_052026|Motor|Cola Silicone Preta Motor Alta Temperatura Elring Driko
+pecas-para-carro|32|24.99|1XquRrx|858037-MLB104363580613_012026|Motor|Tampa Reservatório Palio Strada Fire Original Fiat 1.4 Bar
+pecas-para-carro|33|36.19|27TRzrQ|609642-MLB114246421290_082026|Motor|Tampa Radiador New Civic City Fit Pressão De 1.1 Bar
+pecas-para-carro|34|33.15|1d88nit|829632-MLB120098071096_112026|Motor|Tampa Reservatório Arrefecimento Para Peugeot E Citroen
+pecas-para-carro|35|89.97|1WXHqvQ|861135-MLB121477660623_112026|Motor|Kit Refil Bomba De Combustível Flex Sistema Bosch Completo
+pecas-para-carro|36|78.9|2Ki9fPj|747184-MLB118056468963_092026|Motor|Reservatório De Água Radiador Gm Onix Spin Cobalt Prisma
+pecas-para-carro|37|28.4|26L9fSH|853290-MLB114610983641_072026|Motor|Tampa Reservatorio Onix Spin Cobalt Cruze Tracker S10 Prisma
+pecas-para-carro|38|78.95|1y5fta5|918357-MLB93851898799_092025|Suspensão e Direção|2 Bieleta Original Nakata Vw Up Gol G5 G6 Saveiro Voyage Fox
+pecas-para-carro|39|57.9|1kUTuHA|834615-MLB113397423977_062026|Suspensão e Direção|Par Encolhedor De Molas Suspensão Profissional Rosca 1/2 Pol
+pecas-para-carro|40|63.09|23b3AQh|743615-MLB83639238883_042025|Suspensão e Direção|Kit Rolamentos P/ 2 Rodas Traseira Saveiro Parati Voyage Gol
+pecas-para-carro|41|85.69|2N1acZU|690104-MLB116364266962_092026|Suspensão e Direção|Par Kit De Rolamento Roda Traseira Gol G1 G2 G3 Original Skf
+pecas-para-carro|42|43.74|2aHLcJq|897473-MLB108254895057_032026|Suspensão e Direção|Rolamento Dianteiro Gol Fox Parati Monza Astra Ka Fiesta 8v
+pecas-para-carro|43|27.7|1wtq7Ht|870010-MLB106754673630_022026|Suspensão e Direção|Par De Bucha Estabilizador Original Gol Fox Polo Saveiro Voyage 2009 A 2017
+pecas-para-carro|44|67.35|1BoX9yM|986343-MLB95896069172_102025|Suspensão e Direção|Reservatorio Direcao Hidraulica Ford Fiesta 1.0 E 1.6 02/14
+pecas-para-carro|45|39.97|2BNXRXs|701837-MLB106801768947_022026|Suspensão e Direção|Caixa Direção Cônica Cg 160 150 125 Titan Fan Start Cargo
+pecas-para-carro|46|73|34hbMKt|842997-MLB113292054563_062026|Suspensão e Direção|Cubo Roda Traseiro Fiat Uno Todos Ano 1987 C/rolamento S/abs
+pecas-para-carro|47|368.19|2MBbB3n|991795-MLB117933020868_102026|Suspensão e Direção|Jogo Molas Esportivas - Escolha Seu Modelo Gol Bola G2 G3 G4
+pecas-para-carro|48|128.79|1LA8ZS7|951739-MLB110405096738_052026|Suspensão e Direção|2 Suportes Barra Tensora Morceguinho Corsa Celta Prisma
+pecas-para-carro|49|66|1mLAQk2|625518-MLB97861651095_112025|Suspensão e Direção|Kit 4 Buchas Bandeja Balança Dianteira Fox Polo Space Cross
+pecas-para-carro|50|45.81|2Ajo5Jv|907438-MLB118697470836_102026|Suspensão e Direção|Par Encolhedor De Mola Traseira E Dianteira Universal
+pecas-para-carro|51|210|2ftUtGK|782688-MLB119019246779_102026|Suspensão e Direção|Kit Coxim Nakata Batente Dianteiro Onix Prisma Cobalt Spin
+pecas-para-carro|52|78.13|2ZQLGDx|764680-MLB54858880353_042023|Suspensão e Direção|Par Suporte Barra Tensora Morceguinho Corsa Celta Prisma
+pecas-para-carro|53|38|2QqE2gi|784424-MLB53263032636_012023|Suspensão e Direção|Encolhedor De Molas Universal Suspensão Dianteira E Traseira
+pecas-para-carro|54|85.36|1Yqzc3p|691111-MLB72428110783_102023|Suspensão e Direção|Par Bieleta Dianteira Barra Estabilizadora 206 207 C3 Ds3
+pecas-para-carro|55|84|2mGMUWM|755071-MLB52868911417_122022|Suspensão e Direção|Par Bieleta Dianteira Fiat Argo Cronos Pulse Original Cofap
+pecas-para-carro|56|20.94|1WYbm8h|949088-MLB98653111613_112025|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+pecas-para-carro|57|35|11QFstf|641446-MLB109854026266_042026|Carroceria|Soleira De Porta Fibra De Carbono Protetora Preto Premium Corolla
+pecas-para-carro|58|78.9|1xgNGRM|966656-MLB104683571477_012026|Carroceria|Retrovisor Saveiro Gol G3 G4 99 Ate 2012 C Controle 4 Portas
+pecas-para-carro|59|98.91|2zgbMLZ|936934-MLB88355120086_072025|Carroceria|Par Retrovisor Corsa 1994 1995 96 97 98 99 00 01 02 Até 2016
+pecas-para-carro|60|36.9|1j2VdPK|882498-MLB88651015258_072025|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Universal Carro
+pecas-para-carro|61|55.9|2YK95Ek|727043-MLB111648359443_052026|Carroceria|Retrovisor Corsa Classic Wind 94 95 96 97 98 99 2000 A 2014 Direito
+pecas-para-carro|62|25.99|1WqUjf4|859166-MLB116665587723_082026|Carroceria|Kit 100 Presilhas Grampo Automotivos Para-choque Universal
+pecas-para-carro|63|28.08|2qBtbK2|817546-MLB115453755222_082026|Carroceria|Kit 100 Presilha Grampo Parabarro Parachoque Com Removedor
+pecas-para-carro|64|20.69|2ZQnBfR|676677-MLB84683736436_052025|Carroceria|20 Grampo Presilha Forro Porta Gol Parati Saveiro 3098672991
+pecas-para-carro|65|19.99|1x23NhA|821707-MLB110278523413_042026|Carroceria|Par Espelho Auxiliar Convexo Olho Boi Ponto Cego Universal
+pecas-para-carro|66|35.51|1FpURsE|923149-MLB113911929105_062026|Carroceria|Soleira De Porta Fibra De Carbono Protetora Preto Premium Civic
+pecas-para-carro|67|68.9|1jWL1Dx|690877-MLB116470246718_092026|Carroceria|Retrovisor Gol G2 Bola 96 97 98 99 00 Sem Controle 2 Portas
+pecas-para-carro|68|19.19|1gf6yrS|709634-MLB108539233885_032026|Carroceria|Kit 2 Espelhos Convexos 360° Para Retrovisor Auxiliar
+pecas-para-carro|69|37.99|2YTv89w|753867-MLB118810614327_102026|Carroceria|Lente Retrovisor Gol Voyage G6 Fox 2013 A 2017 Com Base
+pecas-para-carro|70|24.9|18g1iLJ|717074-MLB117086225377_092026|Carroceria|Soleira Protetor Porta Fibra De Carbono Compatível Universal Fiat
+pecas-para-carro|71|32.04|2pniL4C|859048-MLB81826826654_012025|Peças de Interior|Manopla Bola Cambio Marcha Onix 2017 2018 2019 2020 Preta
+pecas-para-carro|72|24.09|2SoefVh|850873-MLB78354135316_082024|Peças de Interior|Botão Duplo Vidro Elétrico Gol G5 G6 G7 Fox Voyage Saveiro
+pecas-para-carro|73|19.99|2AATpsG|845803-MLB89829160789_082025|Peças de Interior|2 Suporte Quebra Sol Corsa Celta Corsa Classic Prisma 94/16
+pecas-para-carro|74|44.76|2qAbmft|820233-MLB88880989702_082025|Peças de Interior|Manopla Bola Cambio Para Ford Ka Hatch Sedan 2013 2014 2018
+pecas-para-carro|75|17.99|2kUcZ2G|678436-MLB108744448528_032026|Peças de Interior|Par Suporte Quebra Sol Palio Economy Siena Strada Original
+pecas-para-carro|76|35.99|1b1JUzc|673535-MLB114819771452_082026|Peças de Interior|Coifa E Bola Cambio Corsa Wind 93 94 95 96 97 98 99 00 01 02
+pecas-para-carro|77|36.44|1eBnVY3|703804-MLB84363216208_052025|Peças de Interior|Kit Manopla Bola Cambio Coifa Celta 2001 2002 2003 Até 2016
+pecas-para-carro|78|30.54|2zaBSqB|900095-MLB82172800136_022025|Peças de Interior|Manopla Bola De Cambio Marcha Preta Onix 2013 2014 2015 2016
+pecas-para-carro|79|72.55|28jYcC3|948416-MLB118596908061_102026|Peças de Interior|Kit 4 Difusor Saida Ar Gol Voyage G4 G5 G6 Botão E Aro Prata
+pecas-para-carro|80|48.9|2NMtAFR|674913-MLB91543139212_092025|Peças de Interior|Botao E Moldura Puxador Vidro Gol G5 G6 G7 Modelo Original
+pecas-para-moto|1|41.89|2bmtMdZ|943611-MLB82843981048_032025||Kit 4 Piscas Seta Twister Titan Fan 125-150 Xre Cb 300 Bros
+pecas-para-moto|2|36.9|2KE2F1M|639147-MLB89380441925_082025||Retrovisor Kawasaki Z400 Rebaixado Haste Curta Média Honda
+pecas-para-moto|3|36.34|26SMD1Q|769728-MLB116742262110_092026||Retrovisor Kawasaki Z400 Rebaixado Haste Curta Honda/convexa
+pecas-para-moto|4|155.17|2R7CNei|690864-MLB115026539085_072026||Bateria Moto Titan Fan Biz Bros Fazer 125 150 160 Mix Flex
+pecas-para-moto|5|78.99|2TTvBPH|735304-MLB115717692189_082026||Kit Relaçao Titan Fan Start 160 Riffel Aço 1045 Promoção Prata
+pecas-para-moto|6|46.9|2LNHv8N|713868-MLB109038526720_032026||Kit 4 Pisca Led Seta Sequencial Cb250 Twister Titan 160
+pecas-para-moto|7|69.9|17j7ThE|832702-MLB80375675595_112024||Kit Peso Pcx C/ Manopla Vazada + Guidão Cargo 160 2016/2022
+pecas-para-moto|8|36.53|1x1ADx6|857556-MLB110186693848_052026||Retrovisor Bmw Gs F800 Rebaixado Haste Curta Média Honda Par Curta 90 Grau Rebaixado
+pecas-para-moto|9|105.56|2atrTUS|777272-MLB107962895035_032026||Paralama Dianteiro Cg Titan Fan Start 150 160 2014 A 2026 Dianteiro Preto
+pecas-para-moto|10|34.57|31qtz4b|871938-MLB93905990974_102025||Retrovisor Gs 650 F800 Bmw Fixo Convexa Rosca Honda Par
+pecas-para-moto|11|105|2AmyMtf|738423-MLB74323858537_012024||Motor Partida Arranque Fan 150 Bros 150 Titan 150 Magnetron
+pecas-para-moto|12|327.99|2J31rWK|717275-MLB101662952393_122025||Frente Titan 2025 Completa Cg Titan 160 Adaptada 2014 A 2024
+pecas-para-moto|13|104.97|1wydmNC|978358-MLB94348117043_102025||Relação Cg 150/160 Titan Fan Start Cargo Aço 1045 (kit) Cg160 Titan160 Start160 Fan160
+pecas-para-moto|14|30.99|2vTwXaH|881962-MLB92390801298_092025||Par Retrovisor Moto Honda Cg Titan Fan Start 125 150 160
+pecas-para-moto|15|70.9|2dDemvC|751374-MLB89690277862_082025||Carburador Cg Titan 150 Completo Ks Es Esd Mod Original
+pecas-para-moto|16|30.9|2SrZ78v|946456-MLB110558590723_042026||Par Retrovisor Moto Honda Titan Fan Start Cg 125 150 160
+pecas-para-moto|17|41.89|1yfohHF|729194-MLB89056375381_072025||Kit 4 Pisca Seta De Led Cb250 Twister Cg Titan Fan Start 160
+pecas-para-moto|18|29.6|2AGQr2y|987523-MLB111656703119_052026||Suporte Placa Moto Mercosul Universal Protetor Moldura
+pecas-para-moto|19|39.9|1gs6sAT|966856-MLB109869981277_032026||Par Retrovisor Modelo Fixo Tiger Triumph 1200 Rosca Honda
+pecas-para-moto|20|85|1RUeZDT|722044-MLB119619763427_102026|Chassis|Par Amortecedor Traseiro Cg Titan Fan Start 150 160 2004/...
+pecas-para-moto|21|74.9|2fGB63m|871389-MLB113625529102_072026|Chassis|Guidão Cargo Com Pezinho Pcx Manopla Cargo C/ Roldana Cg Fan
+pecas-para-moto|22|40.89|1rRKfTp|959363-MLB85075698287_052025|Chassis|Punho Interruptor De Partida Pisca Alerta Cb500 Cg Titan 160
+pecas-para-moto|23|29.88|2cHcHze|833531-MLB95966328553_102025|Chassis|Manete Cromado Honda Cg Titan 160 Fan 150 125 Freio Disco Cromado
+pecas-para-moto|24|16.15|2tJBzuJ|827737-MLB116304191753_082026|Chassis|Suporte Protetor De Placa Moto Mercosul Plástico Preto
+pecas-para-moto|25|29.6|1tMb5t8|922866-MLB116510654270_092026|Chassis|Suporte Placa Moto Mercosul Universal Protetor Moldura Prateado
+pecas-para-moto|26|29.87|2zRpkf1|637599-MLB113553853659_062026|Chassis|Par De Peso Pezinho De Guidao De Moto Pcx 150 Aluminio+bucha Prateado
+pecas-para-moto|27|36|1bffMxZ|886489-MLB81219553730_122024|Chassis|Burrinho Freio Dianteiro Cb 300 / Cbx 250 / Titan 125/ 150 Preto
+pecas-para-moto|28|38.99|1qyXRwF|945538-MLB83947165602_042025|Chassis|Patim Lona Freio Cg Titan Fan 125 150 160 Std Trase/diante
+pecas-para-moto|29|43.9|2V9vCLs|995814-MLB81359921105_122024|Chassis|Guidão Cargo Cg Fan Titan 160 Cromado Com Peso Mod Original
+pecas-para-moto|30|29.9|1joGVjY|688353-MLB79149012012_092024|Chassis|Tampa Tanque C/ Chaves Cg 125 150 Fan Titan Bros Xre Twister
+pecas-para-moto|31|36.99|13kSbfR|632226-MLB105268372567_012026|Chassis|Kit Suporte Placa Moto Mercosul Reforçado +arruela Anodizada
+pecas-para-moto|32|67.83|1ccdx5u|870462-MLB115641116404_092026|Chassis|Kit Guidão Cargo 160 + Peso Pcx + Manopla Vazada 2016/2022 Cromado
+pecas-para-moto|33|75.49|1Wdkx66|676050-MLB109923436549_042026|Chassis|Punho De Partida Cb 500 + Punho De Luz Titan 160 Lampejador
+pecas-para-moto|34|20.9|1yVRCev|789587-MLB93395557844_092025|Chassis|Suporte Placa De Moto Mercosul Lacres Parafuso Protetor Moto
+pecas-para-moto|35|62.96|2FA8Rqk|939790-MLB116256264416_092026|Motor|Carburador Moto Biz 100 Mod Original 1998 A 2005 Completo
+pecas-para-moto|36|29.99|1xFCsg3|675121-MLB118273356320_102026|Motor|Pedal Partida Honda Cg 125 Nxr Bros Titan Fan Ks 2000 / 2008
+pecas-para-moto|37|69|1QeSPjr|655366-MLB113930698704_072026|Motor|Carburador Completo Titan 150 2004 Á 2008 Mod Original
+pecas-para-moto|38|24.9|2ZfqPjW|954419-MLB95961465703_102025|Motor|Coxim Bucha Da Coroa Roda Traseira Titan/fan 160 Todos Anos
+pecas-para-moto|39|29.99|2LeajUu|804586-MLB110407022066_052026|Motor|Pedal Partida Honda Cg 150 Titan Fan Nxr Bros 2004 A 2015 Ks Prateado
+pecas-para-moto|40|78.9|2wDEDJY|733464-MLB32507821638_102019|Motor|Carburador Cg Fan 125 2009 2010 2011 2012 Honda Completo!
+acessorios-para-moto|1|37.34|2Tm6yfD|705624-MLA120956340977_112026||Fone De Ouvido Para Capacete Moto Bluetooth Motoboy Headset Rgb Sem Fio Comunicador Woosh
+acessorios-para-moto|2|37.68|2qfCrLy|622276-MLA121203733431_112026||Fone De Ouvido Para Capacete Moto Bluetooth Motoboy Headset Rgb Comunicador Motoqueiro Sem Fio Kateluo
+acessorios-para-moto|3|34.9|324Sa9t|902305-MLB88750630332_082025||Kit 2 Capa De Chuva Reforçada Pvc Transparente Resistente Transparente Único
+acessorios-para-moto|4|105.5|1wFGQQ8|951048-MLA101766821321_122025||Capacete Moto Aberto Pro Tork New Liberty Three Amarelo Tamanho 56 Desenho Solid Viseira Cristal
+acessorios-para-moto|5|72.59|1inkyWZ|786122-MLB94266586894_102025||Capa Chuva Motoqueiro Pvc Impermeável Motoboy Emborrachada
+acessorios-para-moto|6|34.97|2AaA24S|665793-MLB117669025945_092026||Capa Chuva Sapato Tênis Silicone Calçado Moto Impermeável Preto 42-43
+acessorios-para-moto|7|19|1gnyBCX|600605-MLB98092665132_112025||Touca Balaclava Premium Luxo Unissex Preto Proteção Uv50+ Preto Liso Único
+acessorios-para-moto|8|86.23|22kjEsZ|927169-MLB111233956354_052026||Capa De Chuva Moto Pioneira Impermeável Pvc Motoqueiro Frio Preto Com Laranja Masculino - G
+acessorios-para-moto|9|34.9|2Gxxmvm|940135-MLB120809342631_112026||Kit 2 Capa Chuva Pvc Reforçada Transparente Adulto Com Capuz Transparente Único
+acessorios-para-moto|10|52.99|16ydFrt|971972-MLB78033748235_072024||Bota De Borracha Galocha Impermeável Sete Leguas Motoboy Pvc
+acessorios-para-moto|11|87.28|33Cd6QF|892322-MLB114902554589_072026||Capa De Chuva Roupa Conjunto Motoqueiro Pvc Emborrachada Reforçada Com Capuz Motoboy Ciclista Moto Impermeável Pioneira
+acessorios-para-moto|12|38.68|33LJG2C|845297-MLA115002507734_082026||Fone Bluetooth Capacete Moto V10 Resistência Água IPX6
+acessorios-para-moto|13|59.99|1WcAVWy|995296-MLB98478624363_112025||Capa Para Moto Forrada Impermeável Térmica Sol Chuva
+acessorios-para-moto|14|152.49|1ZhG7z9|959270-MLB114701946215_072026||Capacete Fechado Pro Tork R8 Viseira Fumê Nf Rosa 57/58
+acessorios-para-moto|15|59.9|1etcgE2|881906-MLB117199385580_102026||Capa De Chuva Motoqueiro Motoboy Moto Conjunto Impermeável Preto G
+acessorios-para-moto|16|77.99|2jAjhvZ|727565-MLB83528352986_042025||Capa De Chuva Motoqueiro Motoboy Moto Conjunto Impermeável Preto Capa-g
+acessorios-para-moto|17|73|2hfDim4|875960-MLA120677920561_112026||Capacete Couro Coquinho Pro Tork Custom Bike Moto Cor Preto
+acessorios-para-moto|18|99|2dwDEB2|690008-MLB114603118980_082026||Capa De Chuva Moto Pioneira Impermeável Motoqueiro Pvc Preto
+acessorios-para-moto|19|398.65|2EG4FgT|947174-MLA97443915321_112025||Capacete Fw3 Integral Fechado Gtx Fox C/ Óculos Interno Cor Azul tiffany Tamanho do capacete 58
+acessorios-para-moto|20|65.06|21qALUg|674233-MLB109277864208_042026||Bota Chuva Motociclista Moto Motoboy Motoqueiro Impermeavel
+acessorios-para-moto|21|89.23|199Ubjy|844107-MLB116364684208_092026|Indumentária e Calçado|Capa De Chuva Moto Motoqueiro Impermeável Reforçada Pioneira Preto-laranja Gg
+acessorios-para-moto|22|46.74|2EUGt4K|741554-MLB117452680532_102026|Indumentária e Calçado|Conjunto Capa De Chuva Motoqueiro Impermeável Reforçada Preto G
+acessorios-para-moto|23|49.99|2sht6Vn|970832-MLB116750191395_082026|Indumentária e Calçado|Capa De Chuva Moto Impermeável Pvc Motoqueiro Preto Xl
+acessorios-para-moto|24|18.9|2JiwwW5|691796-MLA99611998710_122025|Indumentária e Calçado|Boné Trucker Masculino Liso com Aba Curva Preto
+acessorios-para-moto|25|24.75|1A4GsUy|702026-MLA99445408538_112025|Indumentária e Calçado|Par Luva Motoqueiro Térmica E Impermeável Com Touch Screen Cor Preto Tamanho Único
+acessorios-para-moto|26|32.9|2sjsUy1|607785-MLB119038921772_112026|Indumentária e Calçado|Bota Chuva Polaina Impermeável Galocha Motociclista Motoboy Preto 40/42
+acessorios-para-moto|27|92.04|31H3yk6|991839-MLB106547385714_022026|Indumentária e Calçado|Capa De Chuva Moto Motoqueiro Impermeável C/ Capuz Pioneira Preto G - Masculino
+acessorios-para-moto|28|21.19|1Swvzs5|953066-MLA110664968463_042026|Capacetes|Kit 3 Suporte De Capacete Parede KINGBR Branco Com Gancho Porta Chaves Organizador Acompanha Parafusos E Buchas Para Capacete De Moto Bike Motocross E Skate
+acessorios-para-moto|29|141.07|1e5z2MN|940910-MLB94004512086_102025|Capacetes|Capacete Moto Pro Tork Fechado Viseira Fumê Street Promoção
+acessorios-para-moto|30|86.33|1L49jVH|859613-MLB112716605034_062026|Capacetes|Capacete Fechado Pro Tork Liberty Four Kids Fk Vis. Fumê Nfe Rosa 53/54
+som-automotivo|1|148.1|1bJJDEF|727270-MLA116319031959_082026||Modulo Taramps 400 Rms Ts-400 Ts400x4 T400 4 Canais V6
+som-automotivo|2|269.1|19Zefem|631074-MLA99452011506_112025||Amplificador Taramps TS 800x4 800W 4 Canais para Som Automotivo
+som-automotivo|3|179.9|1iZzCzG|830482-MLA108910560858_032026||Processador de Áudio Digital Taramps Pro 2.4S para Som Automotivo com Crossover e Equalizador 15 Bandas
+som-automotivo|4|346|1y4HqRR|890178-MLA117052044850_102026||Radio Pioneer Bluetooth Automotivo Mvh-145br Usb Mp3 Fm
+som-automotivo|5|389.4|2g5qoRj|883478-MLA111821388984_062026||Amplificador Taramps TS 1200X4 1200W de Potência 4 Canais Estéreo para Som Automotivo
+som-automotivo|6|144.9|1NCr25a|738074-MLA120956644537_112026||Bateria Moura MA5-D 5 Ah 12V Selada para Honda, Yamaha e Mais
+som-automotivo|7|25.9|247zLqu|716843-MLA113646859011_062026||Adaptador Receptor Bluetooth Usb Carro Musica Chamada S/fio B Basto
+som-automotivo|8|233.1|22wue9J|706699-MLA99442468740_112025||Processador de Áudio Digital Automotivo Stetsom STX2448 com Crossover e Equalizador
+som-automotivo|9|58.28|2DKBjmM|751657-MLA99932093179_112025||Controle Longa Distancia Stetsom Sx1 Universal Vermelho
+som-automotivo|10|208|2oQ7nHV|757088-MLB108558652508_032026||Central Multimídia Universal Mp5 1 Din 7 Espelha Dvd+ Cam Kit Multimidia 1 Din
+som-automotivo|11|60.11|1JAP62Q|847917-MLA99904918303_112025||Auto Rádio HTECH HT-1025 Bluetooth USB Aux para Carros
+som-automotivo|12|80.94|1DH9yNb|696883-MLA99444301768_112025||Par De Alto Falante Hurricane Triaxial Aurum A6t 6 Pol 120w RMS 240w max
+som-automotivo|13|49.37|1DyJiiT|775556-MLA99443908594_112025||MP3 Player First Option 6688 Som Automotivo Radio Bluetooth 25W FM USB Pen Drive BT Carro Caminhonte 1 Din Caixa Bob Saida RCA
+som-automotivo|14|240.11|2dkZoGF|822688-MLA99927120319_112025||Par Alto Falante Porta Jbl 6 Pol 160w Rms 6trms80 Triaxial
+som-automotivo|15|25.99|2DUBMr6|978451-MLB118446758247_092026||Antena Automotiva Carro Teto Shark Tubarão Barbatana Am Fm
+som-automotivo|16|152.16|1HCtqK7|680597-MLA99432302064_112025||Modulo Taramps Ts400x4 400w 2 Ohms 4 Canais stereo som automotivo entrada fio e rca Ts 400x4 amplificador 400watts
+som-automotivo|17|65.9|1Wbqvia|815444-MLA99452023208_112025||Controle Jfa Acqua Branco K1200 Longa Distância
+som-automotivo|18|19|1RtL2Cm|960137-MLA120040833551_102026||Receptor Adaptador Bluetooth Usb P2 Audio Stereo Musica Som Marca : Rr88
+som-automotivo|19|157.51|2qf3Zjf|891601-MLA114009120125_072026||Processador De Áudio Taramps Som Automotivo Com Bluetooth
+som-automotivo|20|281.2|1tsDYQj|642337-MLA100090083567_122025||Módulo Amplificador Stetsom Combat CL800 800W RMS 4 Canais para Som Automotivo
+som-automotivo|21|387.99|1XLQrkE|908406-MLA103726884887_012026|Reprodutores|Rádio Automotivo Taramps Amplayer G2 Fm Usb Sd Mp3 Bluetooth
+som-automotivo|22|21.9|1ht4qWZ|687160-MLA99920312689_112025|Reprodutores|Adaptador Bluetooth Carro Universal Transmissor GotWire Carregador Automotivo
+som-automotivo|23|24.9|1Cw7xny|818976-MLA111161873596_052026|Reprodutores|Receptor Bluetooth Usb Carro Som Aux Música E Chamadas
+som-automotivo|24|620.35|1YZ8bxJ|881641-MLA99934971125_112025|Reprodutores|Som Automotivo Pioneer Mvh X3000BT Com USB e Bluetooth e Radio
+som-automotivo|25|221.27|2VRDupQ|728266-MLB113978217230_072026|Reprodutores|Central Multimídia Mp5 1 Din Carplay Android-auto 7'+ Cam Ré Kit Multimidia Carplay
+som-automotivo|26|19.39|11UgiPw|765180-MLB98204138550_112025|Reprodutores|Kit 5 Espátulas Nylon Desmontar Painel Moldura Portas Carros Amarelo
+som-automotivo|27|49.92|1ei3nfy|696760-MLB104870570684_012026|Reprodutores|Toca Mp3 Player Radio Aparelho Som Universal Pra Carro Thork Caixa Bob Esponja Trio Paredao
+som-automotivo|28|59.98|28PH78f|915926-MLB119180880180_112026|Reprodutores|Som Automotivo Radio Carro Com Usb Bluetooth Cartão Sd Cd Carro Radio Som Bluetooth
+som-automotivo|29|19|2NQ8Kzd|752075-MLA99449653868_112025|Reprodutores|Receptor De Música Sem Fio Bluetooth P2 Usb Adaptador Áudio Portátil Automotivo Marca : RR88
+som-automotivo|30|23.99|2sVmkD9|970581-MLA121679958027_112026|Reprodutores|Adaptador Receptor Bluetooth Usb Carro Musica Chamada S/fio Ezsias Armarinhos
+limpeza-automotiva|1|338|2sDnEtd|627568-MLA108247612641_032026||Aspirador Pó E Água Soprador Wap Gtw 10 Maré 1400w Cor Cinza
+limpeza-automotiva|2|29.09|1WK25Ge|739911-MLA111969831660_062026||Mini Aspirador De Pó Portátil Recarregável Soprador Usb Automotivo 3em1 Sem Fio Premium Vácuo Limpeza Carro Multifuncional Casa Dr Hank
+limpeza-automotiva|3|39.78|134YYzS|660778-MLA110508992255_042026||Vonixx Blend 500ml Proteção E Brilho + Flanela Microfibra
+limpeza-automotiva|4|39.99|2oNJoWd|778043-MLA121235132785_112026||WD-40 Spray Desengripante Multiuso Anticorrosivo 300ml
+limpeza-automotiva|5|37.49|2rVS3a3|624029-MLB48088668558_112021||Sintra Pro Limpeza Interna De Veiculos Vonixx 1,5l
+limpeza-automotiva|6|160.9|2XYcTVd|612830-MLA99343225742_112025||Kit 10 Pano Multiuso Reutilizável Toalha Lavável Picotado Cor Branco
+limpeza-automotiva|7|38.61|11X7EKR|868253-MLA109853292346_042026||Vonixx V-MOL shampoo automotivo limpeza concentrado 1,5L
+limpeza-automotiva|8|169.79|2QKXadF|659633-MLA117032776949_092026||Kit Lavagem Shampoo Cera Tok Final Intense Sintra Fast Vonixx
+limpeza-automotiva|9|28.99|27stoBe|602861-MLA121191937067_112026||Cera Automotiva de Carnauba Renove Polimento Riscos Queimados Brilho
+limpeza-automotiva|10|42.64|2NnG5SW|880155-MLA119192765562_112026||Kit Restaurax Renova Plástico Aplicador Zacs Luva Nitrílica Cor Roxo
+limpeza-automotiva|11|24.79|1y8RkY3|752805-MLA111156017870_052026||Aspirador Portátil 3 Em 1 Com Soprador e Filtro HEPA Para Carro e Teclado USB
+limpeza-automotiva|12|43.9|2SkDd51|671680-MLA120036135403_102026||Kit Shampoo Automotivo Vonixx V-Floc V-Mol 500ml Lava Autos Neutro e Desincrustante
+limpeza-automotiva|13|29.28|1PvhTbe|803096-MLB117387595362_102026||Caneta Tira Riscos Luxcar Retoque Automotivo Carro Moto Bike Preto
+limpeza-automotiva|14|32.5|2Vzo48a|989031-MLA99448149496_112025||Cera Líquida Carnaúba Vonixx Tok Final Proteção Pintura 500ml + Toalha Microfibra
+limpeza-automotiva|15|21.99|2PUUngb|959131-MLA109894494564_042026||Revitalizador De Plastico Borracha Restaura Max 120ml Maxor
+limpeza-automotiva|16|559|1MpLnee|603572-MLA99545946946_122025||Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza, Esfrega e Extrai
+limpeza-automotiva|17|26.9|1McPpVw|824077-MLB122287190733_112026||Cera Polimento Tira Queimado Riscos Carnauba Automotiva
+limpeza-automotiva|18|74.92|152UB8T|953112-MLB105410343720_012026||Kit Limpeza Hidratação Couro Vonixx Limpa E Hidrata + Pincel
+limpeza-automotiva|19|125.9|1xMisFE|697821-MLA100079435211_122025||Aspirador Vertical Britânia BAS1295P 1250W Preto
+limpeza-automotiva|20|44.45|1fWVKnX|969634-MLA99443031276_112025||Cera Automotiva Vitrificadora Blend Vonixx Carnaúba + Sílica
+limpeza-automotiva|21|19|2hvupFP|845150-MLB116510192004_092026|Removedores de Arranhões|Caneta Pintura Reparadora Permanente Tira Riscos Carro Moto Preto
+limpeza-automotiva|22|19.9|1FzJ6id|656878-MLB111588107731_052026|Removedores de Arranhões|Caneta Tira Riscos Reparadora Pintura Permanente Carro Moto Prateado
+limpeza-automotiva|23|22.85|1hWQfSS|882746-MLA99337673810_112025|Removedores de Arranhões|Caneta Retok Tira Riscos Automotivos Diversas Cores Luxcar Cor Vermelho
+limpeza-automotiva|24|27.23|1Qc3tm9|882645-MLA115150407312_082026|Removedores de Arranhões|Caneta Tira Riscos Pintura Automotiva Carro Moto Cor Preto
+limpeza-automotiva|25|19.28|23UkWtG|977290-MLB94149058995_102025|Removedores de Arranhões|Caneta Pintura Reparadora Permanente Tira Riscos Carro Moto Branca
+limpeza-automotiva|26|22.2|2erYvtS|827629-MLA120003621094_112026|Removedores de Arranhões|Caneta Retok Tira Riscos Branca Repara Pintura De Carros
+limpeza-automotiva|27|19.99|17ieYqV|630544-MLB117176735584_102026|Removedores de Arranhões|Caneta Pintura Tira Riscos Automotiva Moto Diversas Cores
+limpeza-automotiva|28|31.99|1g3T5Ls|678500-MLB109662569055_032026|Removedores de Arranhões|Cera Reparador Arranhões Tira Risco Automotivo Carro Moto
+limpeza-automotiva|29|19.69|2Vrd3DW|811139-MLB89970923773_082025|Removedores de Arranhões|Tira Ferrugem Para Tecidos E Roupas Semorim 50ml
+limpeza-automotiva|30|27.89|1h2xc7c|771086-MLB116506312292_092026|Removedores de Arranhões|Tira Risco Automotivo Luxcar Carros Motos Com Esponja Branco
+oleo-e-fluidos|1|586.03|1umqEhJ|645710-MLA118439242944_102026||Caixa 12 Litros Óleo 5W40 VW Original Maxi Performance
+oleo-e-fluidos|2|32.16|2tDfuFv|754650-MLB113950892355_062026||Fluido De Freio Dot 4 500ml Original Alta Performance
+oleo-e-fluidos|3|21.24|1XZvxbY|770365-MLA119071759928_112026||Aditivo Radiador Orgânico Paraflu Long Life Pronto Uso 1L
+oleo-e-fluidos|4|45.02|2822uSf|758504-MLA113986119870_072026||Aditivo para Combustível - Bardahl MAX S10 - 500ml
+oleo-e-fluidos|5|40|1gg5ECK|923695-MLA120081211808_112026||Óleo Mobil Moto 4T 20W-50 Gasolina 1L
+oleo-e-fluidos|6|43.11|3398RoR|906009-MLA99452522716_112025||Aditivo Para Óleo De Motor Bardahl B12 500ml Vermelho
+oleo-e-fluidos|7|25.3|1mfboLt|633094-MLA117876961130_102026||Aditivo Bardahl para combustivel Flex
+oleo-e-fluidos|8|45.62|2QfNQnL|764691-MLA117480960099_092026||Óleo Para Moto Mobil 10w30 Semissintético 4t 1l
+oleo-e-fluidos|9|52.25|2RGrf9e|668292-MLA99820644267_112025||Óleo Lubrificante Corrente Bardahl Maxlub Kart E Moto
+oleo-e-fluidos|10|94.9|1bN2zDQ|625813-MLA115746567812_092026||Óleo de motor 8100 X-cess gen2 5w-40 carros, picapes e suvs 1 unidade
+oleo-e-fluidos|11|74.5|1L1nHeE|676418-MLA116550093353_082026||Óleo Motul 5100 10w30 Semi-sintético Tecnologia Ester, Proteção E Performance 1lt
+oleo-e-fluidos|12|38.99|32ce8QM|668998-MLA117534402179_092026||Óleo Motor Ipiranga 10w-30 Semi-sintético 4t 1L Para Moto/Quadriciclo
+oleo-e-fluidos|13|34.5|2kBFWxf|733395-MLB113351462797_062026||2x Líquido Radiador Universal Zaker Proteção Pronto Uso 10l Rosa-chiclete
+oleo-e-fluidos|14|42.79|27jyih2|631300-MLA115014673779_072026||Óleo Mobil Super 5w30 Sintético Api SQ Para Motores Flex Gasolina Etanol E Gnv Original
+oleo-e-fluidos|15|44.99|2pNYWQW|716924-MLA120321913025_102026||ÓLEO MOBIL SUPER MOTO 10w30 1L
+oleo-e-fluidos|16|33.99|1kwvQUm|853089-MLA115253306611_072026||Óleo de Motor Lubrax Semissintético 15W-40 API SL GASOLINA FLEX GNV 15W40 Lubrificante 1 Litro
+oleo-e-fluidos|17|20.87|1VkNSpr|746361-MLA99401879954_112025||Aditivos Água Arrefecimento Radiador Pronto Uso Paraflu Cor Rosa-chiclete
+oleo-e-fluidos|18|24.28|1whofi2|799003-MLA112994640764_072026||Aditivo Paraflu 3004 Rosa Pronto Uso 1L
+oleo-e-fluidos|19|25.82|2EbVH1b|772166-MLA99857283827_112025||Graxa Branca De Lítio Spray 300ml Car80
+oleo-e-fluidos|20|59.17|2495aXh|751284-MLA99578749522_122025||Perfect Clean Flex - 500ml (via Tanque)
+oleo-e-fluidos|21|31.12|33SGaCU|661892-MLA116505128711_082026|Carros e Caminhonetes|Óleo Fluido Atf Direção Hidráulica Transmissão Automática 1l Radnaq Avermelhado
+oleo-e-fluidos|22|175|2jE5Kst|749669-MLA98128976993_112025|Carros e Caminhonetes|Óleo 5w40 508 509 Maxi Performance 100% Sintético 4 Litros
+oleo-e-fluidos|23|48.49|1w1YL3x|698339-MLA118198052013_092026|Carros e Caminhonetes|Óleo Shell Helix HX8 5W-30 Sintético API SP 1 Litro
+oleo-e-fluidos|24|200|1GRBTHD|750688-MLA119460673431_102026|Carros e Caminhonetes|Kit 4 Litros De Óleo Motor 5w40 508 09 Shell Vw
+oleo-e-fluidos|25|27.08|1GbF8Hy|736022-MLA120724541943_112026|Carros e Caminhonetes|Óleo Motor Carro 20w50 Mineral Sl Sae 1 Litro Radnaq
+pneus-e-rodas|1|396.14|1th9u46|780385-MLA119554605231_102026||Pneu 175/65R14 Firestone F-600 82T Aro 14
+pneus-e-rodas|2|222.24|1aVmwEx|805524-MLA121825870345_112026||Pneu Moto Maggion Trail Viper 110/90-17 C/c Tras Bros-xre190, Honda NXR Bros 125, 150 e 160, Yamaha XTZ 150 Crosser, Honda XRE 190
+pneus-e-rodas|3|369.9|1T9GB61|939753-MLA99935674227_112025||Pneu 175/65R14 Continental PowerContact 2 82T Aro 14
+pneus-e-rodas|4|19.99|1xygNsc|857854-MLA99884660323_112025||Câmara De Ar Kenda Aro 29 x 1.90-2.30 A/V Tipo da válvula Schrader
+pneus-e-rodas|5|29.39|28PNZnE|900627-MLB112888919967_062026||Vacina De Pneu Para Moto Xtire Selante Preventivo Anti Furo
+pneus-e-rodas|6|239.9|1SJosVd|664840-MLB117363498244_102026||Pneu Aro 13 175/75r13 85t Golden Crown Rp68 Standard By Westlake T
+pneus-e-rodas|7|175.99|18Jni1V|659384-MLA99815681957_112025||Maggion Street Winner 90/90-18 Delantera
+pneus-e-rodas|8|395.91|2EYAMac|620538-MLB119798732066_112026||Pneu Aro 16 205/55r16 Goodyear 91 V
+pneus-e-rodas|9|30.9|294Kb8q|868413-MLA99444295198_112025||KIT 2 Camaras De Ar Bicicleta Bike Aro 26 - Bico Grosso Tipo da válvula Schrader
+pneus-e-rodas|10|60.59|26sDYqm|809518-MLB112047432805_052026||Kit 2 Vacina De Pneu Moto Xtire Selante Preventivo Veda Furo
+pneus-e-rodas|11|265.68|2ACCSNH|749828-MLA116136613531_082026||Pneu Easymax Aro 15 Evoxx Nx 195/55r15 85v V
+pneus-e-rodas|12|405.41|18JaSj6|611846-MLA117251486916_102026||Pneu 175/65r14 Goodyear Kelly Edge Touring 2 86h Aro 14 Índice de Velocidade H
+pneus-e-rodas|13|365|25nU7bz|774098-MLA99820783341_112025||Pneu 175/70r13 Kelly Edge Touring Goodyear 82t
+pneus-e-rodas|14|301.49|1MSCuJH|897712-MLA84608598435_052025||Pneu Direction 2 Touring Aro 13 175/70r13 82t Goodyear
+pneus-e-rodas|15|162.23|2uBj5wn|636946-MLA100084587925_122025||Pneu 90/90-18 Winner Cg 150 Fan Start Cbx 150 Maggion
+pneus-e-rodas|16|319.41|2LEYf7z|613917-MLB121006594743_112026||Pneu Aro 14 175/65r14 Goodyear 86h Maxlife Assuranc H
+pneus-e-rodas|17|66|32uGLSN|669101-MLB117060745524_102026||Pneu Carrinho De Mão Não Fura Maciço Completo Universal A1
+pneus-e-rodas|18|269.99|19sYDAM|966251-MLA121820094181_112026||80/100-18 PNEU MOTO Michelin City Extra CG125,CG150,CG160,YBR 125, Factor125/150,Fazer150,Yes125, Intruder125,
+pneus-e-rodas|19|484.21|1JM3Kp6|981162-MLA117930777200_102026||Pneu 195/60R15 Firestone F-600 88H Aro 15
+pneus-e-rodas|20|328.97|1dCHXLa|856029-MLA99935519985_112025||Pneu Itaro Aro 14 It108 175/70r14c 95/93t
+pneus-e-rodas|21|22.98|2LVpTJy|814607-MLB116221997298_092026||Kit Reparo Pneu Remendo Profissional Carro Moto +15 Macarrão
+pneus-e-rodas|22|41.87|2vmcma3|962693-MLA112221567966_062026||Kit Reparo Pneu Sem Câmara + Maleta 20 Remendos Moto E Carro Gurumania
+pneus-e-rodas|23|24.9|16MoJ22|793496-MLA99926989855_112025||Reparador De Pneu Para Carro/caminhonete Mundial Prime Mp10 400 ML
+pneus-e-rodas|24|33.49|2oyqUEz|876315-MLA118753204234_102026||Kit Remendo Para Pneu Com Ferramentas e Macarrão - Reparo Pneu Sem Câmara Para Carro E Moto - Alvix
+pneus-e-rodas|25|73.99|2Z2Qqff|975536-MLB78826580347_082024||4 Reparo Pneu Instantâneo Furo Veda Enche Carro Moto Bike
+pneus-e-rodas|26|603.51|1yXPu93|795295-MLB108869187531_032026||Jogo Roda Pé De Galinha Titan Fan 150 160 Liga Leve A Disco Preto
+pneus-e-rodas|27|19|2VKkwb7|746497-MLA105478333635_012026||Kit Ferramenta Reparo Pneu Remendo Profissional Carro Moto Total 13 Macarrão Refil Stronex
+pneus-e-rodas|28|54.9|1RXAgFD|780783-MLA99449830596_112025||Vulcanite Para Vulcanização A Quente Rolo Vipal 1kg
+pneus-e-rodas|29|245.7|2aCrpEN|937510-MLA102681119855_122025||Roda Traseira Completa Patim Bucha Rola Titan 150 2004/2008
+pneus-e-rodas|30|19.38|1jojsPY|625372-MLB119922864179_102026||Kit 10 Parafusos Pregos Borracha Reparo De Pneus Sem Câmara
+ferramentas-para-carro|1|38.61|2knA1Xj|636812-MLA120529755972_112026||Carregador de Bateria 12V 6A Bivolt Inteligente Carro Moto Caminhão Automotivo 4Ah a 100Ah Com Função Reparo Display Digital Proteção Carga Emergencia Portátil Resistente Eficiente Multifuncional
+ferramentas-para-carro|2|56.87|33SoUz5|842487-MLA120158163710_112026||Compressor de Ar Portátil VERUNTO VER-B15 com Tela Digital para Carro, Moto e Bicicleta
+ferramentas-para-carro|3|39.99|2okyozY|712572-MLA119455735087_102026||Carregador Inteligente De Bateria Automotiva 12v 6a Bivolt Recupera Baterias 4ah A 100ah Todos Veículos Moto Carro Caminhão Barco Woosh
+ferramentas-para-carro|4|141.07|1BuVQVR|919649-MLA112122698633_052026||Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta Inflador Automotivo Cor Preto
+ferramentas-para-carro|5|20.9|1SKrLGy|886444-MLB95702648919_102025||Scanner Automotivo Bluetooth Obd2 Eml 327 Android Ios Obdii
+ferramentas-para-carro|6|150.65|1ZdjtPi|983870-MLB115020123038_082026||Compressor De Ar Portátil Auxiliar Partida Digital 4 Em 1 Preto 127/220v
+ferramentas-para-carro|7|151.71|2DZSwTD|973555-MLA115777841187_082026||Auxiliar de Partida Carregador Bateria e Compressor de Ar Portátil 6 em 1 Inteligente para Carro, Moto e Bicicleta com Lanterna e Power Bank
+ferramentas-para-carro|8|147.81|2inypRn|651707-MLA99834339123_112025||Macaco Hidraulico Tipo Jacare Até 2 Toneladas Elevação 125-300mm 510085 Com Caixa Plástica Sparta
+ferramentas-para-carro|9|153.9|13xNDTX|705638-MLA117768512089_092026||Auxiliar de Partida Carregador Bateria Com Compressor De Ar Portátil Veicular Emergência 6 em 1 Inteligente Digital 12V Calibrador Pneu Automotivo Lanterna LED Moto SUV Bike Caminhonete Marca Nixzen
+ferramentas-para-carro|10|138.69|2sqMazv|665361-MLB117090185945_092026||Auxiliar Partida Bateria Portátil Compressor Ar Emergência
+ferramentas-para-carro|11|147.19|2qrHPVB|753959-MLA121669231157_112026||Auxiliar De Partida Bateria Carro Compressor De Ar Portátil 12V 4 funções em 1 Inflador Digital Calibrador Pneu Power Bank Lanterna LED Emergência Automotiva Moto SUV Bicicleta Caminhonete MidiaFone
+ferramentas-para-carro|12|139.23|2kZU7wC|873588-MLA112878636368_072026||Auxiliar de Partida Carregador Bateria Com Compressor de Ar Emergência Portátil Veicular Floots Automotivo
+ferramentas-para-carro|13|145.64|2YGa4L9|850643-MLA118386869375_092026||Auxiliar de Partida e Compressor de Ar Portátil Floots com Lanterna LED e Power Bank para Carro, Moto e Bicicleta
+ferramentas-para-carro|14|41.7|14ANekZ|909498-MLB96584588157_102025||Carregador Bateria 12v Até 100 Amperes Carro Moto Caminhão
+ferramentas-para-carro|15|78.9|1CwmJTN|632898-MLB106954853128_022026||Macaco Hidráulico Vermelho Garrafa 3 Toneladas Para Carro
+ferramentas-para-carro|16|64.39|2fMJKi7|673819-MLA112851730885_062026||Compressor De Ar Mini Bomba Calibrador De Ar Portátil Recarregável Para Pneus De Bicicleta Moto Carro Bolas Infláveis
+ferramentas-para-carro|17|62.99|12QHEAw|943711-MLA109790901713_032026||Mini Compressor De Ar Digital Portátil Para Pneus Recarregável Com Lanterna Carro Moto Bolas
+ferramentas-para-carro|18|109.99|1UfmcvB|927494-MLB117384473110_102026||Mini Compressor Ar Calibrador Encher Pneu Portátil Digital Preto/laranja
+ferramentas-para-carro|19|78.99|1K1Q7UZ|831859-MLA99362460488_112025||Carregador de Bateria Automotivo Trafotron CV5AH para Carro e Moto 12V até 300A, com Voltímetro Digital e Carga Flutuante
+ferramentas-para-carro|20|55.71|2tfgSxJ|844343-MLA119023475490_112026||Mini Compressor de Ar Digital Portátil Recarregável USB-C para Pneus de Carro, Moto e Bicicleta Inflador Elétrico de Bolas e Infláveis Display LCD Alta Pressão Sem Fio Preto Aquanano
+ferramentas-para-carro|21|23.99|1Usq3LQ|738613-MLB114993284652_082026|Chaves|Chave Saca Filtro Universal Ajustável Oficina 60 A 120mm
+ferramentas-para-carro|22|38.78|2Z584yf|799733-MLA96890665292_112025|Chaves|Chave De Roda Cruz Estrela 4 Bocas 17mm 19mm 21mm 23mm Aço Universal Carro Profissional 35cm Troca Pneu Blueforce
+ferramentas-para-carro|23|21.9|1ur7Vem|678391-MLB83203125476_042025|Chaves|Chave Saca Filtro Cinta Regulavel De 60mm A 120mm Universal
+ferramentas-para-carro|24|33.19|1ig7SgM|704689-MLA120144739728_112026|Chaves|Chave De Roda Alongável Telescópica 17/19/21/23mm Universal
+ferramentas-para-carro|25|38.95|2ESfBSB|977004-MLA110317696043_042026|Chaves|Chave De Roda Cruz 17 19 21 23mm Aço Q235 Automotiva Apertar Soltar Porcas Pneus Carro Utilitário Oficina Manutenção Ferramenta Resistente
+ferramentas-para-carro|26|19.49|1v6A3pH|976413-MLA99841042849_112025|Chaves|Chave Grifo Multifuncional 8 em 1 de Aço para Reparo e Manutenção de Pias
+ferramentas-para-carro|27|21.65|2dsCeai|756945-MLA110801964166_052026|Chaves|Chave Hidráulica Canhão 8 em 1 para Instalação e Manutenção de Torneiras
+ferramentas-para-carro|28|19.27|2AqECS2|992265-MLA99335973376_112025|Chaves|Chave Catraca Universal para Troca de Pneu e Roda com Macaco Hidráulico
+ferramentas-para-carro|29|23.9|1FGZFBS|982843-MLA115314964416_082026|Chaves|Jogo Chave Fixa C/6pçs 6x7,8x9,10x11,12x13,14x15,16x17mm
+ferramentas-para-carro|30|34.97|27RPfYa|737172-MLA115076901949_072026|Chaves|Chave de Roda Cruz Kvali Universal de Aço para Pneus 17 19 21 23mm
