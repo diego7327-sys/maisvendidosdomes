@@ -70,6 +70,9 @@ footer .in{max-width:1080px;margin:0 auto;padding:22px max(16px,env(safe-area-in
 .home-mv{margin-top:36px}.lede-x{font-size:19px;color:var(--muted);max-width:62ch}
 @media (max-width:560px){.mv-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.mv-card{padding:10px}.mv-title{font-size:14px}.mv-card .price{font-size:17px}.mv-card .price small{display:block}}
 
+.cheap{font:600 13px/1.35 var(--f-ui);color:#166534;background:#dcfce7;border-radius:6px;padding:5px 8px}
+.cheap small{display:block;font-weight:500;color:#3f6212}
+@media (prefers-color-scheme:dark){.cheap{background:#14321f;color:#86efac}.cheap small{color:#bef264}}
 .brand b{font:800 12px/1 var(--f-ui);background:#facc15;color:#1b2328;border-radius:6px;padding:6px 6px;letter-spacing:.04em}
 .brand span{display:flex;flex-direction:column;line-height:1.05}
 .brand small{font:600 11px var(--f-ui);letter-spacing:.06em;text-transform:uppercase;color:#7ee0cf}
